@@ -1,0 +1,1 @@
+../../../pool/sync/perl-color-calc-1.074-7-any.pkg.tar.zst.sig

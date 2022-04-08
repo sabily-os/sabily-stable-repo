@@ -1,0 +1,1 @@
+../../../pool/overlay/xdg-desktop-portal-kde-5.24.2.r438.gd12c437-1-x86_64.pkg.tar.zst.sig

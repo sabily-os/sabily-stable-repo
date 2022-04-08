@@ -1,0 +1,1 @@
+../../../pool/sync/xcircuit-3.10.30-1-x86_64.pkg.tar.zst.sig

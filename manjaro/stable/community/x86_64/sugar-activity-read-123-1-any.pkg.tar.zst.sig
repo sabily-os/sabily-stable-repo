@@ -1,0 +1,1 @@
+../../../pool/sync/sugar-activity-read-123-1-any.pkg.tar.zst.sig

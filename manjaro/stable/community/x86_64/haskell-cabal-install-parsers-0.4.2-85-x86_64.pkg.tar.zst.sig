@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-cabal-install-parsers-0.4.2-85-x86_64.pkg.tar.zst.sig

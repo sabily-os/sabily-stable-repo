@@ -1,0 +1,1 @@
+../../../pool/sync/avogadrolibs-qt5-1.95.1-7-x86_64.pkg.tar.zst.sig

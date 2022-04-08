@@ -1,0 +1,1 @@
+../../../pool/sync/libmpdclient-2.20-2-x86_64.pkg.tar.zst.sig

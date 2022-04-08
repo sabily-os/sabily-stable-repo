@@ -1,0 +1,1 @@
+../../../pool/sync/python-mpd2-3.0.5-2-any.pkg.tar.zst.sig

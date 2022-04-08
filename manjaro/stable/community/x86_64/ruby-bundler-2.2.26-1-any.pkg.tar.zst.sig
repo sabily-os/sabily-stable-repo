@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-bundler-2.2.26-1-any.pkg.tar.zst.sig

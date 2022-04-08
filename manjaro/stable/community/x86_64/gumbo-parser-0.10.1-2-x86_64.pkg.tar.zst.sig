@@ -1,0 +1,1 @@
+../../../pool/sync/gumbo-parser-0.10.1-2-x86_64.pkg.tar.zst.sig

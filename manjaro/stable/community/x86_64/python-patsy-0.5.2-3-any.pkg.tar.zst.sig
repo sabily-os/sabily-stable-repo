@@ -1,0 +1,1 @@
+../../../pool/sync/python-patsy-0.5.2-3-any.pkg.tar.zst.sig

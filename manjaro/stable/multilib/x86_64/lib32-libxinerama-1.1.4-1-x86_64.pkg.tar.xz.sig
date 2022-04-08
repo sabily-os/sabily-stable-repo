@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libxinerama-1.1.4-1-x86_64.pkg.tar.xz.sig

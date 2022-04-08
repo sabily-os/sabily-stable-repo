@@ -1,0 +1,1 @@
+../../../pool/sync/switchboard-plug-security-privacy-2.3.0-2-x86_64.pkg.tar.zst.sig

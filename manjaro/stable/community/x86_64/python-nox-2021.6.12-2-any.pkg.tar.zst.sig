@@ -1,0 +1,1 @@
+../../../pool/sync/python-nox-2021.6.12-2-any.pkg.tar.zst.sig

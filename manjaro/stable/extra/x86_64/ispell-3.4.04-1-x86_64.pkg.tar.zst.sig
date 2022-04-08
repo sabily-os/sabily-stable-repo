@@ -1,0 +1,1 @@
+../../../pool/sync/ispell-3.4.04-1-x86_64.pkg.tar.zst.sig

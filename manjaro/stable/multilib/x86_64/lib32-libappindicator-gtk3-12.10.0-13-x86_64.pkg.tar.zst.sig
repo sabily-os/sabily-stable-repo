@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libappindicator-gtk3-12.10.0-13-x86_64.pkg.tar.zst.sig

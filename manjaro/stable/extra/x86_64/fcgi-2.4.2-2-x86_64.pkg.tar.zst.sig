@@ -1,0 +1,1 @@
+../../../pool/sync/fcgi-2.4.2-2-x86_64.pkg.tar.zst.sig

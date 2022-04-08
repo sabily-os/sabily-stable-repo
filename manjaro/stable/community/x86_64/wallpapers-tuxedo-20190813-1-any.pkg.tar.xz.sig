@@ -1,0 +1,1 @@
+../../../pool/overlay/wallpapers-tuxedo-20190813-1-any.pkg.tar.xz.sig

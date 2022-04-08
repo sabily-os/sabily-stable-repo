@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-x11-1.10.2-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/lua-stdlib-41.2.2-8-any.pkg.tar.zst.sig

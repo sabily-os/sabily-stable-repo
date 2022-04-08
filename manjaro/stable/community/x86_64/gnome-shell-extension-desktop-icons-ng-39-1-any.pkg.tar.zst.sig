@@ -1,0 +1,1 @@
+../../../pool/overlay/gnome-shell-extension-desktop-icons-ng-39-1-any.pkg.tar.zst.sig

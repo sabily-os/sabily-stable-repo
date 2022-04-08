@@ -1,0 +1,1 @@
+../../../pool/sync/txt2man-1.7.1-2-any.pkg.tar.zst.sig

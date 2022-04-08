@@ -1,0 +1,1 @@
+../../../pool/sync/mate-control-center-1.26.0-3-x86_64.pkg.tar.zst.sig

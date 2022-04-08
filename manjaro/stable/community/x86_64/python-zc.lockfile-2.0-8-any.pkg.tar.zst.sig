@@ -1,0 +1,1 @@
+../../../pool/sync/python-zc.lockfile-2.0-8-any.pkg.tar.zst.sig

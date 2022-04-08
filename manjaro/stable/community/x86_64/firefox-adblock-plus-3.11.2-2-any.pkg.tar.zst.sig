@@ -1,0 +1,1 @@
+../../../pool/sync/firefox-adblock-plus-3.11.2-2-any.pkg.tar.zst.sig

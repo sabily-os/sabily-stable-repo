@@ -1,0 +1,1 @@
+../../../pool/overlay/calamares-tools-r10.1d7b2b0-1-any.pkg.tar.xz.sig

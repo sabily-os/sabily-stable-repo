@@ -1,0 +1,1 @@
+../../../pool/sync/ldc-3:1.28.1-2-x86_64.pkg.tar.zst.sig

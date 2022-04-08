@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-polyglot-0.3.5-8-any.pkg.tar.zst.sig

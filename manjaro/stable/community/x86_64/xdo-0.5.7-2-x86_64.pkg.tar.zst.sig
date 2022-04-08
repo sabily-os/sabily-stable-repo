@@ -1,0 +1,1 @@
+../../../pool/sync/xdo-0.5.7-2-x86_64.pkg.tar.zst.sig

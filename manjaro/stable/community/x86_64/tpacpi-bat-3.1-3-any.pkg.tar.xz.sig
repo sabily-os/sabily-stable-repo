@@ -1,0 +1,1 @@
+../../../pool/sync/tpacpi-bat-3.1-3-any.pkg.tar.xz.sig

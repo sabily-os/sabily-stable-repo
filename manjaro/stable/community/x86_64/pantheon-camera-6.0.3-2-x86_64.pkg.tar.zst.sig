@@ -1,0 +1,1 @@
+../../../pool/sync/pantheon-camera-6.0.3-2-x86_64.pkg.tar.zst.sig

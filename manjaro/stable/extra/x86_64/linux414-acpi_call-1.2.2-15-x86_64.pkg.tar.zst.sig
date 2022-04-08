@@ -1,0 +1,1 @@
+../../../pool/overlay/linux414-acpi_call-1.2.2-15-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/obconf-2.0.4-7-x86_64.pkg.tar.zst.sig

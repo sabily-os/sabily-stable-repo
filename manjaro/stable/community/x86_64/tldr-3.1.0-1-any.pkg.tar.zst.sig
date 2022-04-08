@@ -1,0 +1,1 @@
+../../../pool/sync/tldr-3.1.0-1-any.pkg.tar.zst.sig

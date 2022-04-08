@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-quickcheck-classes-0.6.5.0-58-x86_64.pkg.tar.zst.sig

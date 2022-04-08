@@ -1,0 +1,1 @@
+../../../pool/sync/python-promise-2.3.0-5-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-path_expander-1.1.0-3-any.pkg.tar.zst.sig

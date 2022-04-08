@@ -1,0 +1,1 @@
+../../../pool/sync/perl-www-robotrules-6.02-9-any.pkg.tar.zst.sig

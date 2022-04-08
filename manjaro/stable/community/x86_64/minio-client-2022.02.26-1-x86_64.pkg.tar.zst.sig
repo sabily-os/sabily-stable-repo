@@ -1,0 +1,1 @@
+../../../pool/sync/minio-client-2022.02.26-1-x86_64.pkg.tar.zst.sig

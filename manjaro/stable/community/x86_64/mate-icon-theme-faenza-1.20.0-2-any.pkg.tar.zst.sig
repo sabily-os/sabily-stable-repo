@@ -1,0 +1,1 @@
+../../../pool/sync/mate-icon-theme-faenza-1.20.0-2-any.pkg.tar.zst.sig

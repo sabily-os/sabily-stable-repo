@@ -1,0 +1,1 @@
+../../../pool/sync/k9s-0.25.18-1-x86_64.pkg.tar.zst.sig

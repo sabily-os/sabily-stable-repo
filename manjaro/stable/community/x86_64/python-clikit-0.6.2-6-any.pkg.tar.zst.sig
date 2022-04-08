@@ -1,0 +1,1 @@
+../../../pool/sync/python-clikit-0.6.2-6-any.pkg.tar.zst.sig

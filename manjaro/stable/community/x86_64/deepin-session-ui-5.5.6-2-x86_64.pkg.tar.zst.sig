@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-session-ui-5.5.6-2-x86_64.pkg.tar.zst.sig

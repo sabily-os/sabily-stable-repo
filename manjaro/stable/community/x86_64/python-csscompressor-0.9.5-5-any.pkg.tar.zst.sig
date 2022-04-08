@@ -1,0 +1,1 @@
+../../../pool/sync/python-csscompressor-0.9.5-5-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-debian-0.1.43-1-any.pkg.tar.zst.sig

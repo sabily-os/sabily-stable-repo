@@ -1,0 +1,1 @@
+../../../pool/sync/python-llvmlite-0.38.0-1-x86_64.pkg.tar.zst.sig

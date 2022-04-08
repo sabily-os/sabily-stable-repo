@@ -1,0 +1,1 @@
+../../../pool/sync/geoip-1.6.12-2-x86_64.pkg.tar.zst.sig

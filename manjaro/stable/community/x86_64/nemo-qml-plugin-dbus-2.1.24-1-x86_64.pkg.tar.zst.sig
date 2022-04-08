@@ -1,0 +1,1 @@
+../../../pool/overlay/nemo-qml-plugin-dbus-2.1.24-1-x86_64.pkg.tar.zst.sig

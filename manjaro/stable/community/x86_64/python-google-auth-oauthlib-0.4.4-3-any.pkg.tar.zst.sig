@@ -1,0 +1,1 @@
+../../../pool/sync/python-google-auth-oauthlib-0.4.4-3-any.pkg.tar.zst.sig

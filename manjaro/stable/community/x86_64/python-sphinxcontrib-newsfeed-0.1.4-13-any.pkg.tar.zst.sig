@@ -1,0 +1,1 @@
+../../../pool/sync/python-sphinxcontrib-newsfeed-0.1.4-13-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/openmotif-2.3.8-3-x86_64.pkg.tar.zst.sig

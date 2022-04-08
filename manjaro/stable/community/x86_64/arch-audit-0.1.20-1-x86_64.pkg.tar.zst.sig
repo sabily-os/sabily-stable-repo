@@ -1,0 +1,1 @@
+../../../pool/sync/arch-audit-0.1.20-1-x86_64.pkg.tar.zst.sig

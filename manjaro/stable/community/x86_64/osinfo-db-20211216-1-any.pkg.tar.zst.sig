@@ -1,0 +1,1 @@
+../../../pool/sync/osinfo-db-20211216-1-any.pkg.tar.zst.sig

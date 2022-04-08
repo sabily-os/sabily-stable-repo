@@ -1,0 +1,1 @@
+../../../pool/overlay/nx-kvantum-theme-r74.021e7d4-1-any.pkg.tar.zst.sig

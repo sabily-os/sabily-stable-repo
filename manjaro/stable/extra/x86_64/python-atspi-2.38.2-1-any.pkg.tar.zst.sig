@@ -1,0 +1,1 @@
+../../../pool/sync/python-atspi-2.38.2-1-any.pkg.tar.zst.sig

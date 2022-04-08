@@ -1,0 +1,1 @@
+../../../pool/overlay/plasma-nm-5.24.2.r3212.g82c714f6-1-x86_64.pkg.tar.zst.sig

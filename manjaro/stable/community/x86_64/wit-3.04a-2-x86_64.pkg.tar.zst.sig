@@ -1,0 +1,1 @@
+../../../pool/sync/wit-3.04a-2-x86_64.pkg.tar.zst.sig

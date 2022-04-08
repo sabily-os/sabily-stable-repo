@@ -1,0 +1,1 @@
+../../../pool/sync/arch-install-scripts-24-2-any.pkg.tar.zst.sig

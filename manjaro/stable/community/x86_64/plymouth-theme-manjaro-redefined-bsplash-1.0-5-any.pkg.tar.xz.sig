@@ -1,0 +1,1 @@
+../../../pool/overlay/plymouth-theme-manjaro-redefined-bsplash-1.0-5-any.pkg.tar.xz.sig

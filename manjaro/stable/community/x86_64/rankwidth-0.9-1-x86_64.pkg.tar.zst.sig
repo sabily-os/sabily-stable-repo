@@ -1,0 +1,1 @@
+../../../pool/sync/rankwidth-0.9-1-x86_64.pkg.tar.zst.sig

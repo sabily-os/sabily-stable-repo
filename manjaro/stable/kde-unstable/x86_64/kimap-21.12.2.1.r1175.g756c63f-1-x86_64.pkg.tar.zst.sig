@@ -1,0 +1,1 @@
+../../../pool/overlay/kimap-21.12.2.1.r1175.g756c63f-1-x86_64.pkg.tar.zst.sig

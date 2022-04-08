@@ -1,0 +1,1 @@
+../../../pool/sync/python-deprecated-1.2.13-3-any.pkg.tar.zst.sig

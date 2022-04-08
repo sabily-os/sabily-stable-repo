@@ -1,0 +1,1 @@
+../../../pool/sync/python-slip-0.6.5-7-any.pkg.tar.zst.sig

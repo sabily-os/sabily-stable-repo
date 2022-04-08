@@ -1,0 +1,1 @@
+../../../pool/sync/alacarte-1:3.42.0-2-any.pkg.tar.zst.sig

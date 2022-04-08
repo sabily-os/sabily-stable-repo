@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-one-liner-2.0-58-x86_64.pkg.tar.zst.sig

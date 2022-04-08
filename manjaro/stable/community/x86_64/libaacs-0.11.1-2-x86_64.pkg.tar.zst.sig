@@ -1,0 +1,1 @@
+../../../pool/sync/libaacs-0.11.1-2-x86_64.pkg.tar.zst.sig

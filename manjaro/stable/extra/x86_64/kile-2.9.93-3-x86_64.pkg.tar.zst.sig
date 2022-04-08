@@ -1,0 +1,1 @@
+../../../pool/sync/kile-2.9.93-3-x86_64.pkg.tar.zst.sig

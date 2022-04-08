@@ -1,0 +1,1 @@
+../../../pool/sync/perl-fcgi-0.82-1-x86_64.pkg.tar.zst.sig

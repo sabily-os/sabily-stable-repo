@@ -1,0 +1,1 @@
+../../../pool/sync/perl-shell-command-0.06-3-any.pkg.tar.zst.sig

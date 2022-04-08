@@ -1,0 +1,1 @@
+../../../pool/sync/libreoffice-fresh-sat-7.3.1-1-any.pkg.tar.zst.sig

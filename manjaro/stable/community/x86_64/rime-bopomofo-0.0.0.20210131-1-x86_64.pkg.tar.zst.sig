@@ -1,0 +1,1 @@
+../../../pool/sync/rime-bopomofo-0.0.0.20210131-1-x86_64.pkg.tar.zst.sig

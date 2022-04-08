@@ -1,0 +1,1 @@
+../../../pool/sync/latte-dock-0.10.8-1-x86_64.pkg.tar.zst.sig

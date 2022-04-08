@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-language-python-0.5.8-85-x86_64.pkg.tar.zst.sig

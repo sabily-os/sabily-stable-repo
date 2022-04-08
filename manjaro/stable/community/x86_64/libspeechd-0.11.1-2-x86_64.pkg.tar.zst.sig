@@ -1,0 +1,1 @@
+../../../pool/sync/libspeechd-0.11.1-2-x86_64.pkg.tar.zst.sig

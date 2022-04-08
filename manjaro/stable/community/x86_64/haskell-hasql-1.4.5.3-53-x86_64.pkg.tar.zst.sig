@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-hasql-1.4.5.3-53-x86_64.pkg.tar.zst.sig

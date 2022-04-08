@@ -1,0 +1,1 @@
+../../../pool/sync/python-schedutils-0.6-11-x86_64.pkg.tar.zst.sig

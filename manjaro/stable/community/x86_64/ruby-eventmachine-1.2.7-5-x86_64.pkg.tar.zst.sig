@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-eventmachine-1.2.7-5-x86_64.pkg.tar.zst.sig

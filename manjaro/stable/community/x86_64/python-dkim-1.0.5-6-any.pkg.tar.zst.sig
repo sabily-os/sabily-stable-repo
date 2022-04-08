@@ -1,0 +1,1 @@
+../../../pool/sync/python-dkim-1.0.5-6-any.pkg.tar.zst.sig

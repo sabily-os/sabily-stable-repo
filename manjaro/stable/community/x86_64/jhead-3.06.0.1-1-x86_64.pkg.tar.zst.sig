@@ -1,0 +1,1 @@
+../../../pool/sync/jhead-3.06.0.1-1-x86_64.pkg.tar.zst.sig

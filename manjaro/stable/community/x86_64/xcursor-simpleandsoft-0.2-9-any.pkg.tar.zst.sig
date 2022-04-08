@@ -1,0 +1,1 @@
+../../../pool/sync/xcursor-simpleandsoft-0.2-9-any.pkg.tar.zst.sig

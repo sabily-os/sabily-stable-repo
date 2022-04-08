@@ -1,0 +1,1 @@
+../../../pool/overlay/kdeconnect-21.12.2.1.r3405.g3ee78ead-1-x86_64.pkg.tar.zst.sig

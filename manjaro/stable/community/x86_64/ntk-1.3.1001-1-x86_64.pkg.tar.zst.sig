@@ -1,0 +1,1 @@
+../../../pool/sync/ntk-1.3.1001-1-x86_64.pkg.tar.zst.sig

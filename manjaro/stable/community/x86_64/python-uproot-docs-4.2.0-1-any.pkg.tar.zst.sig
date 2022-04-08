@@ -1,0 +1,1 @@
+../../../pool/sync/python-uproot-docs-4.2.0-1-any.pkg.tar.zst.sig

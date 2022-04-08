@@ -1,0 +1,1 @@
+../../../pool/sync/perl-app-cli-0.52-2-any.pkg.tar.zst.sig

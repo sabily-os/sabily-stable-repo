@@ -1,0 +1,1 @@
+../../../pool/sync/supercollider-3.12.2-1-x86_64.pkg.tar.zst.sig

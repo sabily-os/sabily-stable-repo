@@ -1,0 +1,1 @@
+../../../pool/sync/python-protego-0.1.16-5-any.pkg.tar.zst.sig

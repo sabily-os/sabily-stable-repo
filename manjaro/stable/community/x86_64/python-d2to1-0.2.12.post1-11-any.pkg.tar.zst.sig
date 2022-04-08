@@ -1,0 +1,1 @@
+../../../pool/sync/python-d2to1-0.2.12.post1-11-any.pkg.tar.zst.sig

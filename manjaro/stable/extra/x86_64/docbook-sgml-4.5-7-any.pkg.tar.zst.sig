@@ -1,0 +1,1 @@
+../../../pool/sync/docbook-sgml-4.5-7-any.pkg.tar.zst.sig

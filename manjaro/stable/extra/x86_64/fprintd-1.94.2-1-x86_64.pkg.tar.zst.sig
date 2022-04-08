@@ -1,0 +1,1 @@
+../../../pool/sync/fprintd-1.94.2-1-x86_64.pkg.tar.zst.sig

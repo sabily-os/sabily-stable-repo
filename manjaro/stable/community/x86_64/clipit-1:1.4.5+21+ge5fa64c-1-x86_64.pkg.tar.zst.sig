@@ -1,0 +1,1 @@
+../../../pool/overlay/clipit-1:1.4.5+21+ge5fa64c-1-x86_64.pkg.tar.zst.sig

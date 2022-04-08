@@ -1,0 +1,1 @@
+../../../pool/overlay/brave-browser-1.37.109-2-x86_64.pkg.tar.zst.sig

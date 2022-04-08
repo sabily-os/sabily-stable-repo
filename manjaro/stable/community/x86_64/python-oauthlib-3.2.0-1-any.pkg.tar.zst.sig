@@ -1,0 +1,1 @@
+../../../pool/sync/python-oauthlib-3.2.0-1-any.pkg.tar.zst.sig

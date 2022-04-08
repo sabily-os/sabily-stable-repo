@@ -1,0 +1,1 @@
+../../../pool/sync/intel-graphics-compiler-1:1.0.10409-1-x86_64.pkg.tar.zst.sig

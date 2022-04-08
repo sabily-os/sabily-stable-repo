@@ -1,0 +1,1 @@
+../../../pool/overlay/kdebugsettings-21.12.2.1.r894.gf95f82d-1-x86_64.pkg.tar.zst.sig

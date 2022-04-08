@@ -1,0 +1,1 @@
+../../../pool/sync/acpid-2.0.33-1-x86_64.pkg.tar.zst.sig

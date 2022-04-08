@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-shell-escape-0.2.0-131-x86_64.pkg.tar.zst.sig

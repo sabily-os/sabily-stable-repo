@@ -1,0 +1,1 @@
+../../../pool/sync/svt-vp9-0.3.0-2-x86_64.pkg.tar.zst.sig

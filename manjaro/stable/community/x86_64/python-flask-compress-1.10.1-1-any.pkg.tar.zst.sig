@@ -1,0 +1,1 @@
+../../../pool/sync/python-flask-compress-1.10.1-1-any.pkg.tar.zst.sig

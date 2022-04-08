@@ -1,0 +1,1 @@
+../../../pool/sync/gtkspell-2.0.16-8-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-bspwm-settings-minimal-20200804-1-any.pkg.tar.zst.sig

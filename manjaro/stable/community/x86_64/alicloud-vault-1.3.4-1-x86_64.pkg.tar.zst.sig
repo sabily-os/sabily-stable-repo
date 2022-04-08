@@ -1,0 +1,1 @@
+../../../pool/sync/alicloud-vault-1.3.4-1-x86_64.pkg.tar.zst.sig

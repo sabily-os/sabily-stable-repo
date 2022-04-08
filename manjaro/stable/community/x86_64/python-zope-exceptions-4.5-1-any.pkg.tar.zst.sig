@@ -1,0 +1,1 @@
+../../../pool/sync/python-zope-exceptions-4.5-1-any.pkg.tar.zst.sig

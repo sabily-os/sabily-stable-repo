@@ -1,0 +1,1 @@
+../../../pool/overlay/i3-wallpapers-20151103-2-any.pkg.tar.xz.sig

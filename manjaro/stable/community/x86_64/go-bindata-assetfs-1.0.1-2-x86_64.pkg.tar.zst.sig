@@ -1,0 +1,1 @@
+../../../pool/sync/go-bindata-assetfs-1.0.1-2-x86_64.pkg.tar.zst.sig

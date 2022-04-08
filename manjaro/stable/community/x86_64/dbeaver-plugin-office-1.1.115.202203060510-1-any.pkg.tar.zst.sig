@@ -1,0 +1,1 @@
+../../../pool/sync/dbeaver-plugin-office-1.1.115.202203060510-1-any.pkg.tar.zst.sig

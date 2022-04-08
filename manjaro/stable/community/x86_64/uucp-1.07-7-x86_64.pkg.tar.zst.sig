@@ -1,0 +1,1 @@
+../../../pool/sync/uucp-1.07-7-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-warlock-1.3.3-7-any.pkg.tar.zst.sig

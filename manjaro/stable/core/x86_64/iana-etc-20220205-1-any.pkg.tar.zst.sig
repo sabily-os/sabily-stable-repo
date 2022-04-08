@@ -1,0 +1,1 @@
+../../../pool/sync/iana-etc-20220205-1-any.pkg.tar.zst.sig

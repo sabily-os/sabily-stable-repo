@@ -1,0 +1,1 @@
+../../../pool/sync/jupyterlab-widgets-1.0.2-2-any.pkg.tar.zst.sig

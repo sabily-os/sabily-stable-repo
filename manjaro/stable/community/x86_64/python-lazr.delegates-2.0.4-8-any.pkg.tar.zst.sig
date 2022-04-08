@@ -1,0 +1,1 @@
+../../../pool/sync/python-lazr.delegates-2.0.4-8-any.pkg.tar.zst.sig

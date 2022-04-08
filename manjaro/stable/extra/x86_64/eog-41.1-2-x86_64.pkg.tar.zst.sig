@@ -1,0 +1,1 @@
+../../../pool/sync/eog-41.1-2-x86_64.pkg.tar.zst.sig

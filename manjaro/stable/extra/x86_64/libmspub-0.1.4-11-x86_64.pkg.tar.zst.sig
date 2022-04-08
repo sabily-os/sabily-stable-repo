@@ -1,0 +1,1 @@
+../../../pool/sync/libmspub-0.1.4-11-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-set-infinite-0.65-6-any.pkg.tar.zst.sig

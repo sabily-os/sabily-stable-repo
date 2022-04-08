@@ -1,0 +1,1 @@
+../../../pool/sync/python-pure-eval-0.2.2-1-any.pkg.tar.zst.sig

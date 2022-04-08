@@ -1,0 +1,1 @@
+../../../pool/sync/python-iwlib-1.7.0-4-x86_64.pkg.tar.zst.sig

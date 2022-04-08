@@ -1,0 +1,1 @@
+../../../pool/sync/atkmm-2.36-2.36.1-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/texlive-pictures-2021.61392-1-any.pkg.tar.zst.sig

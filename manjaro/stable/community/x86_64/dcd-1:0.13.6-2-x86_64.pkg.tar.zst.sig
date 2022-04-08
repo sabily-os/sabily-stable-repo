@@ -1,0 +1,1 @@
+../../../pool/sync/dcd-1:0.13.6-2-x86_64.pkg.tar.zst.sig

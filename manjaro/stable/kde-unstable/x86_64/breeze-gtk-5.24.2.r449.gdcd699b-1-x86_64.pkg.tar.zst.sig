@@ -1,0 +1,1 @@
+../../../pool/overlay/breeze-gtk-5.24.2.r449.gdcd699b-1-x86_64.pkg.tar.zst.sig

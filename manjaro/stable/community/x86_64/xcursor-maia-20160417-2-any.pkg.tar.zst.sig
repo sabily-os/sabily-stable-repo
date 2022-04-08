@@ -1,0 +1,1 @@
+../../../pool/overlay/xcursor-maia-20160417-2-any.pkg.tar.zst.sig

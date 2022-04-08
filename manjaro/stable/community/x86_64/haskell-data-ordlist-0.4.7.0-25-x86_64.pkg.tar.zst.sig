@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-data-ordlist-0.4.7.0-25-x86_64.pkg.tar.zst.sig

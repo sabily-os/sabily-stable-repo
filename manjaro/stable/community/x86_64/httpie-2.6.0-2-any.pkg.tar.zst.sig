@@ -1,0 +1,1 @@
+../../../pool/sync/httpie-2.6.0-2-any.pkg.tar.zst.sig

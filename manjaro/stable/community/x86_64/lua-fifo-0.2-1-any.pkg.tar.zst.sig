@@ -1,0 +1,1 @@
+../../../pool/sync/lua-fifo-0.2-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-python-pkcs11-0.7.0-5-x86_64.pkg.tar.zst.sig

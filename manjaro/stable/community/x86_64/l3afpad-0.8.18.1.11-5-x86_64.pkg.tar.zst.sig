@@ -1,0 +1,1 @@
+../../../pool/sync/l3afpad-0.8.18.1.11-5-x86_64.pkg.tar.zst.sig

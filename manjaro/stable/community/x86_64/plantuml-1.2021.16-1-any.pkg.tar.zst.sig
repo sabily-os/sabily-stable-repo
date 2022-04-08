@@ -1,0 +1,1 @@
+../../../pool/sync/plantuml-1.2021.16-1-any.pkg.tar.zst.sig

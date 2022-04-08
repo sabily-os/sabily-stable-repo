@@ -1,0 +1,1 @@
+../../../pool/sync/python2-docs-2.7.18-1-any.pkg.tar.zst.sig

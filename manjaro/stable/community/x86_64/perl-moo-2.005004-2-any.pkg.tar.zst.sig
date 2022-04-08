@@ -1,0 +1,1 @@
+../../../pool/sync/perl-moo-2.005004-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-pycountry-22.1.10-2-any.pkg.tar.zst.sig

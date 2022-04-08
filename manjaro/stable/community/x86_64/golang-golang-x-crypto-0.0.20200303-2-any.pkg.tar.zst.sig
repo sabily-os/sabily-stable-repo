@@ -1,0 +1,1 @@
+../../../pool/sync/golang-golang-x-crypto-0.0.20200303-2-any.pkg.tar.zst.sig

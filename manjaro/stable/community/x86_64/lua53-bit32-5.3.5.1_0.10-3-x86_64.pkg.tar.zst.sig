@@ -1,0 +1,1 @@
+../../../pool/sync/lua53-bit32-5.3.5.1_0.10-3-x86_64.pkg.tar.zst.sig

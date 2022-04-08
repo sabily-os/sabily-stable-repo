@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libdatrie-0.2.13-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-libnacl-1.8.0-3-any.pkg.tar.zst.sig

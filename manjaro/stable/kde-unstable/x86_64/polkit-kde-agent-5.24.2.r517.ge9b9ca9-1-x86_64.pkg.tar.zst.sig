@@ -1,0 +1,1 @@
+../../../pool/overlay/polkit-kde-agent-5.24.2.r517.ge9b9ca9-1-x86_64.pkg.tar.zst.sig

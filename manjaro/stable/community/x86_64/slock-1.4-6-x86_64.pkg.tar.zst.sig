@@ -1,0 +1,1 @@
+../../../pool/sync/slock-1.4-6-x86_64.pkg.tar.zst.sig

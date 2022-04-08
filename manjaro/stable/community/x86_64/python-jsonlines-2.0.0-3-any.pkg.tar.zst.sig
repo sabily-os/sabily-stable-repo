@@ -1,0 +1,1 @@
+../../../pool/sync/python-jsonlines-2.0.0-3-any.pkg.tar.zst.sig

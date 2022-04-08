@@ -1,0 +1,1 @@
+../../../pool/sync/perl-exception-class-1.45-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-py-cpuinfo-8.0.0-3-any.pkg.tar.zst.sig

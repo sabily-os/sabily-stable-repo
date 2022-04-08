@@ -1,0 +1,1 @@
+../../../pool/sync/python-pynitrokey-0.4.19-2-any.pkg.tar.zst.sig

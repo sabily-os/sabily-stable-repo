@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-aur-support-0.6-3-any.pkg.tar.xz.sig

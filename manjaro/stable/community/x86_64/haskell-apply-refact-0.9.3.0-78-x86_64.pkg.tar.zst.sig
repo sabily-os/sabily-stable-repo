@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-apply-refact-0.9.3.0-78-x86_64.pkg.tar.zst.sig

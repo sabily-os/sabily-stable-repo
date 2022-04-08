@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-hjsmin-0.2.0.4-154-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/qt6ct-0.5-4-x86_64.pkg.tar.zst.sig

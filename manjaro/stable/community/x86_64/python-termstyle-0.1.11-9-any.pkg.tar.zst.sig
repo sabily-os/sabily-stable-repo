@@ -1,0 +1,1 @@
+../../../pool/sync/python-termstyle-0.1.11-9-any.pkg.tar.zst.sig

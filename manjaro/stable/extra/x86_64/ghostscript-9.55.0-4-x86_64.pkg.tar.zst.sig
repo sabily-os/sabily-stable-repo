@@ -1,0 +1,1 @@
+../../../pool/sync/ghostscript-9.55.0-4-x86_64.pkg.tar.zst.sig

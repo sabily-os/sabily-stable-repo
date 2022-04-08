@@ -1,0 +1,1 @@
+../../../pool/sync/tcsh-6.24.00-1-x86_64.pkg.tar.zst.sig

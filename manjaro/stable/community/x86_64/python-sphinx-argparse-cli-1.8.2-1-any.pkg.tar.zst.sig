@@ -1,0 +1,1 @@
+../../../pool/sync/python-sphinx-argparse-cli-1.8.2-1-any.pkg.tar.zst.sig

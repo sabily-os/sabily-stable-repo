@@ -1,0 +1,1 @@
+../../../pool/sync/python-doublex-1.9.3-2-any.pkg.tar.zst.sig

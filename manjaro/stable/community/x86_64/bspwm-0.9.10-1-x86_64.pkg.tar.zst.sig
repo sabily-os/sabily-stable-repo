@@ -1,0 +1,1 @@
+../../../pool/sync/bspwm-0.9.10-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/qt5-declarative-5.15.3+kde+r20-1-x86_64.pkg.tar.zst.sig

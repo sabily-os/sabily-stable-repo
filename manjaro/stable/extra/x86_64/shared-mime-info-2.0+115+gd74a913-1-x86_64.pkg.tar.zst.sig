@@ -1,0 +1,1 @@
+../../../pool/sync/shared-mime-info-2.0+115+gd74a913-1-x86_64.pkg.tar.zst.sig

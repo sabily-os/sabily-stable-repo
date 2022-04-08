@@ -1,0 +1,1 @@
+../../../pool/sync/pass-1.7.4-2-any.pkg.tar.zst.sig

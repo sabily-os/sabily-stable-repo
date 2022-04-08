@@ -1,0 +1,1 @@
+../../../pool/sync/grafana-zabbix-4.2.5-1-any.pkg.tar.zst.sig

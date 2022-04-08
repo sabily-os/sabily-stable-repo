@@ -1,0 +1,1 @@
+../../../pool/sync/perl-berkeleydb-0.55-10-x86_64.pkg.tar.zst.sig

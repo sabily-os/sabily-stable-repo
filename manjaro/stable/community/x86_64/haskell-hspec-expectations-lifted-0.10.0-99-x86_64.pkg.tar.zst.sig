@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-hspec-expectations-lifted-0.10.0-99-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-validate-email-1.3-9-any.pkg.tar.zst.sig

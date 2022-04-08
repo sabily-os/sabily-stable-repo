@@ -1,0 +1,1 @@
+../../../pool/sync/sdl_pango-0.1.2-8-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-gtk-theme-2020.06.10-1-any.pkg.tar.zst.sig

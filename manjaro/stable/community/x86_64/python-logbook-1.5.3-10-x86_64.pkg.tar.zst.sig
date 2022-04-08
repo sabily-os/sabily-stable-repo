@@ -1,0 +1,1 @@
+../../../pool/sync/python-logbook-1.5.3-10-x86_64.pkg.tar.zst.sig

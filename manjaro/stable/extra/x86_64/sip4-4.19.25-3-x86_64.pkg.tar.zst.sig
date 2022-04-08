@@ -1,0 +1,1 @@
+../../../pool/sync/sip4-4.19.25-3-x86_64.pkg.tar.zst.sig

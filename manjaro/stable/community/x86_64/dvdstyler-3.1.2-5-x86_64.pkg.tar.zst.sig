@@ -1,0 +1,1 @@
+../../../pool/sync/dvdstyler-3.1.2-5-x86_64.pkg.tar.zst.sig

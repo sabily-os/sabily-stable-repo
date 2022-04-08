@@ -1,0 +1,1 @@
+../../../pool/overlay/inxi-3.3.14.1-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/docker-scan-0.17.0-1-x86_64.pkg.tar.zst.sig

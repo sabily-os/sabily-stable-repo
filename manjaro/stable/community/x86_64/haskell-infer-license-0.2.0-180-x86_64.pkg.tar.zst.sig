@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-infer-license-0.2.0-180-x86_64.pkg.tar.zst.sig

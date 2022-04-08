@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-xml-hamlet-0.5.0.2-20-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-yapsy-1.12.2-7-any.pkg.tar.zst.sig

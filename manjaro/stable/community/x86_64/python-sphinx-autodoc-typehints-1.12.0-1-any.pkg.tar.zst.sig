@@ -1,0 +1,1 @@
+../../../pool/sync/python-sphinx-autodoc-typehints-1.12.0-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/x42-plugins-20220107-1-x86_64.pkg.tar.zst.sig

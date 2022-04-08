@@ -1,0 +1,1 @@
+../../../pool/sync/python-distutils-extra-2.39-10-any.pkg.tar.zst.sig

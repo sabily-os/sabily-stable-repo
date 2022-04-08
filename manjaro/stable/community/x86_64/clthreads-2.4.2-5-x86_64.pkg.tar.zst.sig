@@ -1,0 +1,1 @@
+../../../pool/sync/clthreads-2.4.2-5-x86_64.pkg.tar.zst.sig

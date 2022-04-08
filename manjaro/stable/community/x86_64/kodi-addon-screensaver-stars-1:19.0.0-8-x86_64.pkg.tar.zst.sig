@@ -1,0 +1,1 @@
+../../../pool/sync/kodi-addon-screensaver-stars-1:19.0.0-8-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/sddm-classic-0.15.0-3-x86_64.pkg.tar.xz.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/kgoldrunner-21.12.2.1.r1266.g9bd4b9b-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/nyacc-1.05.1-1-any.pkg.tar.zst.sig

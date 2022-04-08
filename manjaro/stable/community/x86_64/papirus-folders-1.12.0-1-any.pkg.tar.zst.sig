@@ -1,0 +1,1 @@
+../../../pool/overlay/papirus-folders-1.12.0-1-any.pkg.tar.zst.sig

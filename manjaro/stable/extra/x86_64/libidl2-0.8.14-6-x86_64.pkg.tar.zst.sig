@@ -1,0 +1,1 @@
+../../../pool/sync/libidl2-0.8.14-6-x86_64.pkg.tar.zst.sig

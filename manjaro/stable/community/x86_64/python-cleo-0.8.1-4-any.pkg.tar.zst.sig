@@ -1,0 +1,1 @@
+../../../pool/sync/python-cleo-0.8.1-4-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-openbox-flatred-theme-0.3-1-any.pkg.tar.zst.sig

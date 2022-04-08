@@ -1,0 +1,1 @@
+../../../pool/sync/mfoc-0.10.7+38+gba072f1-1-x86_64.pkg.tar.zst.sig

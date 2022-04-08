@@ -1,0 +1,1 @@
+../../../pool/sync/schroedinger-1.0.11-6-x86_64.pkg.tar.zst.sig

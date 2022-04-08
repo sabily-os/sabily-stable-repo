@@ -1,0 +1,1 @@
+../../../pool/sync/python-identify-2.4.11-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/ttf-font-logos-0.14-1-any.pkg.tar.zst.sig

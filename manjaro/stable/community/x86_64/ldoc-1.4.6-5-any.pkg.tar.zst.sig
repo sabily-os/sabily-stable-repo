@@ -1,0 +1,1 @@
+../../../pool/sync/ldoc-1.4.6-5-any.pkg.tar.zst.sig

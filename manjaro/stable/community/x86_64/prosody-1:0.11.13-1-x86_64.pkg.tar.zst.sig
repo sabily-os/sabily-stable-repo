@@ -1,0 +1,1 @@
+../../../pool/sync/prosody-1:0.11.13-1-x86_64.pkg.tar.zst.sig

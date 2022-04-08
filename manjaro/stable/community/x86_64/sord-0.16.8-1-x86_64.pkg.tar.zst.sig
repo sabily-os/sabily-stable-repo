@@ -1,0 +1,1 @@
+../../../pool/sync/sord-0.16.8-1-x86_64.pkg.tar.zst.sig

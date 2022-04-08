@@ -1,0 +1,1 @@
+../../../pool/sync/midimsg-lv2-0.0.5-1-x86_64.pkg.tar.xz.sig

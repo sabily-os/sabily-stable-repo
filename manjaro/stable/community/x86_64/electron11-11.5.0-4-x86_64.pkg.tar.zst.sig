@@ -1,0 +1,1 @@
+../../../pool/sync/electron11-11.5.0-4-x86_64.pkg.tar.zst.sig

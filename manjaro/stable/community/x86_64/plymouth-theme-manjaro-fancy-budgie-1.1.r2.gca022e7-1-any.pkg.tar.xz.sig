@@ -1,0 +1,1 @@
+../../../pool/overlay/plymouth-theme-manjaro-fancy-budgie-1.1.r2.gca022e7-1-any.pkg.tar.xz.sig

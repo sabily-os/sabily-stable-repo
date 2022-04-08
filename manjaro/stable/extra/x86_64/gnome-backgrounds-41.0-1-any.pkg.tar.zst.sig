@@ -1,0 +1,1 @@
+../../../pool/sync/gnome-backgrounds-41.0-1-any.pkg.tar.zst.sig

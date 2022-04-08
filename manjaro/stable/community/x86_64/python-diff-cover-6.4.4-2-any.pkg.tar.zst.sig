@@ -1,0 +1,1 @@
+../../../pool/sync/python-diff-cover-6.4.4-2-any.pkg.tar.zst.sig

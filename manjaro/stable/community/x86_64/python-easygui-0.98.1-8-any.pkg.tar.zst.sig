@@ -1,0 +1,1 @@
+../../../pool/sync/python-easygui-0.98.1-8-any.pkg.tar.zst.sig

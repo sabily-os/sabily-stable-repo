@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-cryptonite-conduit-0.2.2-464-x86_64.pkg.tar.zst.sig

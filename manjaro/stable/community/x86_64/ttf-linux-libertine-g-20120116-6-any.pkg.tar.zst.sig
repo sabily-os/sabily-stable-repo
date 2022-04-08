@@ -1,0 +1,1 @@
+../../../pool/sync/ttf-linux-libertine-g-20120116-6-any.pkg.tar.zst.sig

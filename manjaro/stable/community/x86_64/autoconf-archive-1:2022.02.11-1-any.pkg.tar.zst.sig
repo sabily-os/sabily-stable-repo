@@ -1,0 +1,1 @@
+../../../pool/sync/autoconf-archive-1:2022.02.11-1-any.pkg.tar.zst.sig

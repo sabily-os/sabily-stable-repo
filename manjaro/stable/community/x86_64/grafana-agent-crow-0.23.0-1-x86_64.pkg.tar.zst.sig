@@ -1,0 +1,1 @@
+../../../pool/sync/grafana-agent-crow-0.23.0-1-x86_64.pkg.tar.zst.sig

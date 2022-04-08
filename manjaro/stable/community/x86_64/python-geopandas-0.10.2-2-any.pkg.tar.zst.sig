@@ -1,0 +1,1 @@
+../../../pool/sync/python-geopandas-0.10.2-2-any.pkg.tar.zst.sig

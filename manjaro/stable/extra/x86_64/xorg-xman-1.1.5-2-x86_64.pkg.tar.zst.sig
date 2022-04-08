@@ -1,0 +1,1 @@
+../../../pool/sync/xorg-xman-1.1.5-2-x86_64.pkg.tar.zst.sig

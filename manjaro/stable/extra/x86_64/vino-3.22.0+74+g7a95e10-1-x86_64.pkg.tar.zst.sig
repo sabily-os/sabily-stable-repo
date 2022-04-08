@@ -1,0 +1,1 @@
+../../../pool/sync/vino-3.22.0+74+g7a95e10-1-x86_64.pkg.tar.zst.sig

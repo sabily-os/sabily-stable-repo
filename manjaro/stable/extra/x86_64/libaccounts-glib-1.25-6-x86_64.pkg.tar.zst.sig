@@ -1,0 +1,1 @@
+../../../pool/sync/libaccounts-glib-1.25-6-x86_64.pkg.tar.zst.sig

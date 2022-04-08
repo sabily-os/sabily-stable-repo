@@ -1,0 +1,1 @@
+../../../pool/sync/python-dephell-versioning-0.1.2-5-any.pkg.tar.zst.sig

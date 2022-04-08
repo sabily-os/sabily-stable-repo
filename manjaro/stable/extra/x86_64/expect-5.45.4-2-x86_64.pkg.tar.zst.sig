@@ -1,0 +1,1 @@
+../../../pool/sync/expect-5.45.4-2-x86_64.pkg.tar.zst.sig

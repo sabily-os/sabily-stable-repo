@@ -1,0 +1,1 @@
+../../../pool/sync/sequoia-sop-0.26.1-1-x86_64.pkg.tar.zst.sig

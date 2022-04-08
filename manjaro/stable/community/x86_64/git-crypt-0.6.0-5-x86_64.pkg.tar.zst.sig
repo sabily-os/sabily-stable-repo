@@ -1,0 +1,1 @@
+../../../pool/sync/git-crypt-0.6.0-5-x86_64.pkg.tar.zst.sig

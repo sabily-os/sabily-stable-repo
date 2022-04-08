@@ -1,0 +1,1 @@
+../../../pool/sync/quagga-1.2.4-6-x86_64.pkg.tar.zst.sig

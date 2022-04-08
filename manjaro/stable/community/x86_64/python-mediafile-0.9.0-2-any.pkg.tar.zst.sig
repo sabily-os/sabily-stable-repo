@@ -1,0 +1,1 @@
+../../../pool/sync/python-mediafile-0.9.0-2-any.pkg.tar.zst.sig

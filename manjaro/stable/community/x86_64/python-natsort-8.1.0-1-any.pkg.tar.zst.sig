@@ -1,0 +1,1 @@
+../../../pool/sync/python-natsort-8.1.0-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-ufolib2-0.13.1-3-any.pkg.tar.zst.sig

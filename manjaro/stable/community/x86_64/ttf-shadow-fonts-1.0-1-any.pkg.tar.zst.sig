@@ -1,0 +1,1 @@
+../../../pool/overlay/ttf-shadow-fonts-1.0-1-any.pkg.tar.zst.sig

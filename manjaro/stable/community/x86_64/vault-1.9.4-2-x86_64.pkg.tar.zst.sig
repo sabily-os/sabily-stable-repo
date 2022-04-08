@@ -1,0 +1,1 @@
+../../../pool/sync/vault-1.9.4-2-x86_64.pkg.tar.zst.sig

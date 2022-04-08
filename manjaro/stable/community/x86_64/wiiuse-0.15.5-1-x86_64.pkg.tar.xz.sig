@@ -1,0 +1,1 @@
+../../../pool/sync/wiiuse-0.15.5-1-x86_64.pkg.tar.xz.sig

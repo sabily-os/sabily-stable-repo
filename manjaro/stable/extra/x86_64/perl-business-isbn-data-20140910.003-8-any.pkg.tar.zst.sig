@@ -1,0 +1,1 @@
+../../../pool/sync/perl-business-isbn-data-20140910.003-8-any.pkg.tar.zst.sig

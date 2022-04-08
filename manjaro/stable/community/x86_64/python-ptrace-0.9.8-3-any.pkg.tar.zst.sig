@@ -1,0 +1,1 @@
+../../../pool/sync/python-ptrace-0.9.8-3-any.pkg.tar.zst.sig

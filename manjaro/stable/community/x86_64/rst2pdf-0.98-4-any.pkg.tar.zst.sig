@@ -1,0 +1,1 @@
+../../../pool/sync/rst2pdf-0.98-4-any.pkg.tar.zst.sig

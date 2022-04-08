@@ -1,0 +1,1 @@
+../../../pool/sync/beebeep-5.8.4-4-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-manpages-0.6.1-4-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/ttf-hanazono-20170904-4-any.pkg.tar.zst.sig

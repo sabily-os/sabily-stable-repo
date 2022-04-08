@@ -1,0 +1,1 @@
+../../../pool/sync/dmd-1:2.098.1-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/git-delta-0.12.1-1-x86_64.pkg.tar.zst.sig

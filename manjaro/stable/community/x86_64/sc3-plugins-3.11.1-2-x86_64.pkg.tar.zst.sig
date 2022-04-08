@@ -1,0 +1,1 @@
+../../../pool/sync/sc3-plugins-3.11.1-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/transcode-1.1.7-40-x86_64.pkg.tar.zst.sig

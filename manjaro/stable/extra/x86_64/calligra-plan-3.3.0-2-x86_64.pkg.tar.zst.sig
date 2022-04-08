@@ -1,0 +1,1 @@
+../../../pool/sync/calligra-plan-3.3.0-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-text-patch-1.8-9-any.pkg.tar.zst.sig

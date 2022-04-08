@@ -1,0 +1,1 @@
+../../../pool/sync/python-pplpy-0.8.7-6-x86_64.pkg.tar.zst.sig

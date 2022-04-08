@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-html-entity-map-0.1.0.0-52-x86_64.pkg.tar.zst.sig

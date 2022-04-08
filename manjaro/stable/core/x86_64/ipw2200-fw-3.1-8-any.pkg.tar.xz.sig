@@ -1,0 +1,1 @@
+../../../pool/sync/ipw2200-fw-3.1-8-any.pkg.tar.xz.sig

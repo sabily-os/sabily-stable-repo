@@ -1,0 +1,1 @@
+../../../pool/sync/python-ukpostcodeparser-1.1.2-10-any.pkg.tar.zst.sig

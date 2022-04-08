@@ -1,0 +1,1 @@
+../../../pool/sync/gyp-20190716.fcd686f1-7-any.pkg.tar.zst.sig

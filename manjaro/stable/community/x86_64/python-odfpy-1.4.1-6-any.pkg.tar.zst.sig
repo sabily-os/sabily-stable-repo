@@ -1,0 +1,1 @@
+../../../pool/sync/python-odfpy-1.4.1-6-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-monad-logger-0.3.36-174-x86_64.pkg.tar.zst.sig

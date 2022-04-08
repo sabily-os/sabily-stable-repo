@@ -1,0 +1,1 @@
+../../../pool/sync/cargo-zigbuild-0.6.6-1-x86_64.pkg.tar.zst.sig

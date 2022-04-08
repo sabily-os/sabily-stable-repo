@@ -1,0 +1,1 @@
+../../../pool/sync/gnome-sound-recorder-40.0-1-any.pkg.tar.zst.sig

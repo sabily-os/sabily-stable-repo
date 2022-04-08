@@ -1,0 +1,1 @@
+../../../pool/sync/python-hs-dbus-signature-0.07-3-any.pkg.tar.zst.sig

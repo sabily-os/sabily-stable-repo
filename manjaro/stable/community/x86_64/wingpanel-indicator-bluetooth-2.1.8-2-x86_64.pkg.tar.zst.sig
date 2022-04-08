@@ -1,0 +1,1 @@
+../../../pool/sync/wingpanel-indicator-bluetooth-2.1.8-2-x86_64.pkg.tar.zst.sig

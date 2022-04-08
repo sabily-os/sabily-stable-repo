@@ -1,0 +1,1 @@
+../../../pool/sync/aribb25-0.2.7-2-x86_64.pkg.tar.zst.sig

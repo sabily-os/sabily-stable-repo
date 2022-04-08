@@ -1,0 +1,1 @@
+../../../pool/sync/python-pexpect-4.8.0-6-any.pkg.tar.zst.sig

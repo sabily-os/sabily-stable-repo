@@ -1,0 +1,1 @@
+../../../pool/sync/terminus-font-4.49.1-2-any.pkg.tar.zst.sig

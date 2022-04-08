@@ -1,0 +1,1 @@
+../../../pool/sync/python-pycosat-0.6.3-5-x86_64.pkg.tar.zst.sig

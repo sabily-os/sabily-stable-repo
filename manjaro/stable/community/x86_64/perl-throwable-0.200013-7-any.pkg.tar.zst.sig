@@ -1,0 +1,1 @@
+../../../pool/sync/perl-throwable-0.200013-7-any.pkg.tar.zst.sig

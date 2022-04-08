@@ -1,0 +1,1 @@
+../../../pool/sync/tickrs-2:0.14.4-1-x86_64.pkg.tar.zst.sig

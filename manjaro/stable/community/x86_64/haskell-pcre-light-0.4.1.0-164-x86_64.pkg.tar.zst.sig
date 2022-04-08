@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-pcre-light-0.4.1.0-164-x86_64.pkg.tar.zst.sig

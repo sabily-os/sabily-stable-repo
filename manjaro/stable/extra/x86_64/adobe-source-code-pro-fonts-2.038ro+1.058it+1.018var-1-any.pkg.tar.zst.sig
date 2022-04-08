@@ -1,0 +1,1 @@
+../../../pool/sync/adobe-source-code-pro-fonts-2.038ro+1.058it+1.018var-1-any.pkg.tar.zst.sig

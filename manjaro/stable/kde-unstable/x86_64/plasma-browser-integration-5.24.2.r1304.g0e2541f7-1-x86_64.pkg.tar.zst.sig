@@ -1,0 +1,1 @@
+../../../pool/overlay/plasma-browser-integration-5.24.2.r1304.g0e2541f7-1-x86_64.pkg.tar.zst.sig

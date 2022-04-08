@@ -1,0 +1,1 @@
+../../../pool/sync/giflib-5.2.1-2-x86_64.pkg.tar.zst.sig

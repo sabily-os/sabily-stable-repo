@@ -1,0 +1,1 @@
+../../../pool/sync/python-mysql-connector-8.0.28-1-any.pkg.tar.zst.sig

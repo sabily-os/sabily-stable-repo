@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-cracknum-3.2-69-x86_64.pkg.tar.zst.sig

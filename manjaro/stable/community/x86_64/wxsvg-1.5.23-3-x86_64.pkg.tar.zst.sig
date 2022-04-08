@@ -1,0 +1,1 @@
+../../../pool/sync/wxsvg-1.5.23-3-x86_64.pkg.tar.zst.sig

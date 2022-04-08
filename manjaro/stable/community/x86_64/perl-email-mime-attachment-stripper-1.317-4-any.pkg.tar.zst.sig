@@ -1,0 +1,1 @@
+../../../pool/sync/perl-email-mime-attachment-stripper-1.317-4-any.pkg.tar.zst.sig

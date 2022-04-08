@@ -1,0 +1,1 @@
+../../../pool/sync/nikto-2.1.6-3-any.pkg.tar.zst.sig

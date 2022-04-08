@@ -1,0 +1,1 @@
+../../../pool/overlay/analitza-21.12.2.1.r2335.g7c51885a-1-x86_64.pkg.tar.zst.sig

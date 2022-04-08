@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-zeitwerk-2.5.3-1-any.pkg.tar.zst.sig

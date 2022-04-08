@@ -1,0 +1,1 @@
+../../../pool/sync/libwps-0.4.12-1-x86_64.pkg.tar.zst.sig

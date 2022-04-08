@@ -1,0 +1,1 @@
+../../../pool/sync/kbibtex-1:0.9.2-6-x86_64.pkg.tar.zst.sig

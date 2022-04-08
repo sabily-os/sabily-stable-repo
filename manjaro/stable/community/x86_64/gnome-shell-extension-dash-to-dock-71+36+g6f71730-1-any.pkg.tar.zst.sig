@@ -1,0 +1,1 @@
+../../../pool/overlay/gnome-shell-extension-dash-to-dock-71+36+g6f71730-1-any.pkg.tar.zst.sig

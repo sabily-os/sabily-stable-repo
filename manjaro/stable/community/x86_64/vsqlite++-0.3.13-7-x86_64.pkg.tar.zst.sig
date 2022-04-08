@@ -1,0 +1,1 @@
+../../../pool/sync/vsqlite++-0.3.13-7-x86_64.pkg.tar.zst.sig

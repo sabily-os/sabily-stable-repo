@@ -1,0 +1,1 @@
+../../../pool/sync/notification-daemon-3.20.0-4-x86_64.pkg.tar.zst.sig

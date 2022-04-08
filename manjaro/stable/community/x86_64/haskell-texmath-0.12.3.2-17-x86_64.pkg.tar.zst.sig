@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-texmath-0.12.3.2-17-x86_64.pkg.tar.zst.sig

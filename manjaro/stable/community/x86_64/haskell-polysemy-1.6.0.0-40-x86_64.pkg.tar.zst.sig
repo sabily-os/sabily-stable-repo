@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-polysemy-1.6.0.0-40-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/proxmark3-4.9237-1-x86_64.pkg.tar.zst.sig

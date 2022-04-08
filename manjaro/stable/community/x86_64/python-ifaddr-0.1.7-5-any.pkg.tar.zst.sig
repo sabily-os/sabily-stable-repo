@@ -1,0 +1,1 @@
+../../../pool/sync/python-ifaddr-0.1.7-5-any.pkg.tar.zst.sig

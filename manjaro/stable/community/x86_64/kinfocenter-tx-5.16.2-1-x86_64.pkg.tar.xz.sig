@@ -1,0 +1,1 @@
+../../../pool/overlay/kinfocenter-tx-5.16.2-1-x86_64.pkg.tar.xz.sig

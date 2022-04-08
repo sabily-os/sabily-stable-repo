@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-attoparsec-iso8601-1.0.2.1-10-x86_64.pkg.tar.zst.sig

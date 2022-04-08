@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-abstract-par-0.3.3-25-x86_64.pkg.tar.zst.sig

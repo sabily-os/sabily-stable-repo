@@ -1,0 +1,1 @@
+../../../pool/sync/freedroidrpg-1.0rc2-2-x86_64.pkg.tar.zst.sig

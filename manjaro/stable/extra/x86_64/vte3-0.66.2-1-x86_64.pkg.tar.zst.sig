@@ -1,0 +1,1 @@
+../../../pool/sync/vte3-0.66.2-1-x86_64.pkg.tar.zst.sig

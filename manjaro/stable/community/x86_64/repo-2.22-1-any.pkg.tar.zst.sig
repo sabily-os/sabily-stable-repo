@@ -1,0 +1,1 @@
+../../../pool/sync/repo-2.22-1-any.pkg.tar.zst.sig

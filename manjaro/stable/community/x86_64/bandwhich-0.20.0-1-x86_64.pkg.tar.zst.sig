@@ -1,0 +1,1 @@
+../../../pool/sync/bandwhich-0.20.0-1-x86_64.pkg.tar.zst.sig

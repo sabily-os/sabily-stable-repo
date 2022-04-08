@@ -1,0 +1,1 @@
+../../../pool/sync/t1lib-5.1.2-8-x86_64.pkg.tar.zst.sig

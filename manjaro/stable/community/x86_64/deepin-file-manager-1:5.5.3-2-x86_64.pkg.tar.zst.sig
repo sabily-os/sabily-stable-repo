@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-file-manager-1:5.5.3-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/shellcheck-0.8.0-37-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/modest-0.0.6.d021b90-2-x86_64.pkg.tar.zst.sig

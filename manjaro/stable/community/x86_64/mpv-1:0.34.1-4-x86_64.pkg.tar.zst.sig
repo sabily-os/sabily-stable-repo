@@ -1,0 +1,1 @@
+../../../pool/sync/mpv-1:0.34.1-4-x86_64.pkg.tar.zst.sig

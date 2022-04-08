@@ -1,0 +1,1 @@
+../../../pool/sync/postfix-mysql-3.7.0-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/glib2-docs-2.70.4-2-x86_64.pkg.tar.zst.sig

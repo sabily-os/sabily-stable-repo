@@ -1,0 +1,1 @@
+../../../pool/sync/python-keystone-0.9.2-2-x86_64.pkg.tar.zst.sig

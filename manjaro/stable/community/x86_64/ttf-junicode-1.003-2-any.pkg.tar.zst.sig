@@ -1,0 +1,1 @@
+../../../pool/sync/ttf-junicode-1.003-2-any.pkg.tar.zst.sig

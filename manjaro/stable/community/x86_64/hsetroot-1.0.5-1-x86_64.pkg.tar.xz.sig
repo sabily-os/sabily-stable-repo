@@ -1,0 +1,1 @@
+../../../pool/sync/hsetroot-1.0.5-1-x86_64.pkg.tar.xz.sig

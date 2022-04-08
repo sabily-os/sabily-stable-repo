@@ -1,0 +1,1 @@
+../../../pool/sync/vigra-1.11.1.r45+g8acd73a5-6-x86_64.pkg.tar.zst.sig

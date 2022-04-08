@@ -1,0 +1,1 @@
+../../../pool/sync/python-django-modeltranslation-0.17.3-2-any.pkg.tar.zst.sig

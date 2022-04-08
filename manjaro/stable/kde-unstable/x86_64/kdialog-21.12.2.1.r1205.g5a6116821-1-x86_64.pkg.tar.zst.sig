@@ -1,0 +1,1 @@
+../../../pool/overlay/kdialog-21.12.2.1.r1205.g5a6116821-1-x86_64.pkg.tar.zst.sig

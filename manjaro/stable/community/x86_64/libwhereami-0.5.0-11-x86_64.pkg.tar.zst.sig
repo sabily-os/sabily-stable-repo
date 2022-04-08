@@ -1,0 +1,1 @@
+../../../pool/sync/libwhereami-0.5.0-11-x86_64.pkg.tar.zst.sig

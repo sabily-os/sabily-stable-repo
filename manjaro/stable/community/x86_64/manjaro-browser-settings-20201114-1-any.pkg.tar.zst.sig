@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-browser-settings-20201114-1-any.pkg.tar.zst.sig

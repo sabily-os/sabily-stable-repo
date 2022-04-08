@@ -1,0 +1,1 @@
+../../../pool/sync/qtqr-2.1-3-any.pkg.tar.zst.sig

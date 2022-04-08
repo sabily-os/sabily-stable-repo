@@ -1,0 +1,1 @@
+../../../pool/sync/qtox-1.17.4-3-x86_64.pkg.tar.zst.sig

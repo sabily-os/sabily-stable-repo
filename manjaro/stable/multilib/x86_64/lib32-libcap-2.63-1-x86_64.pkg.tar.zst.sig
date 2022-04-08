@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libcap-2.63-1-x86_64.pkg.tar.zst.sig

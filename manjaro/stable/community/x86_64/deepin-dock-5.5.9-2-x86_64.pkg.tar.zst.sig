@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-dock-5.5.9-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/man2html-3.0.1-7-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/notify-osd-0.9.35+16.04.20160415-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-xml-parser-2.46-3-x86_64.pkg.tar.zst.sig

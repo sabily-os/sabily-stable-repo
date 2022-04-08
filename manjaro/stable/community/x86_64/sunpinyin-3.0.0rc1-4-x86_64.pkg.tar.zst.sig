@@ -1,0 +1,1 @@
+../../../pool/sync/sunpinyin-3.0.0rc1-4-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/vapoursynth-R57-2-x86_64.pkg.tar.zst.sig

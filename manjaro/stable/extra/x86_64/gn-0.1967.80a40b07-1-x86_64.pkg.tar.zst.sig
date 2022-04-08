@@ -1,0 +1,1 @@
+../../../pool/sync/gn-0.1967.80a40b07-1-x86_64.pkg.tar.zst.sig

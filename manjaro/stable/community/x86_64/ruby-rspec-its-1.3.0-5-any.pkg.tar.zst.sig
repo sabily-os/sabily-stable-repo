@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-rspec-its-1.3.0-5-any.pkg.tar.zst.sig

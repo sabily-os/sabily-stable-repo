@@ -1,0 +1,1 @@
+../../../pool/overlay/kdesdk-kioslaves-21.12.2.1.r501.gaf87828-1-x86_64.pkg.tar.zst.sig

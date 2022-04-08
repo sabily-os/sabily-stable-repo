@@ -1,0 +1,1 @@
+../../../pool/sync/pngcrush-1.8.13-3-x86_64.pkg.tar.zst.sig

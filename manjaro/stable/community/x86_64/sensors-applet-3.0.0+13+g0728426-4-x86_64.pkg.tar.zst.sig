@@ -1,0 +1,1 @@
+../../../pool/sync/sensors-applet-3.0.0+13+g0728426-4-x86_64.pkg.tar.zst.sig

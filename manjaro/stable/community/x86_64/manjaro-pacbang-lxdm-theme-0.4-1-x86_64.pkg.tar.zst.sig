@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-pacbang-lxdm-theme-0.4-1-x86_64.pkg.tar.zst.sig

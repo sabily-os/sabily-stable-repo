@@ -1,0 +1,1 @@
+../../../pool/sync/xfce4-power-manager-4.16.0-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-pynamecheap-0.0.3-8-any.pkg.tar.zst.sig

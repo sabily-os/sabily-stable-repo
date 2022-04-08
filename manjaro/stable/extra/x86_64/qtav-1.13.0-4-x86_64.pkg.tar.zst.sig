@@ -1,0 +1,1 @@
+../../../pool/sync/qtav-1.13.0-4-x86_64.pkg.tar.zst.sig

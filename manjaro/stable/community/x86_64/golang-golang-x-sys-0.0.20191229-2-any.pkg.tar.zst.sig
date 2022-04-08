@@ -1,0 +1,1 @@
+../../../pool/sync/golang-golang-x-sys-0.0.20191229-2-any.pkg.tar.zst.sig

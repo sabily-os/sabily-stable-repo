@@ -1,0 +1,1 @@
+../../../pool/sync/rabbitmqadmin-3.8.22-1-any.pkg.tar.zst.sig

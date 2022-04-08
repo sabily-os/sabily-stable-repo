@@ -1,0 +1,1 @@
+../../../pool/sync/dot2tex-2.11.3-5-any.pkg.tar.zst.sig

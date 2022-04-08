@@ -1,0 +1,1 @@
+../../../pool/sync/xorg-xdm-1.1.12-3-x86_64.pkg.tar.zst.sig

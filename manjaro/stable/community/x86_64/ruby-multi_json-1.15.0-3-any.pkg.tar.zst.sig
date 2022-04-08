@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-multi_json-1.15.0-3-any.pkg.tar.zst.sig

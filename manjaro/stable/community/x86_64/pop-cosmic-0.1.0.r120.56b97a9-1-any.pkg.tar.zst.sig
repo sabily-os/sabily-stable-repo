@@ -1,0 +1,1 @@
+../../../pool/overlay/pop-cosmic-0.1.0.r120.56b97a9-1-any.pkg.tar.zst.sig

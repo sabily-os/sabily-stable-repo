@@ -1,0 +1,1 @@
+../../../pool/sync/python-pony-0.7.14-3-any.pkg.tar.zst.sig

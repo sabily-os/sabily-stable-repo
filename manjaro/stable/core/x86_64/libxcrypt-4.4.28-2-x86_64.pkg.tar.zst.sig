@@ -1,0 +1,1 @@
+../../../pool/sync/libxcrypt-4.4.28-2-x86_64.pkg.tar.zst.sig

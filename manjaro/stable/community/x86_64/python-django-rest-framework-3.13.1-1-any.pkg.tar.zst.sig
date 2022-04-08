@@ -1,0 +1,1 @@
+../../../pool/sync/python-django-rest-framework-3.13.1-1-any.pkg.tar.zst.sig

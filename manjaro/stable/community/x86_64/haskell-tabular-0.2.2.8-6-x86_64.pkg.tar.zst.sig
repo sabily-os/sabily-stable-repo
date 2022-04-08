@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-tabular-0.2.2.8-6-x86_64.pkg.tar.zst.sig

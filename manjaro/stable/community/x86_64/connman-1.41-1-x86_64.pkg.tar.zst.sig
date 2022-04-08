@@ -1,0 +1,1 @@
+../../../pool/sync/connman-1.41-1-x86_64.pkg.tar.zst.sig

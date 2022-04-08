@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-tasty-hspec-1.2-44-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-monad-memo-0.5.4-11-x86_64.pkg.tar.zst.sig

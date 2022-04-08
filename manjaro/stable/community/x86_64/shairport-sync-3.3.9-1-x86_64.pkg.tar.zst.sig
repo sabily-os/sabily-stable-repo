@@ -1,0 +1,1 @@
+../../../pool/sync/shairport-sync-3.3.9-1-x86_64.pkg.tar.zst.sig

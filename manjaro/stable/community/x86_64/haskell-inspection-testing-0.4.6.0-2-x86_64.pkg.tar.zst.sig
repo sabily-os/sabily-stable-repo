@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-inspection-testing-0.4.6.0-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/unzip-6.0-18-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-dist-checkconflicts-0.11-7-any.pkg.tar.zst.sig

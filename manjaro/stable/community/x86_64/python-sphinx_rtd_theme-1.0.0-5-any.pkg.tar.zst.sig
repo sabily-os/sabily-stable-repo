@@ -1,0 +1,1 @@
+../../../pool/sync/python-sphinx_rtd_theme-1.0.0-5-any.pkg.tar.zst.sig

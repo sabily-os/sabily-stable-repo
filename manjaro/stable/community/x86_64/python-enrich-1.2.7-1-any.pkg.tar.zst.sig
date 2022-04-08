@@ -1,0 +1,1 @@
+../../../pool/sync/python-enrich-1.2.7-1-any.pkg.tar.zst.sig

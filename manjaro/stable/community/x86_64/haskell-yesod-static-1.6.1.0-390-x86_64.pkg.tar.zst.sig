@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-yesod-static-1.6.1.0-390-x86_64.pkg.tar.zst.sig

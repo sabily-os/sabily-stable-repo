@@ -1,0 +1,1 @@
+../../../pool/overlay/shiny-mirrors-r188.2d9dc27-1-x86_64.pkg.tar.zst.sig

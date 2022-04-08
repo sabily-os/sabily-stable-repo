@@ -1,0 +1,1 @@
+../../../pool/sync/python-zope-event-4.5.0-6-any.pkg.tar.zst.sig

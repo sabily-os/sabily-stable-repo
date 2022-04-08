@@ -1,0 +1,1 @@
+../../../pool/sync/uncrustify-0.74.0-1-x86_64.pkg.tar.zst.sig

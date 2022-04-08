@@ -1,0 +1,1 @@
+../../../pool/sync/opengl-man-pages-20190725-2-any.pkg.tar.zst.sig

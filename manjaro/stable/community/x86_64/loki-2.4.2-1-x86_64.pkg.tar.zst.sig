@@ -1,0 +1,1 @@
+../../../pool/sync/loki-2.4.2-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/hoel-1.4.18-2-x86_64.pkg.tar.zst.sig

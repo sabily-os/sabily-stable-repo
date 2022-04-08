@@ -1,0 +1,1 @@
+../../../pool/sync/oxygen-icons-1:5.91.0-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-django-sekizai-3.0.1-1-any.pkg.tar.zst.sig

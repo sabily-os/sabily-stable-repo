@@ -1,0 +1,1 @@
+../../../pool/sync/kakoune-2021.11.08-1-x86_64.pkg.tar.zst.sig

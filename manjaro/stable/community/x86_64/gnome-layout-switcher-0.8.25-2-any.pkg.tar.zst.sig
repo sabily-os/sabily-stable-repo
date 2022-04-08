@@ -1,0 +1,1 @@
+../../../pool/overlay/gnome-layout-switcher-0.8.25-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-sandi-0.5-290-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-msgpack-1.4.5-1-x86_64.pkg.tar.zst.sig

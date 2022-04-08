@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-ptr-0.16.8.1-45-x86_64.pkg.tar.zst.sig

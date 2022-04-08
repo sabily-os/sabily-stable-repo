@@ -1,0 +1,1 @@
+../../../pool/sync/python-xmlschema-1.9.2-1-any.pkg.tar.zst.sig

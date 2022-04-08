@@ -1,0 +1,1 @@
+../../../pool/overlay/simplelogin-0.1+r61.ffa841e-1-x86_64.pkg.tar.xz.sig

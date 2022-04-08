@@ -1,0 +1,1 @@
+../../../pool/overlay/kontact-21.12.2.1.r5481.g83072a96-1-x86_64.pkg.tar.zst.sig

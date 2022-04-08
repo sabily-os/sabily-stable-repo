@@ -1,0 +1,1 @@
+../../../pool/sync/foot-terminfo-1.11.0-2-x86_64.pkg.tar.zst.sig

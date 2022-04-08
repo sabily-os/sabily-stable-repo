@@ -1,0 +1,1 @@
+../../../pool/sync/python-click-completion-0.5.2-6-any.pkg.tar.zst.sig

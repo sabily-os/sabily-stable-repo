@@ -1,0 +1,1 @@
+../../../pool/sync/mozo-1.26.1-2-any.pkg.tar.zst.sig

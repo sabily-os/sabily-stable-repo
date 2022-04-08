@@ -1,0 +1,1 @@
+../../../pool/sync/distcc-3.4-4-x86_64.pkg.tar.zst.sig

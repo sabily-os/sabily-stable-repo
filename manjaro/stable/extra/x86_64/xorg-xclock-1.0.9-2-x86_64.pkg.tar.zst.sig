@@ -1,0 +1,1 @@
+../../../pool/sync/xorg-xclock-1.0.9-2-x86_64.pkg.tar.zst.sig

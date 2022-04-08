@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-glib-0.13.8.1-129-x86_64.pkg.tar.zst.sig

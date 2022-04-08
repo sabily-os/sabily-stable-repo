@@ -1,0 +1,1 @@
+../../../pool/sync/network-manager-sstp-1.2.6-4-x86_64.pkg.tar.zst.sig

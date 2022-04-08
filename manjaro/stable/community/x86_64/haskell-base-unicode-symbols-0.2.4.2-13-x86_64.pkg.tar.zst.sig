@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-base-unicode-symbols-0.2.4.2-13-x86_64.pkg.tar.zst.sig

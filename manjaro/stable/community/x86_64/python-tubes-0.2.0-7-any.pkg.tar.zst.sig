@@ -1,0 +1,1 @@
+../../../pool/sync/python-tubes-0.2.0-7-any.pkg.tar.zst.sig

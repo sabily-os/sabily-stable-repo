@@ -1,0 +1,1 @@
+../../../pool/sync/aubio-0.4.9-13-x86_64.pkg.tar.zst.sig

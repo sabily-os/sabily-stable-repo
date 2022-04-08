@@ -1,0 +1,1 @@
+../../../pool/sync/perl-class-accessor-chained-0.01-9-any.pkg.tar.zst.sig

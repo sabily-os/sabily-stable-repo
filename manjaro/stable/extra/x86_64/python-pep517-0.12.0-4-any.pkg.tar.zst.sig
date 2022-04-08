@@ -1,0 +1,1 @@
+../../../pool/sync/python-pep517-0.12.0-4-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-safe-exceptions-0.1.7.2-36-x86_64.pkg.tar.zst.sig

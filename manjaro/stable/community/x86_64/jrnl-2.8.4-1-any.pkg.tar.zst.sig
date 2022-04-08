@@ -1,0 +1,1 @@
+../../../pool/sync/jrnl-2.8.4-1-any.pkg.tar.zst.sig

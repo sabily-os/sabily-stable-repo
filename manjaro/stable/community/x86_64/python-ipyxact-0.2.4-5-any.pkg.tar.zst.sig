@@ -1,0 +1,1 @@
+../../../pool/sync/python-ipyxact-0.2.4-5-any.pkg.tar.zst.sig

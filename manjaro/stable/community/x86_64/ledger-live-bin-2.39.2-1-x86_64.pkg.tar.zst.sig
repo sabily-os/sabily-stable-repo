@@ -1,0 +1,1 @@
+../../../pool/overlay/ledger-live-bin-2.39.2-1-x86_64.pkg.tar.zst.sig

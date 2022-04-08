@@ -1,0 +1,1 @@
+../../../pool/sync/ttf-lato-2.015-4-any.pkg.tar.zst.sig

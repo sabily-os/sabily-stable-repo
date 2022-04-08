@@ -1,0 +1,1 @@
+../../../pool/sync/ruby2.7-2.7.5-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-astral-2.2-5-any.pkg.tar.zst.sig

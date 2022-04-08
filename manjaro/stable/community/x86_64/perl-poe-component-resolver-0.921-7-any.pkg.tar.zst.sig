@@ -1,0 +1,1 @@
+../../../pool/sync/perl-poe-component-resolver-0.921-7-any.pkg.tar.zst.sig

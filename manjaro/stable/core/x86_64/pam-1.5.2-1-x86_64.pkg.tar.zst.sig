@@ -1,0 +1,1 @@
+../../../pool/sync/pam-1.5.2-1-x86_64.pkg.tar.zst.sig

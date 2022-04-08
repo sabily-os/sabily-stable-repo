@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-scotty-0.12-246-x86_64.pkg.tar.zst.sig

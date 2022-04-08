@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-daemons-1.3.1-2-any.pkg.tar.zst.sig

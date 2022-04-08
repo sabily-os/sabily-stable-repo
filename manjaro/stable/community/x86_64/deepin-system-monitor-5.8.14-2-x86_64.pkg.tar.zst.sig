@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-system-monitor-5.8.14-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/libsigrok-0.5.2-10-x86_64.pkg.tar.zst.sig

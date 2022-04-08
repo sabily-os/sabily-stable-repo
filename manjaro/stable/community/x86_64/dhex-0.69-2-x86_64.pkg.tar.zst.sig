@@ -1,0 +1,1 @@
+../../../pool/sync/dhex-0.69-2-x86_64.pkg.tar.zst.sig

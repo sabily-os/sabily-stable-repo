@@ -1,0 +1,1 @@
+../../../pool/sync/x2goserver-4.1.0.3-10-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/libnotify-0.7.9-2-x86_64.pkg.tar.zst.sig

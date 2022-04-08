@@ -1,0 +1,1 @@
+../../../pool/sync/fwknop-2.6.10-2-x86_64.pkg.tar.zst.sig

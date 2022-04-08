@@ -1,0 +1,1 @@
+../../../pool/sync/python-pytools-2022.1.1-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-semirings-0.6-39-x86_64.pkg.tar.zst.sig

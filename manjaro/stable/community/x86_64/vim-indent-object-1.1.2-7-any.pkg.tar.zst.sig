@@ -1,0 +1,1 @@
+../../../pool/sync/vim-indent-object-1.1.2-7-any.pkg.tar.zst.sig

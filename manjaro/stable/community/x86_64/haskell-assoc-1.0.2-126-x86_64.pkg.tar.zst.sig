@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-assoc-1.0.2-126-x86_64.pkg.tar.zst.sig

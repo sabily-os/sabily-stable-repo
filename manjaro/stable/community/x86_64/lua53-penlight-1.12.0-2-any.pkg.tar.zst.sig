@@ -1,0 +1,1 @@
+../../../pool/sync/lua53-penlight-1.12.0-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/gpgit-1:1.5.0-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/papirus-maia-icon-theme-20200702-1-any.pkg.tar.zst.sig

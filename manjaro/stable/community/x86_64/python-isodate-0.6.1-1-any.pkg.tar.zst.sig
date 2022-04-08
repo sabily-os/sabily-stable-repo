@@ -1,0 +1,1 @@
+../../../pool/sync/python-isodate-0.6.1-1-any.pkg.tar.zst.sig

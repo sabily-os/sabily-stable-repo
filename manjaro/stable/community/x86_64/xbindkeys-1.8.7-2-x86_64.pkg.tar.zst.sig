@@ -1,0 +1,1 @@
+../../../pool/sync/xbindkeys-1.8.7-2-x86_64.pkg.tar.zst.sig

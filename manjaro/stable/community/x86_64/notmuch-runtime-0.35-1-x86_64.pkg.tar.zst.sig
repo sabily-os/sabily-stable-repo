@@ -1,0 +1,1 @@
+../../../pool/sync/notmuch-runtime-0.35-1-x86_64.pkg.tar.zst.sig

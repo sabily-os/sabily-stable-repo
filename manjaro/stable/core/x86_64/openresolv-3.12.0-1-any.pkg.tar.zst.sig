@@ -1,0 +1,1 @@
+../../../pool/sync/openresolv-3.12.0-1-any.pkg.tar.zst.sig

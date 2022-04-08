@@ -1,0 +1,1 @@
+../../../pool/sync/python-pybars3-0.9.7-7-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/gnome-shell-extension-gnome-ui-tune-1.5.0+1+ge8cd04d-2-any.pkg.tar.zst.sig

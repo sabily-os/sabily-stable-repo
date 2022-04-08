@@ -1,0 +1,1 @@
+../../../pool/sync/etckeeper-1.18.17-1-any.pkg.tar.zst.sig

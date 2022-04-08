@@ -1,0 +1,1 @@
+../../../pool/sync/python-pytest-tap-3.2-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/gtk2fontsel-0.1-7-x86_64.pkg.tar.zst.sig

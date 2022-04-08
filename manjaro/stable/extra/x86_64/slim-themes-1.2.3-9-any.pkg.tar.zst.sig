@@ -1,0 +1,1 @@
+../../../pool/sync/slim-themes-1.2.3-9-any.pkg.tar.zst.sig

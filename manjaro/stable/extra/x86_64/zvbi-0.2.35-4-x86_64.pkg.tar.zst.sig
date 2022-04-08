@@ -1,0 +1,1 @@
+../../../pool/sync/zvbi-0.2.35-4-x86_64.pkg.tar.zst.sig

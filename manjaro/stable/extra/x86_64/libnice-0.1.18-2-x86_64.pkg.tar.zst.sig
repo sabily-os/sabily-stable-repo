@@ -1,0 +1,1 @@
+../../../pool/sync/libnice-0.1.18-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/go-2:1.17.8-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-alt-pytest-asyncio-0.6.0-1-any.pkg.tar.zst.sig

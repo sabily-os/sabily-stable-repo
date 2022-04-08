@@ -1,0 +1,1 @@
+../../../pool/sync/peda-1.2-2-any.pkg.tar.zst.sig

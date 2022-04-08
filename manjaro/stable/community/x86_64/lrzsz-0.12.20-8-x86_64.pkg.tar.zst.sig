@@ -1,0 +1,1 @@
+../../../pool/sync/lrzsz-0.12.20-8-x86_64.pkg.tar.zst.sig

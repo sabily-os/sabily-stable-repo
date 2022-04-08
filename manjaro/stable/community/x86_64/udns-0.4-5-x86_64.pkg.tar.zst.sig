@@ -1,0 +1,1 @@
+../../../pool/sync/udns-0.4-5-x86_64.pkg.tar.zst.sig

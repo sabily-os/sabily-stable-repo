@@ -1,0 +1,1 @@
+../../../pool/sync/bower-1.8.13-1-any.pkg.tar.zst.sig

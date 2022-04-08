@@ -1,0 +1,1 @@
+../../../pool/sync/aspell-it-2.4_20070901-1-any.pkg.tar.zst.sig

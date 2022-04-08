@@ -1,0 +1,1 @@
+../../../pool/overlay/dolphin-plugins-21.12.2.1.r641.g684cc09-1-x86_64.pkg.tar.zst.sig

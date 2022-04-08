@@ -1,0 +1,1 @@
+../../../pool/sync/brial-1.2.10-2-x86_64.pkg.tar.zst.sig

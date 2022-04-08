@@ -1,0 +1,1 @@
+../../../pool/sync/xsensors-0.80-3-x86_64.pkg.tar.zst.sig

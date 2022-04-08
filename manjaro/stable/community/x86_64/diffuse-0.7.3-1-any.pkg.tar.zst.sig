@@ -1,0 +1,1 @@
+../../../pool/sync/diffuse-0.7.3-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/wakatime-1:1.35.4-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/ttf-arphic-ukai-0.2.20080216.2-1-any.pkg.tar.zst.sig

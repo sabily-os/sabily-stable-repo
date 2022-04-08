@@ -1,0 +1,1 @@
+../../../pool/sync/bully-1.1.12.g04185d7-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/soapysdr-0.8.1-3-x86_64.pkg.tar.zst.sig

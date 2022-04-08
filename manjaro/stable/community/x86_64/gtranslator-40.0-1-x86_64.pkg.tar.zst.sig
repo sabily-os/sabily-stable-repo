@@ -1,0 +1,1 @@
+../../../pool/sync/gtranslator-40.0-1-x86_64.pkg.tar.zst.sig

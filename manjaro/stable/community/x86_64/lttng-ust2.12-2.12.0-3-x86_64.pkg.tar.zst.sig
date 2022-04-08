@@ -1,0 +1,1 @@
+../../../pool/sync/lttng-ust2.12-2.12.0-3-x86_64.pkg.tar.zst.sig

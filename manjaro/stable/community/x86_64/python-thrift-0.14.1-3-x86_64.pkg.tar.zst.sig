@@ -1,0 +1,1 @@
+../../../pool/sync/python-thrift-0.14.1-3-x86_64.pkg.tar.zst.sig

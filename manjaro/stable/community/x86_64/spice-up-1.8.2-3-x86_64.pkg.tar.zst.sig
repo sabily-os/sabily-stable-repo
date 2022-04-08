@@ -1,0 +1,1 @@
+../../../pool/sync/spice-up-1.8.2-3-x86_64.pkg.tar.zst.sig

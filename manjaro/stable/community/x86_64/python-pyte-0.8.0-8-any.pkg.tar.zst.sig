@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyte-0.8.0-8-any.pkg.tar.zst.sig

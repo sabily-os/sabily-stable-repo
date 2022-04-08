@@ -1,0 +1,1 @@
+../../../pool/sync/sugar-activity-paint-70-1-any.pkg.tar.zst.sig

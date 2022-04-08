@@ -1,0 +1,1 @@
+../../../pool/sync/dbmail-3.2.6-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/golang-github-stretchr-testify-1.6.1-2-any.pkg.tar.zst.sig

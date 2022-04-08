@@ -1,0 +1,1 @@
+../../../pool/sync/qt5-quickcontrols-nemo-5.6.5-2-x86_64.pkg.tar.zst.sig

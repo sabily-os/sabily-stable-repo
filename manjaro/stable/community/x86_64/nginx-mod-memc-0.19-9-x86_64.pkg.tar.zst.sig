@@ -1,0 +1,1 @@
+../../../pool/sync/nginx-mod-memc-0.19-9-x86_64.pkg.tar.zst.sig

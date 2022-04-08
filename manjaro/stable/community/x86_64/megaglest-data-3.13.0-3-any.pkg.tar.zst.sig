@@ -1,0 +1,1 @@
+../../../pool/sync/megaglest-data-3.13.0-3-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyqt5-sip-12.9.1-1-x86_64.pkg.tar.zst.sig

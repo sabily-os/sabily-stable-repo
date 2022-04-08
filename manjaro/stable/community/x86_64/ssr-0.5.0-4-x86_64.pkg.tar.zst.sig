@@ -1,0 +1,1 @@
+../../../pool/sync/ssr-0.5.0-4-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-class-factory-util-1.7-10-any.pkg.tar.zst.sig

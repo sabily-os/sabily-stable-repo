@@ -1,0 +1,1 @@
+../../../pool/sync/xscreensaver-6.03-1-x86_64.pkg.tar.zst.sig

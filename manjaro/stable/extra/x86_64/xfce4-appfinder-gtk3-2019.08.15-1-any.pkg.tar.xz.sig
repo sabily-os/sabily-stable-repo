@@ -1,0 +1,1 @@
+../../../pool/overlay/xfce4-appfinder-gtk3-2019.08.15-1-any.pkg.tar.xz.sig

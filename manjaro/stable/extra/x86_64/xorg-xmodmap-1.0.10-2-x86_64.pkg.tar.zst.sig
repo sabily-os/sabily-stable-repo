@@ -1,0 +1,1 @@
+../../../pool/sync/xorg-xmodmap-1.0.10-2-x86_64.pkg.tar.zst.sig

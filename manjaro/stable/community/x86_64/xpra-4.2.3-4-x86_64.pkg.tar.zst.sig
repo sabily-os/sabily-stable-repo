@@ -1,0 +1,1 @@
+../../../pool/sync/xpra-4.2.3-4-x86_64.pkg.tar.zst.sig

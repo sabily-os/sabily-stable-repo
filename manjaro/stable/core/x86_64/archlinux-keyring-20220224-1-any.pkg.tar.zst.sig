@@ -1,0 +1,1 @@
+../../../pool/sync/archlinux-keyring-20220224-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-frozendict-1:2.3.0-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/xf86-video-qxl-0.1.5.r16.g52c421c-2-x86_64.pkg.tar.zst.sig

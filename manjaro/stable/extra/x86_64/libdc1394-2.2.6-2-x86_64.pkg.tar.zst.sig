@@ -1,0 +1,1 @@
+../../../pool/sync/libdc1394-2.2.6-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-generic-deriving-1.14.1-29-x86_64.pkg.tar.zst.sig

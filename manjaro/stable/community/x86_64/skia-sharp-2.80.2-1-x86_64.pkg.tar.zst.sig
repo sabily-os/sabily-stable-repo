@@ -1,0 +1,1 @@
+../../../pool/sync/skia-sharp-2.80.2-1-x86_64.pkg.tar.zst.sig

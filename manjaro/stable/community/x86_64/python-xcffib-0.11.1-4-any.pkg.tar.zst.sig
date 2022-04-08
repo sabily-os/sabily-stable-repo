@@ -1,0 +1,1 @@
+../../../pool/sync/python-xcffib-0.11.1-4-any.pkg.tar.zst.sig

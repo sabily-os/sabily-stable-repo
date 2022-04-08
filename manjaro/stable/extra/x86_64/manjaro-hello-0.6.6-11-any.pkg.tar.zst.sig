@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-hello-0.6.6-11-any.pkg.tar.zst.sig

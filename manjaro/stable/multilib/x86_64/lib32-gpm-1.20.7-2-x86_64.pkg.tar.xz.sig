@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-gpm-1.20.7-2-x86_64.pkg.tar.xz.sig

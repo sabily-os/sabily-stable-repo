@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-account-faces-1.0.12-1-any.pkg.tar.zst.sig

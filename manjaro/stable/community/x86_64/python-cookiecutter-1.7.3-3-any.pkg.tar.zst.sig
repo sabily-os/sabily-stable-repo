@@ -1,0 +1,1 @@
+../../../pool/sync/python-cookiecutter-1.7.3-3-any.pkg.tar.zst.sig

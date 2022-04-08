@@ -1,0 +1,1 @@
+../../../pool/sync/hdapsd-20141203-4-x86_64.pkg.tar.zst.sig

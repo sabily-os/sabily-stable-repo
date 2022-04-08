@@ -1,0 +1,1 @@
+../../../pool/sync/python-fonttools-4.30.0-1-x86_64.pkg.tar.zst.sig

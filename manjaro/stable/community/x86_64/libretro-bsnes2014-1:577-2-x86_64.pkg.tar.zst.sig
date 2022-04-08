@@ -1,0 +1,1 @@
+../../../pool/sync/libretro-bsnes2014-1:577-2-x86_64.pkg.tar.zst.sig

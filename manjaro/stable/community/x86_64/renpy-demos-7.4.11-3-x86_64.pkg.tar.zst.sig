@@ -1,0 +1,1 @@
+../../../pool/sync/renpy-demos-7.4.11-3-x86_64.pkg.tar.zst.sig

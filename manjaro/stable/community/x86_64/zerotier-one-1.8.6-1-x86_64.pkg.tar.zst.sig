@@ -1,0 +1,1 @@
+../../../pool/sync/zerotier-one-1.8.6-1-x86_64.pkg.tar.zst.sig

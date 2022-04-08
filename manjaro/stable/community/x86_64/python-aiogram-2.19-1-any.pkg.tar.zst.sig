@@ -1,0 +1,1 @@
+../../../pool/sync/python-aiogram-2.19-1-any.pkg.tar.zst.sig

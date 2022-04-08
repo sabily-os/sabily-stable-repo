@@ -1,0 +1,1 @@
+../../../pool/sync/perl-lingua-translit-0.28-6-any.pkg.tar.zst.sig

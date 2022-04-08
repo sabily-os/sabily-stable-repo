@@ -1,0 +1,1 @@
+../../../pool/sync/python-json-config-2.0.1-4-any.pkg.tar.zst.sig

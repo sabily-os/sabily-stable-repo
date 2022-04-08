@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-application-utility-1.3.3-6-any.pkg.tar.zst.sig

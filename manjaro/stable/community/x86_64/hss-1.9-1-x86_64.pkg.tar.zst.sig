@@ -1,0 +1,1 @@
+../../../pool/sync/hss-1.9-1-x86_64.pkg.tar.zst.sig

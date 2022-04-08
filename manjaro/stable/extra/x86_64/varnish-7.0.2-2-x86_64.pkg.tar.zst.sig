@@ -1,0 +1,1 @@
+../../../pool/sync/varnish-7.0.2-2-x86_64.pkg.tar.zst.sig

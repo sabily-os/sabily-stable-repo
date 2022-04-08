@@ -1,0 +1,1 @@
+../../../pool/sync/vifm-0.12-1-x86_64.pkg.tar.zst.sig

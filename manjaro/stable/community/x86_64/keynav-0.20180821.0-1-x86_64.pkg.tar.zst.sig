@@ -1,0 +1,1 @@
+../../../pool/sync/keynav-0.20180821.0-1-x86_64.pkg.tar.zst.sig

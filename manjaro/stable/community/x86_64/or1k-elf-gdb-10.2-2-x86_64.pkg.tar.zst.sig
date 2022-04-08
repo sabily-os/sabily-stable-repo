@@ -1,0 +1,1 @@
+../../../pool/sync/or1k-elf-gdb-10.2-2-x86_64.pkg.tar.zst.sig

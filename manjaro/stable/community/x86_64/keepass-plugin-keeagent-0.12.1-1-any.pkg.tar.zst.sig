@@ -1,0 +1,1 @@
+../../../pool/sync/keepass-plugin-keeagent-0.12.1-1-any.pkg.tar.zst.sig

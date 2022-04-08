@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-half-0.3.1-82-x86_64.pkg.tar.zst.sig

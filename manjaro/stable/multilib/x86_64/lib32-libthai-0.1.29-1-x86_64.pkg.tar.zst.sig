@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libthai-0.1.29-1-x86_64.pkg.tar.zst.sig

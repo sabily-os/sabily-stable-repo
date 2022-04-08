@@ -1,0 +1,1 @@
+../../../pool/sync/openrct2-0.3.5.1-2-x86_64.pkg.tar.zst.sig

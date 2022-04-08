@@ -1,0 +1,1 @@
+../../../pool/sync/freetds-1.3.9-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/cowfortune-0.1.2-7-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/libqofono-qt5-0.100-2-x86_64.pkg.tar.zst.sig

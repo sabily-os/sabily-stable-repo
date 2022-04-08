@@ -1,0 +1,1 @@
+../../../pool/sync/ext3grep-0.10.2-6-x86_64.pkg.tar.zst.sig

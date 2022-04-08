@@ -1,0 +1,1 @@
+../../../pool/sync/pulseaudio-zeroconf-15.0-4-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-interpolatedstring-perl6-1.0.2-191-x86_64.pkg.tar.zst.sig

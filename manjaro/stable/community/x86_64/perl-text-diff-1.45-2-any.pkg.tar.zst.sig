@@ -1,0 +1,1 @@
+../../../pool/sync/perl-text-diff-1.45-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/telepathy-mission-control-5.16.6-1-x86_64.pkg.tar.zst.sig

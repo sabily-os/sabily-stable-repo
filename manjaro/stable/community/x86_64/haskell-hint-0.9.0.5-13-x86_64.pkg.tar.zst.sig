@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-hint-0.9.0.5-13-x86_64.pkg.tar.zst.sig

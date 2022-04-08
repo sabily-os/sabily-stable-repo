@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-brotli-1.0.9-4-x86_64.pkg.tar.zst.sig

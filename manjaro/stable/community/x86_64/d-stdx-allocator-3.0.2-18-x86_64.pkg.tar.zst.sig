@@ -1,0 +1,1 @@
+../../../pool/sync/d-stdx-allocator-3.0.2-18-x86_64.pkg.tar.zst.sig

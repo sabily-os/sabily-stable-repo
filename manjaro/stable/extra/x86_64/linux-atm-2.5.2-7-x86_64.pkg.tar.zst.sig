@@ -1,0 +1,1 @@
+../../../pool/sync/linux-atm-2.5.2-7-x86_64.pkg.tar.zst.sig

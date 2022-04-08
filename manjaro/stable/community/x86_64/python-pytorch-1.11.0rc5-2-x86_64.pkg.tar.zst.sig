@@ -1,0 +1,1 @@
+../../../pool/sync/python-pytorch-1.11.0rc5-2-x86_64.pkg.tar.zst.sig

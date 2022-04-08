@@ -1,0 +1,1 @@
+../../../pool/sync/guake-3.8.5-1-any.pkg.tar.zst.sig

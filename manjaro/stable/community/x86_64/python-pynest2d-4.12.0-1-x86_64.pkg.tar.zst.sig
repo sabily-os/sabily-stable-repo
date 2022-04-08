@@ -1,0 +1,1 @@
+../../../pool/sync/python-pynest2d-4.12.0-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/unhide-20210124-1-x86_64.pkg.tar.zst.sig

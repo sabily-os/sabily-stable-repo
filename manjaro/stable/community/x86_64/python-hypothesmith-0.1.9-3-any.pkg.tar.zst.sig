@@ -1,0 +1,1 @@
+../../../pool/sync/python-hypothesmith-0.1.9-3-any.pkg.tar.zst.sig

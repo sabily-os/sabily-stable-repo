@@ -1,0 +1,1 @@
+../../../pool/sync/tex-gyre-fonts-2.501-2-any.pkg.tar.zst.sig

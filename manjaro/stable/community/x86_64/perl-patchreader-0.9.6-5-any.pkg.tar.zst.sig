@@ -1,0 +1,1 @@
+../../../pool/sync/perl-patchreader-0.9.6-5-any.pkg.tar.zst.sig

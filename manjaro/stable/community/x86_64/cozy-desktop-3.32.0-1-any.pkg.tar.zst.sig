@@ -1,0 +1,1 @@
+../../../pool/sync/cozy-desktop-3.32.0-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/emelfm2-0.9.1-3-x86_64.pkg.tar.zst.sig

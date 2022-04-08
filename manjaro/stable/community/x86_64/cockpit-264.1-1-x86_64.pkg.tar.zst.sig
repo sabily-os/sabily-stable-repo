@@ -1,0 +1,1 @@
+../../../pool/sync/cockpit-264.1-1-x86_64.pkg.tar.zst.sig

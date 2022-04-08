@@ -1,0 +1,1 @@
+../../../pool/sync/python-livereload-2.6.3-2-any.pkg.tar.zst.sig

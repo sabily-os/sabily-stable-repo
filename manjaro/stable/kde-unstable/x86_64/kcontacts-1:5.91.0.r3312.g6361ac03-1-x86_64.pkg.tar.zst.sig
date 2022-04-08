@@ -1,0 +1,1 @@
+../../../pool/overlay/kcontacts-1:5.91.0.r3312.g6361ac03-1-x86_64.pkg.tar.zst.sig

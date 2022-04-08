@@ -1,0 +1,1 @@
+../../../pool/sync/cutefish-icons-0.8-1-any.pkg.tar.zst.sig

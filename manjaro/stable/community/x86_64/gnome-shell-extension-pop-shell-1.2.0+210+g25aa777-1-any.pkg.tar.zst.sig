@@ -1,0 +1,1 @@
+../../../pool/overlay/gnome-shell-extension-pop-shell-1.2.0+210+g25aa777-1-any.pkg.tar.zst.sig

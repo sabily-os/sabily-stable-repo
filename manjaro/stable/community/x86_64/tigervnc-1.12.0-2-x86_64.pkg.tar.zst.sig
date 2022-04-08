@@ -1,0 +1,1 @@
+../../../pool/sync/tigervnc-1.12.0-2-x86_64.pkg.tar.zst.sig

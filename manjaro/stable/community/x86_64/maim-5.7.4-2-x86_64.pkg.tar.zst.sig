@@ -1,0 +1,1 @@
+../../../pool/sync/maim-5.7.4-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-pew-1.2.0-6-any.pkg.tar.zst.sig

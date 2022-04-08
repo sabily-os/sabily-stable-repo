@@ -1,0 +1,1 @@
+../../../pool/sync/python-structlog-21.5.0-1-any.pkg.tar.zst.sig

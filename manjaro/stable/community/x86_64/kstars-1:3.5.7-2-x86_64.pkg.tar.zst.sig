@@ -1,0 +1,1 @@
+../../../pool/sync/kstars-1:3.5.7-2-x86_64.pkg.tar.zst.sig

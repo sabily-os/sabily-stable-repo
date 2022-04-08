@@ -1,0 +1,1 @@
+../../../pool/sync/solr-8.11.1-1-any.pkg.tar.zst.sig

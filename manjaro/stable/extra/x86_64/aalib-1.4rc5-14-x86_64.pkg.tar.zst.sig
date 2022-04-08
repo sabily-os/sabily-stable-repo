@@ -1,0 +1,1 @@
+../../../pool/sync/aalib-1.4rc5-14-x86_64.pkg.tar.zst.sig

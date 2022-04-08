@@ -1,0 +1,1 @@
+../../../pool/sync/python-locket-0.2.1-4-any.pkg.tar.zst.sig

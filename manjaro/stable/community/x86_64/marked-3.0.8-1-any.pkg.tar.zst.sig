@@ -1,0 +1,1 @@
+../../../pool/sync/marked-3.0.8-1-any.pkg.tar.zst.sig

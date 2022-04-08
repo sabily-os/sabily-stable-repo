@@ -1,0 +1,1 @@
+../../../pool/sync/trash-cli-0.21.10.24-3-any.pkg.tar.zst.sig

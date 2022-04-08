@@ -1,0 +1,1 @@
+../../../pool/sync/gedit-plugins-41.0-1-x86_64.pkg.tar.zst.sig

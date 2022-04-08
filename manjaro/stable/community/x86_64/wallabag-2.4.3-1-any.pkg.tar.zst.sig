@@ -1,0 +1,1 @@
+../../../pool/sync/wallabag-2.4.3-1-any.pkg.tar.zst.sig

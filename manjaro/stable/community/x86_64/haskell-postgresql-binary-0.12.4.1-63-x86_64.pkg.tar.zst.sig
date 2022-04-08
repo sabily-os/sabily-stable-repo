@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-postgresql-binary-0.12.4.1-63-x86_64.pkg.tar.zst.sig

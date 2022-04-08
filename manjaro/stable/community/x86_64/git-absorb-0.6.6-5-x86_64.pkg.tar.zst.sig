@@ -1,0 +1,1 @@
+../../../pool/sync/git-absorb-0.6.6-5-x86_64.pkg.tar.zst.sig

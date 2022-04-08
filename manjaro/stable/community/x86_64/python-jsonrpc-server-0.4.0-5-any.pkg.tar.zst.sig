@@ -1,0 +1,1 @@
+../../../pool/sync/python-jsonrpc-server-0.4.0-5-any.pkg.tar.zst.sig

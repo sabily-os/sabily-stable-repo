@@ -1,0 +1,1 @@
+../../../pool/sync/mkinitcpio-systemd-tool-37-1-any.pkg.tar.zst.sig

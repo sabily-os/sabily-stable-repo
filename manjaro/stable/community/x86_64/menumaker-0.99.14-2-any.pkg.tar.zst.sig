@@ -1,0 +1,1 @@
+../../../pool/sync/menumaker-0.99.14-2-any.pkg.tar.zst.sig

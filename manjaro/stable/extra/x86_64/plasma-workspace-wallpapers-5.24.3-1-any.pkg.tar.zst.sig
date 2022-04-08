@@ -1,0 +1,1 @@
+../../../pool/sync/plasma-workspace-wallpapers-5.24.3-1-any.pkg.tar.zst.sig

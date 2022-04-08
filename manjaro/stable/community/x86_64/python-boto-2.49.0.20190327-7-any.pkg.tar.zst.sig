@@ -1,0 +1,1 @@
+../../../pool/sync/python-boto-2.49.0.20190327-7-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/cairo-dock-plug-ins-3.4.1-19-x86_64.pkg.tar.zst.sig

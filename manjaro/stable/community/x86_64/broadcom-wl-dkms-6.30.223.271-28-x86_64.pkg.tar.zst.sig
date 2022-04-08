@@ -1,0 +1,1 @@
+../../../pool/sync/broadcom-wl-dkms-6.30.223.271-28-x86_64.pkg.tar.zst.sig

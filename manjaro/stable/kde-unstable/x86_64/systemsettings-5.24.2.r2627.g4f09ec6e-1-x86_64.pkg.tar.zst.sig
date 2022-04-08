@@ -1,0 +1,1 @@
+../../../pool/overlay/systemsettings-5.24.2.r2627.g4f09ec6e-1-x86_64.pkg.tar.zst.sig

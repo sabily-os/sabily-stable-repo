@@ -1,0 +1,1 @@
+../../../pool/sync/python-dephell-changelogs-0.0.1-6-any.pkg.tar.zst.sig

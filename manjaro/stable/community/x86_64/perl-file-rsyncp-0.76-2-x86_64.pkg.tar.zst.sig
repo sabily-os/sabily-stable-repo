@@ -1,0 +1,1 @@
+../../../pool/sync/perl-file-rsyncp-0.76-2-x86_64.pkg.tar.zst.sig

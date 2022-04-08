@@ -1,0 +1,1 @@
+../../../pool/sync/python-qt.py-1.2.5-7-any.pkg.tar.zst.sig

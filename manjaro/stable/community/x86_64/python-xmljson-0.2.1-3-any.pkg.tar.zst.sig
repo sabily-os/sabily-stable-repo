@@ -1,0 +1,1 @@
+../../../pool/sync/python-xmljson-0.2.1-3-any.pkg.tar.zst.sig

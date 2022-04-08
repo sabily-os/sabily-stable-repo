@@ -1,0 +1,1 @@
+../../../pool/sync/0ad-data-a25.b-1-any.pkg.tar.zst.sig

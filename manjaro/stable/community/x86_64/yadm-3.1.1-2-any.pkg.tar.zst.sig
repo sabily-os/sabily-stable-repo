@@ -1,0 +1,1 @@
+../../../pool/sync/yadm-3.1.1-2-any.pkg.tar.zst.sig

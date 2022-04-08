@@ -1,0 +1,1 @@
+../../../pool/sync/babel-cli-7.17.6-1-any.pkg.tar.zst.sig

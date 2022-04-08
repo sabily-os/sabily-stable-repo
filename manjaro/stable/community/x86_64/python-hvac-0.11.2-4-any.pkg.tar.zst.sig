@@ -1,0 +1,1 @@
+../../../pool/sync/python-hvac-0.11.2-4-any.pkg.tar.zst.sig

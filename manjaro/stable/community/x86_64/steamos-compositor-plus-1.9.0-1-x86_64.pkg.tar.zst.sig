@@ -1,0 +1,1 @@
+../../../pool/overlay/steamos-compositor-plus-1.9.0-1-x86_64.pkg.tar.zst.sig

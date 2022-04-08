@@ -1,0 +1,1 @@
+../../../pool/sync/i3lock-2.13-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-openid-3.2.0-5-any.pkg.tar.zst.sig

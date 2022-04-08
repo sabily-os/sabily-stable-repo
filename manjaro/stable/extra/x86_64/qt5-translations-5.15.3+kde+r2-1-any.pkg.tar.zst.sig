@@ -1,0 +1,1 @@
+../../../pool/sync/qt5-translations-5.15.3+kde+r2-1-any.pkg.tar.zst.sig

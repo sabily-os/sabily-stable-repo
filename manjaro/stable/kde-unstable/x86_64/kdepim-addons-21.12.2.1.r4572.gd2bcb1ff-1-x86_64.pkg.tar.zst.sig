@@ -1,0 +1,1 @@
+../../../pool/overlay/kdepim-addons-21.12.2.1.r4572.gd2bcb1ff-1-x86_64.pkg.tar.zst.sig

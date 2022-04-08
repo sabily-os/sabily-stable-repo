@@ -1,0 +1,1 @@
+../../../pool/sync/espeak-ng-espeak-1.50-5-x86_64.pkg.tar.zst.sig

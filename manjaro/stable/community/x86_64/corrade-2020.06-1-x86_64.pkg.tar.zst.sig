@@ -1,0 +1,1 @@
+../../../pool/sync/corrade-2020.06-1-x86_64.pkg.tar.zst.sig

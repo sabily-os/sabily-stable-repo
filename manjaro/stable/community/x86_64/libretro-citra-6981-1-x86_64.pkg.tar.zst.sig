@@ -1,0 +1,1 @@
+../../../pool/sync/libretro-citra-6981-1-x86_64.pkg.tar.zst.sig

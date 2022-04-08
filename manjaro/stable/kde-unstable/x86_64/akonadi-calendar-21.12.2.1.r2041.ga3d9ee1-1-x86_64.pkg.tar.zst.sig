@@ -1,0 +1,1 @@
+../../../pool/overlay/akonadi-calendar-21.12.2.1.r2041.ga3d9ee1-1-x86_64.pkg.tar.zst.sig

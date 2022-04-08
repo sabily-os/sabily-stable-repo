@@ -1,0 +1,1 @@
+../../../pool/sync/xsd-4.0.0-4-x86_64.pkg.tar.zst.sig

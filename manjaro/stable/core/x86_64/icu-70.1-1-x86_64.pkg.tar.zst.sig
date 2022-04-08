@@ -1,0 +1,1 @@
+../../../pool/sync/icu-70.1-1-x86_64.pkg.tar.zst.sig

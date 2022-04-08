@@ -1,0 +1,1 @@
+../../../pool/sync/mapnik-3.1.0-8-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/texinfo-6.8-2-x86_64.pkg.tar.zst.sig

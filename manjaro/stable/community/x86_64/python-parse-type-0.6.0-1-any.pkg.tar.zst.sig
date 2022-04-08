@@ -1,0 +1,1 @@
+../../../pool/sync/python-parse-type-0.6.0-1-any.pkg.tar.zst.sig

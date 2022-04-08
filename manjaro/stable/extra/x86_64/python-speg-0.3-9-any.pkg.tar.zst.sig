@@ -1,0 +1,1 @@
+../../../pool/sync/python-speg-0.3-9-any.pkg.tar.zst.sig

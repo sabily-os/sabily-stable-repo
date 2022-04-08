@@ -1,0 +1,1 @@
+../../../pool/sync/python-typogrify-2.0.7-12-any.pkg.tar.zst.sig

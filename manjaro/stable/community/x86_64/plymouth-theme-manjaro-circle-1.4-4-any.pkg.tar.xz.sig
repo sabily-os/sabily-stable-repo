@@ -1,0 +1,1 @@
+../../../pool/overlay/plymouth-theme-manjaro-circle-1.4-4-any.pkg.tar.xz.sig

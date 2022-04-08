@@ -1,0 +1,1 @@
+../../../pool/overlay/discover-5.24.2.r8584.g72feb0f3-1-x86_64.pkg.tar.zst.sig

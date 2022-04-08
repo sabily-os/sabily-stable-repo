@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-mountpoints-1.0.2-24-x86_64.pkg.tar.zst.sig

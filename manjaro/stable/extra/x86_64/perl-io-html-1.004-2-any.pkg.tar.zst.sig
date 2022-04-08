@@ -1,0 +1,1 @@
+../../../pool/sync/perl-io-html-1.004-2-any.pkg.tar.zst.sig

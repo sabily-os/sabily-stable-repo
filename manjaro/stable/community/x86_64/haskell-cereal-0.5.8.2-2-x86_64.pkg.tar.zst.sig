@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-cereal-0.5.8.2-2-x86_64.pkg.tar.zst.sig

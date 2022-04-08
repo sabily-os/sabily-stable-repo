@@ -1,0 +1,1 @@
+../../../pool/overlay/krdc-21.12.2.1.r1563.g030702d-1-x86_64.pkg.tar.zst.sig

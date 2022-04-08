@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-type-equality-1-12-x86_64.pkg.tar.zst.sig

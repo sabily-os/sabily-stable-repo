@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-regex-base-0.94.0.2-2-x86_64.pkg.tar.zst.sig

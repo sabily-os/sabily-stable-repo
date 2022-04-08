@@ -1,0 +1,1 @@
+../../../pool/sync/firefox-extension-privacybadger-2021.8.17-1-any.pkg.tar.zst.sig

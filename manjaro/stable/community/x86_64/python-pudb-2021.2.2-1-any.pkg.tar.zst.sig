@@ -1,0 +1,1 @@
+../../../pool/sync/python-pudb-2021.2.2-1-any.pkg.tar.zst.sig

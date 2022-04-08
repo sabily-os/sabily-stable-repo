@@ -1,0 +1,1 @@
+../../../pool/sync/python-colour-0.1.5-10-any.pkg.tar.zst.sig

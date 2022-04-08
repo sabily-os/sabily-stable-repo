@@ -1,0 +1,1 @@
+../../../pool/sync/gdk-pixbuf2-2.42.6-2-x86_64.pkg.tar.zst.sig

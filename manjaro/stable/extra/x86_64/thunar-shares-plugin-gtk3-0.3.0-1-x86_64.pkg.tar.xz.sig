@@ -1,0 +1,1 @@
+../../../pool/overlay/thunar-shares-plugin-gtk3-0.3.0-1-x86_64.pkg.tar.xz.sig

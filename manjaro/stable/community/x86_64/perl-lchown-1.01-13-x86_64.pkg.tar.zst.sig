@@ -1,0 +1,1 @@
+../../../pool/sync/perl-lchown-1.01-13-x86_64.pkg.tar.zst.sig

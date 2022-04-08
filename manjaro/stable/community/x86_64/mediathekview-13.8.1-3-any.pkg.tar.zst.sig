@@ -1,0 +1,1 @@
+../../../pool/sync/mediathekview-13.8.1-3-any.pkg.tar.zst.sig

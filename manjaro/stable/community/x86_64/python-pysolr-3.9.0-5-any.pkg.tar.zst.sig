@@ -1,0 +1,1 @@
+../../../pool/sync/python-pysolr-3.9.0-5-any.pkg.tar.zst.sig

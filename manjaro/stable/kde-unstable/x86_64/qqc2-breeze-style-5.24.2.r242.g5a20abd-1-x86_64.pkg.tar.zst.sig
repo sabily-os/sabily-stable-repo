@@ -1,0 +1,1 @@
+../../../pool/overlay/qqc2-breeze-style-5.24.2.r242.g5a20abd-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/aom-docs-3.3.0-1-x86_64.pkg.tar.zst.sig

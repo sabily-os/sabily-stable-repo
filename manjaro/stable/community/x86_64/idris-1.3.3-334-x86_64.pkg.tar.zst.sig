@@ -1,0 +1,1 @@
+../../../pool/sync/idris-1.3.3-334-x86_64.pkg.tar.zst.sig

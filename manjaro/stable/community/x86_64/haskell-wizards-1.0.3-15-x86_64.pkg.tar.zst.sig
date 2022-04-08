@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-wizards-1.0.3-15-x86_64.pkg.tar.zst.sig

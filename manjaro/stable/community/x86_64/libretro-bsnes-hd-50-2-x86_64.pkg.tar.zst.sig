@@ -1,0 +1,1 @@
+../../../pool/sync/libretro-bsnes-hd-50-2-x86_64.pkg.tar.zst.sig

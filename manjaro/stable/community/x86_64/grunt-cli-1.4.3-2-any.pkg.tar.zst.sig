@@ -1,0 +1,1 @@
+../../../pool/sync/grunt-cli-1.4.3-2-any.pkg.tar.zst.sig

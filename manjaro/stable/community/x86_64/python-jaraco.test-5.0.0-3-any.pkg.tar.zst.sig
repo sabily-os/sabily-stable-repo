@@ -1,0 +1,1 @@
+../../../pool/sync/python-jaraco.test-5.0.0-3-any.pkg.tar.zst.sig

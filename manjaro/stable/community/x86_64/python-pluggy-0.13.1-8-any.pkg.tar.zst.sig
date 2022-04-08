@@ -1,0 +1,1 @@
+../../../pool/sync/python-pluggy-0.13.1-8-any.pkg.tar.zst.sig

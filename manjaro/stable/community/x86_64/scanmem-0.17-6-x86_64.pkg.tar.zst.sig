@@ -1,0 +1,1 @@
+../../../pool/sync/scanmem-0.17-6-x86_64.pkg.tar.zst.sig

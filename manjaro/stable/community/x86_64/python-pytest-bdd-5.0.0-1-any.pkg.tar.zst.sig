@@ -1,0 +1,1 @@
+../../../pool/sync/python-pytest-bdd-5.0.0-1-any.pkg.tar.zst.sig

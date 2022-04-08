@@ -1,0 +1,1 @@
+../../../pool/sync/gfan-0.6.2-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/libmediainfo-21.09-1-x86_64.pkg.tar.zst.sig

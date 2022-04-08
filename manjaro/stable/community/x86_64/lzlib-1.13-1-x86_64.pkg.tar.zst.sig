@@ -1,0 +1,1 @@
+../../../pool/sync/lzlib-1.13-1-x86_64.pkg.tar.zst.sig

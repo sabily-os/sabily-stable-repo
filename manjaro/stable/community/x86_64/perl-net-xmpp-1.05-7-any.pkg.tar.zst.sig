@@ -1,0 +1,1 @@
+../../../pool/sync/perl-net-xmpp-1.05-7-any.pkg.tar.zst.sig

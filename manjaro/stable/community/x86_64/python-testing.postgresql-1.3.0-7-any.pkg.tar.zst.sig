@@ -1,0 +1,1 @@
+../../../pool/sync/python-testing.postgresql-1.3.0-7-any.pkg.tar.zst.sig

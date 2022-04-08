@@ -1,0 +1,1 @@
+../../../pool/sync/geocode-glib-3.26.2+r9+g6047da3-1-x86_64.pkg.tar.zst.sig

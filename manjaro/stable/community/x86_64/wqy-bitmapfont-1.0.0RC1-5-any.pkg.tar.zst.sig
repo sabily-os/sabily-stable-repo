@@ -1,0 +1,1 @@
+../../../pool/sync/wqy-bitmapfont-1.0.0RC1-5-any.pkg.tar.zst.sig

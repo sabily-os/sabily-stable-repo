@@ -1,0 +1,1 @@
+../../../pool/sync/cycfx2prog-0.47-2-x86_64.pkg.tar.zst.sig

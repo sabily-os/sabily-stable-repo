@@ -1,0 +1,1 @@
+../../../pool/sync/signon-ui-0.17+20171022-3-x86_64.pkg.tar.zst.sig

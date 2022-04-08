@@ -1,0 +1,1 @@
+../../../pool/sync/python-justbases-0.15-3-any.pkg.tar.zst.sig

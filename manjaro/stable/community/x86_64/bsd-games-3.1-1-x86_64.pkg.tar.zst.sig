@@ -1,0 +1,1 @@
+../../../pool/sync/bsd-games-3.1-1-x86_64.pkg.tar.zst.sig

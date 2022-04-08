@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-gnome-extension-settings-20220228-1-any.pkg.tar.zst.sig

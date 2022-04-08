@@ -1,0 +1,1 @@
+../../../pool/sync/lxsession-gtk3-1:0.5.5-1-x86_64.pkg.tar.zst.sig

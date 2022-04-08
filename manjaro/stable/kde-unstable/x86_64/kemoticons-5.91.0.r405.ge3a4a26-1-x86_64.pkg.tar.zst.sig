@@ -1,0 +1,1 @@
+../../../pool/overlay/kemoticons-5.91.0.r405.ge3a4a26-1-x86_64.pkg.tar.zst.sig

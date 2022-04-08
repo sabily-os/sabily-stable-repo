@@ -1,0 +1,1 @@
+../../../pool/sync/hunspell-de-20161207-7-any.pkg.tar.zst.sig

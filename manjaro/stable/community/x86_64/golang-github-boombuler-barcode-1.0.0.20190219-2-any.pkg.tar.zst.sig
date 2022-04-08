@@ -1,0 +1,1 @@
+../../../pool/sync/golang-github-boombuler-barcode-1.0.0.20190219-2-any.pkg.tar.zst.sig

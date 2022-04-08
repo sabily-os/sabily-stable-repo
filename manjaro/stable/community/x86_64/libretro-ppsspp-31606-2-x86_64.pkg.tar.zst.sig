@@ -1,0 +1,1 @@
+../../../pool/sync/libretro-ppsspp-31606-2-x86_64.pkg.tar.zst.sig

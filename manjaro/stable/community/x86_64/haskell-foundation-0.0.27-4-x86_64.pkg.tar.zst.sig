@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-foundation-0.0.27-4-x86_64.pkg.tar.zst.sig

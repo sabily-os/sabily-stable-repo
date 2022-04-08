@@ -1,0 +1,1 @@
+../../../pool/sync/uwsgi-plugin-cgi-2.0.20-6-x86_64.pkg.tar.zst.sig

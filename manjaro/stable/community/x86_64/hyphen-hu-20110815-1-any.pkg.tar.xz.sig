@@ -1,0 +1,1 @@
+../../../pool/sync/hyphen-hu-20110815-1-any.pkg.tar.xz.sig

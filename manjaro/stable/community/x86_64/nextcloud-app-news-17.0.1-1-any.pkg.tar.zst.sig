@@ -1,0 +1,1 @@
+../../../pool/sync/nextcloud-app-news-17.0.1-1-any.pkg.tar.zst.sig

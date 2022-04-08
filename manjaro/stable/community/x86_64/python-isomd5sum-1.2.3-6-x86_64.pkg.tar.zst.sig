@@ -1,0 +1,1 @@
+../../../pool/sync/python-isomd5sum-1.2.3-6-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/matrix-synapse-1.54.0-1-any.pkg.tar.zst.sig

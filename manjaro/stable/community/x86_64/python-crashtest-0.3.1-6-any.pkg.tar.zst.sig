@@ -1,0 +1,1 @@
+../../../pool/sync/python-crashtest-0.3.1-6-any.pkg.tar.zst.sig

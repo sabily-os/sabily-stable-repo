@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-architect-dev-launcher-0.9.30.r5.gc9d0ab9-1-any.pkg.tar.zst.sig

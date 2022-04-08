@@ -1,0 +1,1 @@
+../../../pool/sync/python-oslo-db-11.2.0-1-any.pkg.tar.zst.sig

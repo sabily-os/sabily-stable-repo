@@ -1,0 +1,1 @@
+../../../pool/sync/fop-2.7-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/plymouth-theme-manjaro-deepin-1.6-5-any.pkg.tar.xz.sig

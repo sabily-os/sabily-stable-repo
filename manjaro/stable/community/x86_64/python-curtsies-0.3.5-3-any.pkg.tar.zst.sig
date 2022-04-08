@@ -1,0 +1,1 @@
+../../../pool/sync/python-curtsies-0.3.5-3-any.pkg.tar.zst.sig

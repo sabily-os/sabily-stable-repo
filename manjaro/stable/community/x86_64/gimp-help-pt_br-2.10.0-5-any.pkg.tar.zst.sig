@@ -1,0 +1,1 @@
+../../../pool/sync/gimp-help-pt_br-2.10.0-5-any.pkg.tar.zst.sig

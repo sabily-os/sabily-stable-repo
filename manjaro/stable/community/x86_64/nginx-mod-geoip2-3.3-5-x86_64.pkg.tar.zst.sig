@@ -1,0 +1,1 @@
+../../../pool/sync/nginx-mod-geoip2-3.3-5-x86_64.pkg.tar.zst.sig

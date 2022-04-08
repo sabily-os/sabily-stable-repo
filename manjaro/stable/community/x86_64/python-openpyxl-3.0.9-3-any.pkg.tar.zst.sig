@@ -1,0 +1,1 @@
+../../../pool/sync/python-openpyxl-3.0.9-3-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/lockdev-1.0.3_1.6-6-x86_64.pkg.tar.zst.sig

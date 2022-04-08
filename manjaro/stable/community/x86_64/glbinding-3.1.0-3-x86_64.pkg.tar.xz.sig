@@ -1,0 +1,1 @@
+../../../pool/sync/glbinding-3.1.0-3-x86_64.pkg.tar.xz.sig

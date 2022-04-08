@@ -1,0 +1,1 @@
+../../../pool/sync/robotfindskitten-2.7182818.701-6-x86_64.pkg.tar.zst.sig

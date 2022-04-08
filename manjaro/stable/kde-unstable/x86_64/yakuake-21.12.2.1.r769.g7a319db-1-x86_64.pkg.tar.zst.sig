@@ -1,0 +1,1 @@
+../../../pool/overlay/yakuake-21.12.2.1.r769.g7a319db-1-x86_64.pkg.tar.zst.sig

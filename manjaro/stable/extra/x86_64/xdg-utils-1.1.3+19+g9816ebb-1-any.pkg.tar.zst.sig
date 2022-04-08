@@ -1,0 +1,1 @@
+../../../pool/sync/xdg-utils-1.1.3+19+g9816ebb-1-any.pkg.tar.zst.sig

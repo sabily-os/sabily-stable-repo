@@ -1,0 +1,1 @@
+../../../pool/sync/xclip-0.13-3-x86_64.pkg.tar.zst.sig

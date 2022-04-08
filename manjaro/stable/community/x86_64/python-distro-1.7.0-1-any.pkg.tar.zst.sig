@@ -1,0 +1,1 @@
+../../../pool/sync/python-distro-1.7.0-1-any.pkg.tar.zst.sig

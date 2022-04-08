@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-stmonadtrans-0.4.6-29-x86_64.pkg.tar.zst.sig

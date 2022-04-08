@@ -1,0 +1,1 @@
+../../../pool/sync/postgresql-docs-13.6-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/transmageddon-1.5-9-any.pkg.tar.zst.sig

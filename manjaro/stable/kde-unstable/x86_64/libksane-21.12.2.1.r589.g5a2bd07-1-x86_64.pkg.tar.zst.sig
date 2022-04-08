@@ -1,0 +1,1 @@
+../../../pool/overlay/libksane-21.12.2.1.r589.g5a2bd07-1-x86_64.pkg.tar.zst.sig

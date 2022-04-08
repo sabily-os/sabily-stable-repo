@@ -1,0 +1,1 @@
+../../../pool/sync/perl-sub-exporter-progressive-0.001013-7-any.pkg.tar.zst.sig

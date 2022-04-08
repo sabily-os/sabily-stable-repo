@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-microspec-0.2.1.3-149-x86_64.pkg.tar.zst.sig

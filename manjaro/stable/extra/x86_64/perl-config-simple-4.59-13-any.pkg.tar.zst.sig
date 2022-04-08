@@ -1,0 +1,1 @@
+../../../pool/sync/perl-config-simple-4.59-13-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/dev86-0.16.21-6-x86_64.pkg.tar.zst.sig

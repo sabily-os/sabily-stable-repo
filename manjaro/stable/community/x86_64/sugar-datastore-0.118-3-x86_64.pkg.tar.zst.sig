@@ -1,0 +1,1 @@
+../../../pool/sync/sugar-datastore-0.118-3-x86_64.pkg.tar.zst.sig

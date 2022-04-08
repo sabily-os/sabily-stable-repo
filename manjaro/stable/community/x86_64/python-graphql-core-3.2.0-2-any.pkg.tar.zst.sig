@@ -1,0 +1,1 @@
+../../../pool/sync/python-graphql-core-3.2.0-2-any.pkg.tar.zst.sig

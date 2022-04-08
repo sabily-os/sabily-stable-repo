@@ -1,0 +1,1 @@
+../../../pool/sync/vscode-json-languageserver-1.65.0-1-any.pkg.tar.zst.sig

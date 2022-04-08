@@ -1,0 +1,1 @@
+../../../pool/sync/blinksocks-3.3.8-3-any.pkg.tar.zst.sig

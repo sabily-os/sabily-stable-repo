@@ -1,0 +1,1 @@
+../../../pool/sync/shadowsocks-3.0.0a.20180219-4-any.pkg.tar.zst.sig

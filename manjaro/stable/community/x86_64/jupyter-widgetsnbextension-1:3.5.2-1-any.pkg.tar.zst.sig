@@ -1,0 +1,1 @@
+../../../pool/sync/jupyter-widgetsnbextension-1:3.5.2-1-any.pkg.tar.zst.sig

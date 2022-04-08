@@ -1,0 +1,1 @@
+../../../pool/sync/libvterm-0.1.3.git1.65dbda-1-x86_64.pkg.tar.zst.sig

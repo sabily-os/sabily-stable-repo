@@ -1,0 +1,1 @@
+../../../pool/sync/razercfg-0.42-5-x86_64.pkg.tar.zst.sig

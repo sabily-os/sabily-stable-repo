@@ -1,0 +1,1 @@
+../../../pool/sync/mkosi-10-2-any.pkg.tar.zst.sig

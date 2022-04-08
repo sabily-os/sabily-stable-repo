@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-time-manager-0.0.0-218-x86_64.pkg.tar.zst.sig

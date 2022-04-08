@@ -1,0 +1,1 @@
+../../../pool/sync/cardinal-22.02-4-x86_64.pkg.tar.zst.sig

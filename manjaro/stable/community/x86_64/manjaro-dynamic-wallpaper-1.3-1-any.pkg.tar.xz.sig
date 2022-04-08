@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-dynamic-wallpaper-1.3-1-any.pkg.tar.xz.sig

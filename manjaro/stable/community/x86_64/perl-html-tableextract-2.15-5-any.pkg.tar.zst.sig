@@ -1,0 +1,1 @@
+../../../pool/sync/perl-html-tableextract-2.15-5-any.pkg.tar.zst.sig

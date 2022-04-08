@@ -1,0 +1,1 @@
+../../../pool/sync/selene-linter-0.16.0-2-x86_64.pkg.tar.zst.sig

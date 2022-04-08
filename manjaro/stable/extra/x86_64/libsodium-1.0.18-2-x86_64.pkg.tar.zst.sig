@@ -1,0 +1,1 @@
+../../../pool/sync/libsodium-1.0.18-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-tzdata-0.2.20211021.0-5-x86_64.pkg.tar.zst.sig

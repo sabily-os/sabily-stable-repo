@@ -1,0 +1,1 @@
+../../../pool/overlay/kjobwidgets-5.91.0.r406.g0dc18f6-1-x86_64.pkg.tar.zst.sig

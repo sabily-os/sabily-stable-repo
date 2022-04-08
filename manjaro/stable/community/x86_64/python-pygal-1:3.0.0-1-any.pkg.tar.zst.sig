@@ -1,0 +1,1 @@
+../../../pool/sync/python-pygal-1:3.0.0-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/rime-luna-pinyin-0.0.0.20210805-1-x86_64.pkg.tar.zst.sig

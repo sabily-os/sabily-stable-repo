@@ -1,0 +1,1 @@
+../../../pool/overlay/nemo-run-with-nvidia-prime-run-0.1.0-1-any.pkg.tar.zst.sig

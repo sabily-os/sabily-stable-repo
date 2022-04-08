@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-kan-extensions-5.2.3-46-x86_64.pkg.tar.zst.sig

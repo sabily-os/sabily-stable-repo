@@ -1,0 +1,1 @@
+../../../pool/sync/telepathy-salut-0.8.1-7-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-clipboard-5.3.16-2-x86_64.pkg.tar.zst.sig

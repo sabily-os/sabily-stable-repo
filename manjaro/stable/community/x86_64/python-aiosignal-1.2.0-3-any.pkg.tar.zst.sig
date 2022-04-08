@@ -1,0 +1,1 @@
+../../../pool/sync/python-aiosignal-1.2.0-3-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-at-spi2-atk-2.38.0-2-x86_64.pkg.tar.zst.sig

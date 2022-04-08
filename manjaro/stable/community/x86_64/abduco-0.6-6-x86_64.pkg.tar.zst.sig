@@ -1,0 +1,1 @@
+../../../pool/sync/abduco-0.6-6-x86_64.pkg.tar.zst.sig

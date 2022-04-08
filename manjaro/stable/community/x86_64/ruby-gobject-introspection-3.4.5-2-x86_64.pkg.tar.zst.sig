@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-gobject-introspection-3.4.5-2-x86_64.pkg.tar.zst.sig

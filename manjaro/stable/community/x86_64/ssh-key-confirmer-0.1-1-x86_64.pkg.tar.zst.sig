@@ -1,0 +1,1 @@
+../../../pool/sync/ssh-key-confirmer-0.1-1-x86_64.pkg.tar.zst.sig

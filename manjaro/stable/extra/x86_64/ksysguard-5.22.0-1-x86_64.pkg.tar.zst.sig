@@ -1,0 +1,1 @@
+../../../pool/sync/ksysguard-5.22.0-1-x86_64.pkg.tar.zst.sig

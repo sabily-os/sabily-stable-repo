@@ -1,0 +1,1 @@
+../../../pool/sync/python-celery-5.2.1-1-any.pkg.tar.zst.sig

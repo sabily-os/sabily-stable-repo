@@ -1,0 +1,1 @@
+../../../pool/sync/alsa-oss-1.1.8-4-x86_64.pkg.tar.zst.sig

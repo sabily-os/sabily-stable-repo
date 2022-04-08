@@ -1,0 +1,1 @@
+../../../pool/overlay/lighter-gnome-20211216-1-any.pkg.tar.zst.sig

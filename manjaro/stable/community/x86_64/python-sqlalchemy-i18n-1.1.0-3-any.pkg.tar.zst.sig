@@ -1,0 +1,1 @@
+../../../pool/sync/python-sqlalchemy-i18n-1.1.0-3-any.pkg.tar.zst.sig

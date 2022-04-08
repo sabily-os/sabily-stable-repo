@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libaio-0.3.112-1-x86_64.pkg.tar.xz.sig

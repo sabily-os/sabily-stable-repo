@@ -1,0 +1,1 @@
+../../../pool/overlay/kconfigwidgets-5.91.0.r694.g411dd31-1-x86_64.pkg.tar.zst.sig

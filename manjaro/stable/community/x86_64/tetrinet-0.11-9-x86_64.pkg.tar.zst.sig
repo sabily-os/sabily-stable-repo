@@ -1,0 +1,1 @@
+../../../pool/sync/tetrinet-0.11-9-x86_64.pkg.tar.zst.sig

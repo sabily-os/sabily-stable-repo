@@ -1,0 +1,1 @@
+../../../pool/sync/dtkwidget-5.5.37-2-x86_64.pkg.tar.zst.sig

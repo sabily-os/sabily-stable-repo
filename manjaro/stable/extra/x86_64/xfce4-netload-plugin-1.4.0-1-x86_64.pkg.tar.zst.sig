@@ -1,0 +1,1 @@
+../../../pool/sync/xfce4-netload-plugin-1.4.0-1-x86_64.pkg.tar.zst.sig

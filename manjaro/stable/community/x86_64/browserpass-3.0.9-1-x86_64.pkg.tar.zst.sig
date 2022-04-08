@@ -1,0 +1,1 @@
+../../../pool/sync/browserpass-3.0.9-1-x86_64.pkg.tar.zst.sig

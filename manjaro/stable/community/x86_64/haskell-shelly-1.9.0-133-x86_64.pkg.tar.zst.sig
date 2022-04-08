@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-shelly-1.9.0-133-x86_64.pkg.tar.zst.sig

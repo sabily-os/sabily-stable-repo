@@ -1,0 +1,1 @@
+../../../pool/sync/id3v2-0.1.12-6-x86_64.pkg.tar.zst.sig

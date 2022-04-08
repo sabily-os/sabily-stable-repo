@@ -1,0 +1,1 @@
+../../../pool/sync/python-xmlsec-1.3.12-3-x86_64.pkg.tar.zst.sig

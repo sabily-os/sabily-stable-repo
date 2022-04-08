@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-extra-1.7.10-34-x86_64.pkg.tar.zst.sig

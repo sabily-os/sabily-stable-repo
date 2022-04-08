@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-mini_portile2-2.7.1-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/tesseract-data-hye-2:4.1.0-3-any.pkg.tar.zst.sig

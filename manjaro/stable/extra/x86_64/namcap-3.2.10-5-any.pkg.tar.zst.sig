@@ -1,0 +1,1 @@
+../../../pool/sync/namcap-3.2.10-5-any.pkg.tar.zst.sig

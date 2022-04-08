@@ -1,0 +1,1 @@
+../../../pool/sync/xkbsel-0.13-11-x86_64.pkg.tar.zst.sig

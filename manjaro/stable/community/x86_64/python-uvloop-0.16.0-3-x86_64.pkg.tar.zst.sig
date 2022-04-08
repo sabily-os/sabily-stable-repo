@@ -1,0 +1,1 @@
+../../../pool/sync/python-uvloop-0.16.0-3-x86_64.pkg.tar.zst.sig

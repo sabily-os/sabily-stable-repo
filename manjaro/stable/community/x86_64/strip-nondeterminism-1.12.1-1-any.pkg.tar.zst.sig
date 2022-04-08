@@ -1,0 +1,1 @@
+../../../pool/sync/strip-nondeterminism-1.12.1-1-any.pkg.tar.zst.sig

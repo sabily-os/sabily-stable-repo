@@ -1,0 +1,1 @@
+../../../pool/sync/python-uproot-methods-0.10.1-3-any.pkg.tar.zst.sig

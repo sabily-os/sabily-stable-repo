@@ -1,0 +1,1 @@
+../../../pool/sync/arb-2.22.1-1-x86_64.pkg.tar.zst.sig

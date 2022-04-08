@@ -1,0 +1,1 @@
+../../../pool/sync/magic-wormhole-0.12.0-7-any.pkg.tar.zst.sig

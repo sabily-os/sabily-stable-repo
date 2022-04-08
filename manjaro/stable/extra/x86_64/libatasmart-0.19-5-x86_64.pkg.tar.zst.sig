@@ -1,0 +1,1 @@
+../../../pool/sync/libatasmart-0.19-5-x86_64.pkg.tar.zst.sig

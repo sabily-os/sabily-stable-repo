@@ -1,0 +1,1 @@
+../../../pool/sync/spectrwm-3.4.1-1-x86_64.pkg.tar.zst.sig

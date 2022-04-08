@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-ed25519-0.0.5.0-24-x86_64.pkg.tar.zst.sig

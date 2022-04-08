@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-data-serializer-0.3.5-70-x86_64.pkg.tar.zst.sig

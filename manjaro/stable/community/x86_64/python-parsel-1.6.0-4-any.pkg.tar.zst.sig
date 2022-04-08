@@ -1,0 +1,1 @@
+../../../pool/sync/python-parsel-1.6.0-4-any.pkg.tar.zst.sig

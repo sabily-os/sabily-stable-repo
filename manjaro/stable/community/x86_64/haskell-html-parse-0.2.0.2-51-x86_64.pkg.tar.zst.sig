@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-html-parse-0.2.0.2-51-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-fuse-0.16.1-12-x86_64.pkg.tar.zst.sig

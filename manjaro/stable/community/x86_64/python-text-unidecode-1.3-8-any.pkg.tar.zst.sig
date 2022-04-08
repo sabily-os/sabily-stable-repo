@@ -1,0 +1,1 @@
+../../../pool/sync/python-text-unidecode-1.3-8-any.pkg.tar.zst.sig

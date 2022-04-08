@@ -1,0 +1,1 @@
+../../../pool/sync/python-fuzzywuzzy-0.18.0-5-any.pkg.tar.zst.sig

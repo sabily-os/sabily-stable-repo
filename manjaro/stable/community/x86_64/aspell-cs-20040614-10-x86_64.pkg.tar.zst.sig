@@ -1,0 +1,1 @@
+../../../pool/sync/aspell-cs-20040614-10-x86_64.pkg.tar.zst.sig

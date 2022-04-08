@@ -1,0 +1,1 @@
+../../../pool/overlay/plymouth-theme-manjaro-extra-elegant-1.1-4-any.pkg.tar.xz.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/akonadi-notes-21.12.2.1.r1060.g637d84f-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-database-knotinfo-2022.3.1-1-any.pkg.tar.zst.sig

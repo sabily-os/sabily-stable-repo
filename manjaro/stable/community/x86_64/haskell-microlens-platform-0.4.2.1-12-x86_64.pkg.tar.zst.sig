@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-microlens-platform-0.4.2.1-12-x86_64.pkg.tar.zst.sig

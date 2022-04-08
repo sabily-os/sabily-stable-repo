@@ -1,0 +1,1 @@
+../../../pool/sync/perl-sub-install-0.928-7-any.pkg.tar.zst.sig

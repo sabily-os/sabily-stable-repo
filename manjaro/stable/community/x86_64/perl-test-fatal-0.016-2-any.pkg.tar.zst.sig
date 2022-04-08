@@ -1,0 +1,1 @@
+../../../pool/sync/perl-test-fatal-0.016-2-any.pkg.tar.zst.sig

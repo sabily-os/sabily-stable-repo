@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-draw-5.8.0.22-2-x86_64.pkg.tar.zst.sig

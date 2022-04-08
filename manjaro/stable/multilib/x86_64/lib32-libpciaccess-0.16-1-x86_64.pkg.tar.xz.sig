@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libpciaccess-0.16-1-x86_64.pkg.tar.xz.sig

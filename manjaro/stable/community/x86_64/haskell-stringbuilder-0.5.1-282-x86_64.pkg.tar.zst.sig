@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-stringbuilder-0.5.1-282-x86_64.pkg.tar.zst.sig

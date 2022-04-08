@@ -1,0 +1,1 @@
+../../../pool/sync/evemu-2.7.0-8-x86_64.pkg.tar.zst.sig

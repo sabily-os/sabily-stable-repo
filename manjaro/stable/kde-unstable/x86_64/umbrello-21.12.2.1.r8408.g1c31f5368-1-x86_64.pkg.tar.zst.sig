@@ -1,0 +1,1 @@
+../../../pool/overlay/umbrello-21.12.2.1.r8408.g1c31f5368-1-x86_64.pkg.tar.zst.sig

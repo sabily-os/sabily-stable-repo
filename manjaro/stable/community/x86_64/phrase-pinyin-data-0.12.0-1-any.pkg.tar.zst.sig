@@ -1,0 +1,1 @@
+../../../pool/sync/phrase-pinyin-data-0.12.0-1-any.pkg.tar.zst.sig

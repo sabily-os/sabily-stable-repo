@@ -1,0 +1,1 @@
+../../../pool/sync/opensearch-repository-azure-plugin-1.2.4-1-x86_64.pkg.tar.zst.sig

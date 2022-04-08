@@ -1,0 +1,1 @@
+../../../pool/sync/acpi-1.7-3-x86_64.pkg.tar.zst.sig

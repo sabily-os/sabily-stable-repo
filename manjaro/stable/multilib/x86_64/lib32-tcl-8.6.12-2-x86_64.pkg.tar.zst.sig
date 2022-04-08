@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-tcl-8.6.12-2-x86_64.pkg.tar.zst.sig

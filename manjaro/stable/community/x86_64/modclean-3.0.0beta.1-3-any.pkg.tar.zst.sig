@@ -1,0 +1,1 @@
+../../../pool/sync/modclean-3.0.0beta.1-3-any.pkg.tar.zst.sig

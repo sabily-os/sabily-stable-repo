@@ -1,0 +1,1 @@
+../../../pool/overlay/kalarmcal-21.12.2.1.r1186.gd40d710-1-x86_64.pkg.tar.zst.sig

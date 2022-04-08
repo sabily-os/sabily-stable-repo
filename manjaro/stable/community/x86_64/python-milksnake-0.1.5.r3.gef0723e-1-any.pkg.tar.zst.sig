@@ -1,0 +1,1 @@
+../../../pool/sync/python-milksnake-0.1.5.r3.gef0723e-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-openpgp-asciiarmor-0.1.2-168-x86_64.pkg.tar.zst.sig

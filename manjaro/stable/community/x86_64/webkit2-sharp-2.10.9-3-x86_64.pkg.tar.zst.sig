@@ -1,0 +1,1 @@
+../../../pool/sync/webkit2-sharp-2.10.9-3-x86_64.pkg.tar.zst.sig

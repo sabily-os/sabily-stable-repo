@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-dbus-glib-0.112-2-x86_64.pkg.tar.zst.sig

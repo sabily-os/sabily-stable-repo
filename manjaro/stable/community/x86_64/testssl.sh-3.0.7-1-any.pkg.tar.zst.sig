@@ -1,0 +1,1 @@
+../../../pool/sync/testssl.sh-3.0.7-1-any.pkg.tar.zst.sig

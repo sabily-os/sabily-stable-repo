@@ -1,0 +1,1 @@
+../../../pool/sync/pcurses-5-5-x86_64.pkg.tar.zst.sig

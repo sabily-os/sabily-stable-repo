@@ -1,0 +1,1 @@
+../../../pool/sync/mongo-c-driver-1.21.1-1-x86_64.pkg.tar.zst.sig

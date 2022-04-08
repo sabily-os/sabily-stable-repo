@@ -1,0 +1,1 @@
+../../../pool/overlay/thunderbird-i18n-dsb-91.8.0-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/bass-1.2-13-any.pkg.tar.zst.sig

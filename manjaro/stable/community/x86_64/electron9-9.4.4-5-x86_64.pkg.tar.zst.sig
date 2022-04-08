@@ -1,0 +1,1 @@
+../../../pool/sync/electron9-9.4.4-5-x86_64.pkg.tar.zst.sig

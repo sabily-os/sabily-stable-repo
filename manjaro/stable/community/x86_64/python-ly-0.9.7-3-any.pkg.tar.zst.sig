@@ -1,0 +1,1 @@
+../../../pool/sync/python-ly-0.9.7-3-any.pkg.tar.zst.sig

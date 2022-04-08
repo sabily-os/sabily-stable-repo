@@ -1,0 +1,1 @@
+../../../pool/sync/ipcalc-0.41-7-any.pkg.tar.zst.sig

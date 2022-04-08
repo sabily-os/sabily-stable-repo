@@ -1,0 +1,1 @@
+../../../pool/sync/nethogs-0.8.6-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/calamares-oem-kde-settings-20211208-2-any.pkg.tar.zst.sig

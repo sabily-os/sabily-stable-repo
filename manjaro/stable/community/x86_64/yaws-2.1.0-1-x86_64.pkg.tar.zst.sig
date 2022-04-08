@@ -1,0 +1,1 @@
+../../../pool/sync/yaws-2.1.0-1-x86_64.pkg.tar.zst.sig

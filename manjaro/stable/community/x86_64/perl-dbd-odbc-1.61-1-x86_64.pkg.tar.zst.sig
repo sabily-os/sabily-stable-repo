@@ -1,0 +1,1 @@
+../../../pool/sync/perl-dbd-odbc-1.61-1-x86_64.pkg.tar.zst.sig

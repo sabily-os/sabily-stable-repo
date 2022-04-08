@@ -1,0 +1,1 @@
+../../../pool/overlay/thunar-shares-plugin-manjaro-0.2.0.git-4-x86_64.pkg.tar.xz.sig

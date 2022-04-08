@@ -1,0 +1,1 @@
+../../../pool/sync/pypinyin-0.44.0-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-apptools-5.1.0-3-any.pkg.tar.zst.sig

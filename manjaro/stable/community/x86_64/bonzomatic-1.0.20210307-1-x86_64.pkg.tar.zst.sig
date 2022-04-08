@@ -1,0 +1,1 @@
+../../../pool/sync/bonzomatic-1.0.20210307-1-x86_64.pkg.tar.zst.sig

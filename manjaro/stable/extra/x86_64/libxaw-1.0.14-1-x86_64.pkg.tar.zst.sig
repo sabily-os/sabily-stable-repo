@@ -1,0 +1,1 @@
+../../../pool/sync/libxaw-1.0.14-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-vector-0.8.4-1-any.pkg.tar.zst.sig

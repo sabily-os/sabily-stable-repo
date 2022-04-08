@@ -1,0 +1,1 @@
+../../../pool/sync/libsolv-0.7.20-1-x86_64.pkg.tar.zst.sig

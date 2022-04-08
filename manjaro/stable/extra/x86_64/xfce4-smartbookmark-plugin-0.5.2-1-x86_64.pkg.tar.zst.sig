@@ -1,0 +1,1 @@
+../../../pool/sync/xfce4-smartbookmark-plugin-0.5.2-1-x86_64.pkg.tar.zst.sig

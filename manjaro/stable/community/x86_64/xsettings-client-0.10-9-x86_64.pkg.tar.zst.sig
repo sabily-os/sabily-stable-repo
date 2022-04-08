@@ -1,0 +1,1 @@
+../../../pool/sync/xsettings-client-0.10-9-x86_64.pkg.tar.zst.sig

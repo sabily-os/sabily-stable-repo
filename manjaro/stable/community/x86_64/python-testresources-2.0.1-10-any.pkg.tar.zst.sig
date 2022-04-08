@@ -1,0 +1,1 @@
+../../../pool/sync/python-testresources-2.0.1-10-any.pkg.tar.zst.sig

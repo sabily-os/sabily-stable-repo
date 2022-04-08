@@ -1,0 +1,1 @@
+../../../pool/sync/dart-sass-1.49.9-1-x86_64.pkg.tar.zst.sig

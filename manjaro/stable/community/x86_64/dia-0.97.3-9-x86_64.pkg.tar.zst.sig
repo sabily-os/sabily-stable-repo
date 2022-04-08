@@ -1,0 +1,1 @@
+../../../pool/sync/dia-0.97.3-9-x86_64.pkg.tar.zst.sig

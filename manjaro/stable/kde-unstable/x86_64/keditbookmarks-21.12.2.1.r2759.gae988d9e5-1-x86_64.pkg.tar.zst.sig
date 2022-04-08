@@ -1,0 +1,1 @@
+../../../pool/overlay/keditbookmarks-21.12.2.1.r2759.gae988d9e5-1-x86_64.pkg.tar.zst.sig

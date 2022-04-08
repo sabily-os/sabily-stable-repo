@@ -1,0 +1,1 @@
+../../../pool/sync/mari0-1.6.2-3-any.pkg.tar.zst.sig

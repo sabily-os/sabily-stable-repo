@@ -1,0 +1,1 @@
+../../../pool/sync/perl-io-all-0.87-4-any.pkg.tar.zst.sig

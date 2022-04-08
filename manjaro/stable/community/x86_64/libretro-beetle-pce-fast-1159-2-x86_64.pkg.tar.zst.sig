@@ -1,0 +1,1 @@
+../../../pool/sync/libretro-beetle-pce-fast-1159-2-x86_64.pkg.tar.zst.sig

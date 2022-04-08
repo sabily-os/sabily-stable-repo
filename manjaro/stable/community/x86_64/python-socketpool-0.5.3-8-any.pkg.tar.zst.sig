@@ -1,0 +1,1 @@
+../../../pool/sync/python-socketpool-0.5.3-8-any.pkg.tar.zst.sig

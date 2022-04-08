@@ -1,0 +1,1 @@
+../../../pool/sync/pcp-pmda-snmp-5.3.6-1-x86_64.pkg.tar.zst.sig

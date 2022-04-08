@@ -1,0 +1,1 @@
+../../../pool/sync/cdparanoia-10.2-8-x86_64.pkg.tar.zst.sig

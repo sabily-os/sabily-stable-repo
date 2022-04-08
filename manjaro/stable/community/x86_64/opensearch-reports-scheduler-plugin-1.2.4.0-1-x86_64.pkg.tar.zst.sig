@@ -1,0 +1,1 @@
+../../../pool/sync/opensearch-reports-scheduler-plugin-1.2.4.0-1-x86_64.pkg.tar.zst.sig

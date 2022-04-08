@@ -1,0 +1,1 @@
+../../../pool/sync/python-markdown-it-py-1.1.0-3-any.pkg.tar.zst.sig

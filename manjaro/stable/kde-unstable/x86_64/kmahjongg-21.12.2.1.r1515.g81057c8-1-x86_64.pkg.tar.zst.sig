@@ -1,0 +1,1 @@
+../../../pool/overlay/kmahjongg-21.12.2.1.r1515.g81057c8-1-x86_64.pkg.tar.zst.sig

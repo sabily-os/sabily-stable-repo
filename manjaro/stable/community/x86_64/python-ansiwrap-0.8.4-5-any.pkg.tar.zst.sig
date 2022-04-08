@@ -1,0 +1,1 @@
+../../../pool/sync/python-ansiwrap-0.8.4-5-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/cura-resources-materials-4.13.0-1-any.pkg.tar.zst.sig

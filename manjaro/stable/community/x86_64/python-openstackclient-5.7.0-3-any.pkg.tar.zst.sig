@@ -1,0 +1,1 @@
+../../../pool/sync/python-openstackclient-5.7.0-3-any.pkg.tar.zst.sig

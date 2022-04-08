@@ -1,0 +1,1 @@
+../../../pool/sync/snappy-1.1.9-2-x86_64.pkg.tar.zst.sig

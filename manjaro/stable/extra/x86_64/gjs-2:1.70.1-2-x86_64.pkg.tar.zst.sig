@@ -1,0 +1,1 @@
+../../../pool/sync/gjs-2:1.70.1-2-x86_64.pkg.tar.zst.sig

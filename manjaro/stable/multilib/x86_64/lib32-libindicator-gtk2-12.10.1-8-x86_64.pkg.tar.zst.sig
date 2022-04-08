@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libindicator-gtk2-12.10.1-8-x86_64.pkg.tar.zst.sig

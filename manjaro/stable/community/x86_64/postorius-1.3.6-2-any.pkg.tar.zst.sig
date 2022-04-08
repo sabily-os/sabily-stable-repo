@@ -1,0 +1,1 @@
+../../../pool/sync/postorius-1.3.6-2-any.pkg.tar.zst.sig

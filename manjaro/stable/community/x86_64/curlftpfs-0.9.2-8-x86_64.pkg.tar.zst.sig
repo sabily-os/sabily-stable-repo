@@ -1,0 +1,1 @@
+../../../pool/sync/curlftpfs-0.9.2-8-x86_64.pkg.tar.zst.sig

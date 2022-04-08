@@ -1,0 +1,1 @@
+../../../pool/sync/python-s3transfer-0.5.1-1-any.pkg.tar.zst.sig

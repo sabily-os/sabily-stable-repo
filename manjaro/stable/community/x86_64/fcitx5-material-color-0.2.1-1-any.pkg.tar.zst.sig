@@ -1,0 +1,1 @@
+../../../pool/sync/fcitx5-material-color-0.2.1-1-any.pkg.tar.zst.sig

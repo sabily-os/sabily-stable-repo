@@ -1,0 +1,1 @@
+../../../pool/sync/python-sphinx-issues-1.2.0-7-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-google-api-core-2.5.0-1-any.pkg.tar.zst.sig

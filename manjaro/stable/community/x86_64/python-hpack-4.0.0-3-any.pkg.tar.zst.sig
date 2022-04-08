@@ -1,0 +1,1 @@
+../../../pool/sync/python-hpack-4.0.0-3-any.pkg.tar.zst.sig

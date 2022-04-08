@@ -1,0 +1,1 @@
+../../../pool/overlay/mkinitcpio-openswap-0.1.0-3-any.pkg.tar.xz.sig

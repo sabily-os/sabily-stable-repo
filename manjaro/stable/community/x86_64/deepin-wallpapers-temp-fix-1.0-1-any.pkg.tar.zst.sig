@@ -1,0 +1,1 @@
+../../../pool/overlay/deepin-wallpapers-temp-fix-1.0-1-any.pkg.tar.zst.sig

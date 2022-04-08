@@ -1,0 +1,1 @@
+../../../pool/sync/perl-padwalker-2.5-2-x86_64.pkg.tar.zst.sig

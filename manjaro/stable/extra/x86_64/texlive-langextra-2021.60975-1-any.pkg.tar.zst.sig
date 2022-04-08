@@ -1,0 +1,1 @@
+../../../pool/sync/texlive-langextra-2021.60975-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/libantlr3c-3.5.2-4-x86_64.pkg.tar.zst.sig

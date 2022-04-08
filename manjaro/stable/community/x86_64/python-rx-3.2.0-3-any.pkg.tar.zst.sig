@@ -1,0 +1,1 @@
+../../../pool/sync/python-rx-3.2.0-3-any.pkg.tar.zst.sig

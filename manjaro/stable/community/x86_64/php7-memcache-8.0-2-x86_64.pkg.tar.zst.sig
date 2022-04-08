@@ -1,0 +1,1 @@
+../../../pool/sync/php7-memcache-8.0-2-x86_64.pkg.tar.zst.sig

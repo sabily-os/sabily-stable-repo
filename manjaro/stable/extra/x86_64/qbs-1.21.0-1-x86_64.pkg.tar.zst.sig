@@ -1,0 +1,1 @@
+../../../pool/sync/qbs-1.21.0-1-x86_64.pkg.tar.zst.sig

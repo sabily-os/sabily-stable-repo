@@ -1,0 +1,1 @@
+../../../pool/sync/bitwarden-cli-1.21.1-1-any.pkg.tar.zst.sig

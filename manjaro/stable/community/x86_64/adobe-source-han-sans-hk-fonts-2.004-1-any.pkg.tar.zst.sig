@@ -1,0 +1,1 @@
+../../../pool/sync/adobe-source-han-sans-hk-fonts-2.004-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/xpdf-4.03-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/premake3-3.7-5-x86_64.pkg.tar.zst.sig

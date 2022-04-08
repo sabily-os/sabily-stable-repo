@@ -1,0 +1,1 @@
+../../../pool/sync/gnome-passwordsafe-6.1-2-any.pkg.tar.zst.sig

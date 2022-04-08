@@ -1,0 +1,1 @@
+../../../pool/sync/bt747-2.2.1-2-any.pkg.tar.zst.sig

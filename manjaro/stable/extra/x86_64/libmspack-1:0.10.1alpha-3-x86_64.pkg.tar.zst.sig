@@ -1,0 +1,1 @@
+../../../pool/sync/libmspack-1:0.10.1alpha-3-x86_64.pkg.tar.zst.sig

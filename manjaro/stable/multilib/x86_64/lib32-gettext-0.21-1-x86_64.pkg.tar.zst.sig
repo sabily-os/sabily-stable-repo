@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-gettext-0.21-1-x86_64.pkg.tar.zst.sig

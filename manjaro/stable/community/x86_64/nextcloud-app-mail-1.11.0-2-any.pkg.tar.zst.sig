@@ -1,0 +1,1 @@
+../../../pool/sync/nextcloud-app-mail-1.11.0-2-any.pkg.tar.zst.sig

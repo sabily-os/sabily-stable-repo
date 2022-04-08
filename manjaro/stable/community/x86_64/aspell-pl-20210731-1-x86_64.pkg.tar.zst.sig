@@ -1,0 +1,1 @@
+../../../pool/sync/aspell-pl-20210731-1-x86_64.pkg.tar.zst.sig

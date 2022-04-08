@@ -1,0 +1,1 @@
+../../../pool/overlay/bovo-21.12.2.1.r766.g85d82ba-1-x86_64.pkg.tar.zst.sig

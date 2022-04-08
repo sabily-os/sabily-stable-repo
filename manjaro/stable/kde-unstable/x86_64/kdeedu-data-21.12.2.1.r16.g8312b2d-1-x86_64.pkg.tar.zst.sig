@@ -1,0 +1,1 @@
+../../../pool/overlay/kdeedu-data-21.12.2.1.r16.g8312b2d-1-x86_64.pkg.tar.zst.sig

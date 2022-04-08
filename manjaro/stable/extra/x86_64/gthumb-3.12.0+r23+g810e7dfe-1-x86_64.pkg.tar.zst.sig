@@ -1,0 +1,1 @@
+../../../pool/sync/gthumb-3.12.0+r23+g810e7dfe-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/nx-gtk-themes-r34.b7c86f8-1-any.pkg.tar.zst.sig

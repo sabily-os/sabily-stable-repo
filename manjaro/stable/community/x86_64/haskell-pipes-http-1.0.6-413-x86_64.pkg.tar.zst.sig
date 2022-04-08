@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-pipes-http-1.0.6-413-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/xarchiver-0.5.4.17-1-x86_64.pkg.tar.zst.sig

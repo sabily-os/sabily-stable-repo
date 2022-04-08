@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-casa-types-0.0.2-206-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/stfl-0.24-5-x86_64.pkg.tar.zst.sig

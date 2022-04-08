@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-persistent-test-2.13.0.3-107-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-term-extendedcolor-0.504-3-any.pkg.tar.zst.sig

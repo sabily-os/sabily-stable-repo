@@ -1,0 +1,1 @@
+../../../pool/sync/obsidian-0.13.31-1-x86_64.pkg.tar.zst.sig

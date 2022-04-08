@@ -1,0 +1,1 @@
+../../../pool/overlay/cinnamon-panel-chooser-1.5-2-any.pkg.tar.xz.sig

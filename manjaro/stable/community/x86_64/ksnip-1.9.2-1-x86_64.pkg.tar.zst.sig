@@ -1,0 +1,1 @@
+../../../pool/sync/ksnip-1.9.2-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libjpeg6-turbo-1.5.3-2-x86_64.pkg.tar.zst.sig

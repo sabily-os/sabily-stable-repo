@@ -1,0 +1,1 @@
+../../../pool/overlay/ttf-comfortaa-3.101-1-any.pkg.tar.zst.sig

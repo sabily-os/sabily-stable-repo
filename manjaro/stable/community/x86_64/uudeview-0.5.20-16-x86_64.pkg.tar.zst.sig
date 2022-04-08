@@ -1,0 +1,1 @@
+../../../pool/sync/uudeview-0.5.20-16-x86_64.pkg.tar.zst.sig

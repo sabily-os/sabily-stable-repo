@@ -1,0 +1,1 @@
+../../../pool/sync/perl-list-moreutils-xs-0.430-2-x86_64.pkg.tar.zst.sig

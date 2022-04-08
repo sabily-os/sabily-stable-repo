@@ -1,0 +1,1 @@
+../../../pool/sync/gocr-0.52-2-x86_64.pkg.tar.zst.sig

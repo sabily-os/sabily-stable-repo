@@ -1,0 +1,1 @@
+../../../pool/overlay/norse-sddm-theme-65-1-any.pkg.tar.zst.sig

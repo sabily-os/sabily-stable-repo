@@ -1,0 +1,1 @@
+../../../pool/sync/ttc-iosevka-ss01-15.0.2-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/firefox-developer-edition-99.0b2-1-x86_64.pkg.tar.zst.sig

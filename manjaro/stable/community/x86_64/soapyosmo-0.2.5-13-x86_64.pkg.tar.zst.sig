@@ -1,0 +1,1 @@
+../../../pool/sync/soapyosmo-0.2.5-13-x86_64.pkg.tar.zst.sig

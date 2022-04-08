@@ -1,0 +1,1 @@
+../../../pool/sync/librsvg-2:2.52.7-1-x86_64.pkg.tar.zst.sig

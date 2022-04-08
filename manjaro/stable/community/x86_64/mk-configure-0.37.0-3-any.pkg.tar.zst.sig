@@ -1,0 +1,1 @@
+../../../pool/sync/mk-configure-0.37.0-3-any.pkg.tar.zst.sig

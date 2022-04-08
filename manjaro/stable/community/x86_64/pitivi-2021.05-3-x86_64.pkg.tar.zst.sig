@@ -1,0 +1,1 @@
+../../../pool/sync/pitivi-2021.05-3-x86_64.pkg.tar.zst.sig

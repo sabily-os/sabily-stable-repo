@@ -1,0 +1,1 @@
+../../../pool/sync/papirus-icon-theme-20220302-1-any.pkg.tar.zst.sig

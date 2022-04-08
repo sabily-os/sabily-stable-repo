@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-gettext-setup-0.34-3-any.pkg.tar.zst.sig

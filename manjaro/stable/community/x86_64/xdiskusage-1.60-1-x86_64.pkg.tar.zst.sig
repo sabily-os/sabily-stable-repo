@@ -1,0 +1,1 @@
+../../../pool/sync/xdiskusage-1.60-1-x86_64.pkg.tar.zst.sig

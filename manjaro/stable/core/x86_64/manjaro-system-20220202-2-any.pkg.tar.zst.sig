@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-system-20220202-2-any.pkg.tar.zst.sig

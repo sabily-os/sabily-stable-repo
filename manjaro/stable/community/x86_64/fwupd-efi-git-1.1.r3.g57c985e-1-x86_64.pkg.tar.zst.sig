@@ -1,0 +1,1 @@
+../../../pool/overlay/fwupd-efi-git-1.1.r3.g57c985e-1-x86_64.pkg.tar.zst.sig

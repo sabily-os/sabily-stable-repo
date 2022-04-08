@@ -1,0 +1,1 @@
+../../../pool/sync/eslint-8.11.0-1-any.pkg.tar.zst.sig

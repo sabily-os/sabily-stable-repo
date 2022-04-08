@@ -1,0 +1,1 @@
+../../../pool/sync/xfwm4-themes-4.10.0-4-any.pkg.tar.zst.sig

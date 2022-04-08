@@ -1,0 +1,1 @@
+../../../pool/sync/jack2-dbus-1.9.20-4-x86_64.pkg.tar.zst.sig

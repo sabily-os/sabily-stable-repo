@@ -1,0 +1,1 @@
+../../../pool/sync/c-xsc-2.5.4-2-x86_64.pkg.tar.zst.sig

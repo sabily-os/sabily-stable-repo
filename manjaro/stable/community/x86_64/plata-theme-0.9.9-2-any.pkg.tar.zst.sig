@@ -1,0 +1,1 @@
+../../../pool/overlay/plata-theme-0.9.9-2-any.pkg.tar.zst.sig

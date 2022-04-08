@@ -1,0 +1,1 @@
+../../../pool/overlay/kpimtextedit-21.12.2.1.r1561.g6f261f0-1-x86_64.pkg.tar.zst.sig

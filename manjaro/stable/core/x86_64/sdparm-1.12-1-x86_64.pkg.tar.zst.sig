@@ -1,0 +1,1 @@
+../../../pool/sync/sdparm-1.12-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/qt6-5compat-6.2.3-2-x86_64.pkg.tar.zst.sig

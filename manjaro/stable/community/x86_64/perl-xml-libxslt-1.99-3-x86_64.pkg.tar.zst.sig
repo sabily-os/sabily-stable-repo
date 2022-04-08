@@ -1,0 +1,1 @@
+../../../pool/sync/perl-xml-libxslt-1.99-3-x86_64.pkg.tar.zst.sig

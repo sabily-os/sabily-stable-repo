@@ -1,0 +1,1 @@
+../../../pool/sync/sad-0.4.20-1-x86_64.pkg.tar.zst.sig

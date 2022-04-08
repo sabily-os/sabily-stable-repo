@@ -1,0 +1,1 @@
+../../../pool/sync/python-cwcwidth-0.1.4-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/nx-notifications-applet-r25.ee0872b-1-x86_64.pkg.tar.zst.sig

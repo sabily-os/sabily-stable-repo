@@ -1,0 +1,1 @@
+../../../pool/overlay/kspaceduel-21.12.2.1.r660.g7a33e57-1-x86_64.pkg.tar.zst.sig

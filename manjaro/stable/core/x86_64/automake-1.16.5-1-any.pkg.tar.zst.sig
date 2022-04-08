@@ -1,0 +1,1 @@
+../../../pool/sync/automake-1.16.5-1-any.pkg.tar.zst.sig

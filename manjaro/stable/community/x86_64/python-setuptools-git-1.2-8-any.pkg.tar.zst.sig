@@ -1,0 +1,1 @@
+../../../pool/sync/python-setuptools-git-1.2-8-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/geonkick-2.9.0-1-x86_64.pkg.tar.zst.sig

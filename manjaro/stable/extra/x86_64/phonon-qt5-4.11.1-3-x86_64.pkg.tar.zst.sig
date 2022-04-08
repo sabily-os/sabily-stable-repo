@@ -1,0 +1,1 @@
+../../../pool/sync/phonon-qt5-4.11.1-3-x86_64.pkg.tar.zst.sig

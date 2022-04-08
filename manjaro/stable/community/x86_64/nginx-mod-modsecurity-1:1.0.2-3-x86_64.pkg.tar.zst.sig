@@ -1,0 +1,1 @@
+../../../pool/sync/nginx-mod-modsecurity-1:1.0.2-3-x86_64.pkg.tar.zst.sig

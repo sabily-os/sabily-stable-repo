@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-hspec-expectations-0.8.2-202-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/festival-us-2.5-2-any.pkg.tar.zst.sig

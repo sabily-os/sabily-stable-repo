@@ -1,0 +1,1 @@
+../../../pool/sync/stoken-0.92-4-x86_64.pkg.tar.zst.sig

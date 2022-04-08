@@ -1,0 +1,1 @@
+../../../pool/sync/perl-file-find-rule-0.34-8-any.pkg.tar.zst.sig

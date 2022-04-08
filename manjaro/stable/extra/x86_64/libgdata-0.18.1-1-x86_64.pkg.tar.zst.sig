@@ -1,0 +1,1 @@
+../../../pool/sync/libgdata-0.18.1-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-hackage-security-0.6.0.1-268-x86_64.pkg.tar.zst.sig

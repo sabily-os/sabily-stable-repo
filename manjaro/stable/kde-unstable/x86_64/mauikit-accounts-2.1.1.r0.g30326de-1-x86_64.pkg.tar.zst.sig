@@ -1,0 +1,1 @@
+../../../pool/overlay/mauikit-accounts-2.1.1.r0.g30326de-1-x86_64.pkg.tar.zst.sig

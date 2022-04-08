@@ -1,0 +1,1 @@
+../../../pool/sync/libgweather-40.0+r87+g80e5a652-1-x86_64.pkg.tar.zst.sig

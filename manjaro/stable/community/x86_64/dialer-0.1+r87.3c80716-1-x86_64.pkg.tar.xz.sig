@@ -1,0 +1,1 @@
+../../../pool/overlay/dialer-0.1+r87.3c80716-1-x86_64.pkg.tar.xz.sig

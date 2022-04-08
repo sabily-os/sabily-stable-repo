@@ -1,0 +1,1 @@
+../../../pool/sync/kuickshow-0.10.2-1-x86_64.pkg.tar.zst.sig

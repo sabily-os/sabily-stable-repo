@@ -1,0 +1,1 @@
+../../../pool/sync/python-magic-wormhole-transit-relay-0.2.1-5-any.pkg.tar.zst.sig

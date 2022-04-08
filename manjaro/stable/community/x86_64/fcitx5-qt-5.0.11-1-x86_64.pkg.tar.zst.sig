@@ -1,0 +1,1 @@
+../../../pool/sync/fcitx5-qt-5.0.11-1-x86_64.pkg.tar.zst.sig

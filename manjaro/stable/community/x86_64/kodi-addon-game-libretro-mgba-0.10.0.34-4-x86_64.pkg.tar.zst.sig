@@ -1,0 +1,1 @@
+../../../pool/sync/kodi-addon-game-libretro-mgba-0.10.0.34-4-x86_64.pkg.tar.zst.sig

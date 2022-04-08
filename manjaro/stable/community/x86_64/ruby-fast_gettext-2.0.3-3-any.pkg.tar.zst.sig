@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-fast_gettext-2.0.3-3-any.pkg.tar.zst.sig

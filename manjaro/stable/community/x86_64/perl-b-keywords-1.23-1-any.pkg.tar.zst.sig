@@ -1,0 +1,1 @@
+../../../pool/sync/perl-b-keywords-1.23-1-any.pkg.tar.zst.sig

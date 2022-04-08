@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-svg-builder-0.1.1-62-x86_64.pkg.tar.zst.sig

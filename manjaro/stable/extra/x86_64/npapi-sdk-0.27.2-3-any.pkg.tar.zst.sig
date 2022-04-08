@@ -1,0 +1,1 @@
+../../../pool/sync/npapi-sdk-0.27.2-3-any.pkg.tar.zst.sig

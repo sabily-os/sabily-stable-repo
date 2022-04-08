@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-slick-greeter-theme-brown-1.0-1-any.pkg.tar.xz.sig

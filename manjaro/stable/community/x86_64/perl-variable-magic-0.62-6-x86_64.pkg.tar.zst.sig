@@ -1,0 +1,1 @@
+../../../pool/sync/perl-variable-magic-0.62-6-x86_64.pkg.tar.zst.sig

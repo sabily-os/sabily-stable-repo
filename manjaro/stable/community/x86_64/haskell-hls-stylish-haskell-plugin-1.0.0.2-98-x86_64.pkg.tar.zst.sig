@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-hls-stylish-haskell-plugin-1.0.0.2-98-x86_64.pkg.tar.zst.sig

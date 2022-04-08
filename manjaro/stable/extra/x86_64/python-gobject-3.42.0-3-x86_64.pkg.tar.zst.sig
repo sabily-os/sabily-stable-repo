@@ -1,0 +1,1 @@
+../../../pool/sync/python-gobject-3.42.0-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/libsavitar-4.13.0-1-x86_64.pkg.tar.zst.sig

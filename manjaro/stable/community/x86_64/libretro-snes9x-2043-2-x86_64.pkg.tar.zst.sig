@@ -1,0 +1,1 @@
+../../../pool/sync/libretro-snes9x-2043-2-x86_64.pkg.tar.zst.sig

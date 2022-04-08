@@ -1,0 +1,1 @@
+../../../pool/sync/groff-1.22.4-6-x86_64.pkg.tar.zst.sig

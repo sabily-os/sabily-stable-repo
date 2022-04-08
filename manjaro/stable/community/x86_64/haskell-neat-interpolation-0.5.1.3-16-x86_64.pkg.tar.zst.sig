@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-neat-interpolation-0.5.1.3-16-x86_64.pkg.tar.zst.sig

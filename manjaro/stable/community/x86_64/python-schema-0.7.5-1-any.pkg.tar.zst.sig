@@ -1,0 +1,1 @@
+../../../pool/sync/python-schema-0.7.5-1-any.pkg.tar.zst.sig

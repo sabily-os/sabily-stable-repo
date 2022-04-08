@@ -1,0 +1,1 @@
+../../../pool/sync/mtr-0.95-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-lsp0-0.24.0.0-99-x86_64.pkg.tar.zst.sig

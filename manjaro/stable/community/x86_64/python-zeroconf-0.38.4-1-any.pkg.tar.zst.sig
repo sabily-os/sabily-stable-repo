@@ -1,0 +1,1 @@
+../../../pool/sync/python-zeroconf-0.38.4-1-any.pkg.tar.zst.sig

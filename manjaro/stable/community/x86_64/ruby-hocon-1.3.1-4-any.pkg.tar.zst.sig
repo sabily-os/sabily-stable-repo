@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-hocon-1.3.1-4-any.pkg.tar.zst.sig

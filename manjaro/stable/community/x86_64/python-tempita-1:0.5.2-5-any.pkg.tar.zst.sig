@@ -1,0 +1,1 @@
+../../../pool/sync/python-tempita-1:0.5.2-5-any.pkg.tar.zst.sig

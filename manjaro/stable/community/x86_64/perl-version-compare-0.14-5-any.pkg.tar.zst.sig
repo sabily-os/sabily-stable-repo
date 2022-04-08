@@ -1,0 +1,1 @@
+../../../pool/sync/perl-version-compare-0.14-5-any.pkg.tar.zst.sig

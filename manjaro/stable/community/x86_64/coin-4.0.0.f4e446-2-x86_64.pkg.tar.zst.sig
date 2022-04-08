@@ -1,0 +1,1 @@
+../../../pool/sync/coin-4.0.0.f4e446-2-x86_64.pkg.tar.zst.sig

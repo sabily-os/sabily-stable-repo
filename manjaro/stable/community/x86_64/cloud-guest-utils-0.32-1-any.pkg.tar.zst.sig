@@ -1,0 +1,1 @@
+../../../pool/sync/cloud-guest-utils-0.32-1-any.pkg.tar.zst.sig

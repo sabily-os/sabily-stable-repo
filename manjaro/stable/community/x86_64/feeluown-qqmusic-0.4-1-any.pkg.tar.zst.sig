@@ -1,0 +1,1 @@
+../../../pool/sync/feeluown-qqmusic-0.4-1-any.pkg.tar.zst.sig

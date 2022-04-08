@@ -1,0 +1,1 @@
+../../../pool/sync/python-html5-parser-0.4.10-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/libwpe-1.12.0-1-x86_64.pkg.tar.zst.sig

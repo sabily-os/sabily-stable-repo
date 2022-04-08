@@ -1,0 +1,1 @@
+../../../pool/sync/mitmproxy-7.0.4-2-any.pkg.tar.zst.sig

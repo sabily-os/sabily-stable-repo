@@ -1,0 +1,1 @@
+../../../pool/sync/stalonetray-0.8.4-2-x86_64.pkg.tar.zst.sig

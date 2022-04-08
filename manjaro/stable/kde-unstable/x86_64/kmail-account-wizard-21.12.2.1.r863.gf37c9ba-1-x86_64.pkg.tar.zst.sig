@@ -1,0 +1,1 @@
+../../../pool/overlay/kmail-account-wizard-21.12.2.1.r863.gf37c9ba-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/qreator-20.02.1-3-any.pkg.tar.zst.sig

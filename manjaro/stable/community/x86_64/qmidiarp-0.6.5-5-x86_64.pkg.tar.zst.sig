@@ -1,0 +1,1 @@
+../../../pool/sync/qmidiarp-0.6.5-5-x86_64.pkg.tar.zst.sig

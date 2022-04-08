@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libproxy-0.4.17-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/kodi-addon-visualization-shadertoy-1:19.1.2-4-x86_64.pkg.tar.zst.sig

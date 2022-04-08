@@ -1,0 +1,1 @@
+../../../pool/sync/python-nltk-3.7-1-any.pkg.tar.zst.sig

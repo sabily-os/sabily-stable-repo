@@ -1,0 +1,1 @@
+../../../pool/overlay/kirigami-gallery-21.12.2.1.r230.g94300ff-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/chromaprint-1.5.1-2-x86_64.pkg.tar.zst.sig

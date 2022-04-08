@@ -1,0 +1,1 @@
+../../../pool/sync/fcitx5-unikey-5.0.9-1-x86_64.pkg.tar.zst.sig

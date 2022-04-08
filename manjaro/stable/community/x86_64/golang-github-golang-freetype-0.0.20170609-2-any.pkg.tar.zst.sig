@@ -1,0 +1,1 @@
+../../../pool/sync/golang-github-golang-freetype-0.0.20170609-2-any.pkg.tar.zst.sig

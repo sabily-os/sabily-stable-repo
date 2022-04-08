@@ -1,0 +1,1 @@
+../../../pool/sync/libgcrypt15-1.5.6-6-x86_64.pkg.tar.zst.sig

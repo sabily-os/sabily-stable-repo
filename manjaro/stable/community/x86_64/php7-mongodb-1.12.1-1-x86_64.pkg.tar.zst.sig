@@ -1,0 +1,1 @@
+../../../pool/sync/php7-mongodb-1.12.1-1-x86_64.pkg.tar.zst.sig

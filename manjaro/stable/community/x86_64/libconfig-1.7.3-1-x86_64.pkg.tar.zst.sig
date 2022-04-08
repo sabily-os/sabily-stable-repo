@@ -1,0 +1,1 @@
+../../../pool/sync/libconfig-1.7.3-1-x86_64.pkg.tar.zst.sig

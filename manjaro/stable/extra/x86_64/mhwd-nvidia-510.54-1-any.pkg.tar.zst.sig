@@ -1,0 +1,1 @@
+../../../pool/overlay/mhwd-nvidia-510.54-1-any.pkg.tar.zst.sig

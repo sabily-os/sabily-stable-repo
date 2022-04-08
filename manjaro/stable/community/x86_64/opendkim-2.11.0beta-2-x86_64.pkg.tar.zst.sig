@@ -1,0 +1,1 @@
+../../../pool/sync/opendkim-2.11.0beta-2-x86_64.pkg.tar.zst.sig

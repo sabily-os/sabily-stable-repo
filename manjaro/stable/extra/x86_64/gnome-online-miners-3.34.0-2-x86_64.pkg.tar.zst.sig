@@ -1,0 +1,1 @@
+../../../pool/sync/gnome-online-miners-3.34.0-2-x86_64.pkg.tar.zst.sig

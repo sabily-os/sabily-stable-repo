@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-session-shell-5.5.24-1-x86_64.pkg.tar.zst.sig

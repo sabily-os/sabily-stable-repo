@@ -1,0 +1,1 @@
+../../../pool/sync/python-autopage-0.4.0-1-any.pkg.tar.zst.sig

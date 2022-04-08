@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-lucid-2.11.0-13-x86_64.pkg.tar.zst.sig

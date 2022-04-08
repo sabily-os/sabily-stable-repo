@@ -1,0 +1,1 @@
+../../../pool/sync/perl-test-spec-0.54-5-any.pkg.tar.zst.sig

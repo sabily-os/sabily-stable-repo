@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-mime-types-3.4.1-1-any.pkg.tar.zst.sig

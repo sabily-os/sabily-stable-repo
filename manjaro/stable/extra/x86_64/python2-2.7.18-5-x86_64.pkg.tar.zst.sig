@@ -1,0 +1,1 @@
+../../../pool/sync/python2-2.7.18-5-x86_64.pkg.tar.zst.sig

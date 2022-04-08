@@ -1,0 +1,1 @@
+../../../pool/sync/libqtshadowsocks-2.1.0-14-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/zsh-completions-0.33.0-1-any.pkg.tar.zst.sig

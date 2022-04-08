@@ -1,0 +1,1 @@
+../../../pool/sync/intel-metee-doc-3.1.2-2-x86_64.pkg.tar.zst.sig

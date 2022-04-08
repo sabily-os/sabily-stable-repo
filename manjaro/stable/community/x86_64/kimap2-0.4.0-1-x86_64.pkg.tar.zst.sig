@@ -1,0 +1,1 @@
+../../../pool/sync/kimap2-0.4.0-1-x86_64.pkg.tar.zst.sig

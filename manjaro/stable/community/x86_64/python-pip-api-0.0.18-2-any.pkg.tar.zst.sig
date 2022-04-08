@@ -1,0 +1,1 @@
+../../../pool/sync/python-pip-api-0.0.18-2-any.pkg.tar.zst.sig

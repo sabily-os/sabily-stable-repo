@@ -1,0 +1,1 @@
+../../../pool/sync/qt5-gsettings-1.3.0-1-x86_64.pkg.tar.zst.sig

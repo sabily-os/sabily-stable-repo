@@ -1,0 +1,1 @@
+../../../pool/sync/comtool-1.7.9-5-any.pkg.tar.zst.sig

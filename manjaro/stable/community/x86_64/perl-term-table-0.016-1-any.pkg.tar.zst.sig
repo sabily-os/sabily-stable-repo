@@ -1,0 +1,1 @@
+../../../pool/sync/perl-term-table-0.016-1-any.pkg.tar.zst.sig

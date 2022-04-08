@@ -1,0 +1,1 @@
+../../../pool/sync/smali-2.5.2-1-any.pkg.tar.zst.sig

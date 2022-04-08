@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-lifted-async-0.10.2.2-15-x86_64.pkg.tar.zst.sig

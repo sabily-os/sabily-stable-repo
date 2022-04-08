@@ -1,0 +1,1 @@
+../../../pool/sync/perl-mail-message-3.007-4-any.pkg.tar.zst.sig

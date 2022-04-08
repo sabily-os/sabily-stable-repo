@@ -1,0 +1,1 @@
+../../../pool/sync/kde-games-meta-21.12-2-any.pkg.tar.zst.sig

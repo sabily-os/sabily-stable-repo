@@ -1,0 +1,1 @@
+../../../pool/sync/ttf-linux-libertine-5.3.0-8-any.pkg.tar.zst.sig

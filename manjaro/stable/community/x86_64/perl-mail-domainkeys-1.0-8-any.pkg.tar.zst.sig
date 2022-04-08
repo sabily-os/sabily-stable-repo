@@ -1,0 +1,1 @@
+../../../pool/sync/perl-mail-domainkeys-1.0-8-any.pkg.tar.zst.sig

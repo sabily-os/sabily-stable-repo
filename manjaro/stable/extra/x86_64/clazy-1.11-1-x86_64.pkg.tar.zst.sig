@@ -1,0 +1,1 @@
+../../../pool/sync/clazy-1.11-1-x86_64.pkg.tar.zst.sig

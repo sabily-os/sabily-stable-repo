@@ -1,0 +1,1 @@
+../../../pool/sync/wqy-microhei-0.2.0_beta-11-any.pkg.tar.zst.sig

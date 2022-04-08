@@ -1,0 +1,1 @@
+../../../pool/overlay/thingy-1.0.6-1-any.pkg.tar.zst.sig

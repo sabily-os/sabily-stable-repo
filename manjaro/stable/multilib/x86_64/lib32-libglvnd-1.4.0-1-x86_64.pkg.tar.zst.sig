@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libglvnd-1.4.0-1-x86_64.pkg.tar.zst.sig

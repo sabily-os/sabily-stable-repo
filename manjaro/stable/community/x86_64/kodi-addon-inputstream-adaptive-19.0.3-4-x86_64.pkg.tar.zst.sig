@@ -1,0 +1,1 @@
+../../../pool/sync/kodi-addon-inputstream-adaptive-19.0.3-4-x86_64.pkg.tar.zst.sig

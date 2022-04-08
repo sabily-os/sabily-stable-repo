@@ -1,0 +1,1 @@
+../../../pool/sync/tinyserial-20090305-4-x86_64.pkg.tar.zst.sig

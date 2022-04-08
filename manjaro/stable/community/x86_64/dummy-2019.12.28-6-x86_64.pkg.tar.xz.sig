@@ -1,0 +1,1 @@
+../../../pool/overlay/dummy-2019.12.28-6-x86_64.pkg.tar.xz.sig

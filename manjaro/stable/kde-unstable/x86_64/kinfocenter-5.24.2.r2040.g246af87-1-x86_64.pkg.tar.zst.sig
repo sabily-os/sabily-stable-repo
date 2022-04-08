@@ -1,0 +1,1 @@
+../../../pool/overlay/kinfocenter-5.24.2.r2040.g246af87-1-x86_64.pkg.tar.zst.sig

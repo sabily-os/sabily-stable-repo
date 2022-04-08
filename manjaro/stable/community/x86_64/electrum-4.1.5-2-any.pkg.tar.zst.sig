@@ -1,0 +1,1 @@
+../../../pool/sync/electrum-4.1.5-2-any.pkg.tar.zst.sig

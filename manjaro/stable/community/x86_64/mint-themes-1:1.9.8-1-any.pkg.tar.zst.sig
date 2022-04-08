@@ -1,0 +1,1 @@
+../../../pool/overlay/mint-themes-1:1.9.8-1-any.pkg.tar.zst.sig

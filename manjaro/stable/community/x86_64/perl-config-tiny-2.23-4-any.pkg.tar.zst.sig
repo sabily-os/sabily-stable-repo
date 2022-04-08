@@ -1,0 +1,1 @@
+../../../pool/sync/perl-config-tiny-2.23-4-any.pkg.tar.zst.sig

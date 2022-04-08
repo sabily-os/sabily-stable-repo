@@ -1,0 +1,1 @@
+../../../pool/sync/python-novaclient-17.7.0-1-any.pkg.tar.zst.sig

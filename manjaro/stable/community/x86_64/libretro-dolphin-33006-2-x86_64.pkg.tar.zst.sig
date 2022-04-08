@@ -1,0 +1,1 @@
+../../../pool/sync/libretro-dolphin-33006-2-x86_64.pkg.tar.zst.sig

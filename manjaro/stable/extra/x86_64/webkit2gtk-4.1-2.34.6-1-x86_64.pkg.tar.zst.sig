@@ -1,0 +1,1 @@
+../../../pool/sync/webkit2gtk-4.1-2.34.6-1-x86_64.pkg.tar.zst.sig

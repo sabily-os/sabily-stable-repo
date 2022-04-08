@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-openbox-common-1.20.6-1-any.pkg.tar.zst.sig

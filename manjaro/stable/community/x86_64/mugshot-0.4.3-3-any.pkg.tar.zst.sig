@@ -1,0 +1,1 @@
+../../../pool/overlay/mugshot-0.4.3-3-any.pkg.tar.zst.sig

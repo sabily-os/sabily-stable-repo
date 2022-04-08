@@ -1,0 +1,1 @@
+../../../pool/sync/lua-socket-20200329-1-x86_64.pkg.tar.zst.sig

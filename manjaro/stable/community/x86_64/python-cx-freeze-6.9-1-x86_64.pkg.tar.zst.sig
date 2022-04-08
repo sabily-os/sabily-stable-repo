@@ -1,0 +1,1 @@
+../../../pool/sync/python-cx-freeze-6.9-1-x86_64.pkg.tar.zst.sig

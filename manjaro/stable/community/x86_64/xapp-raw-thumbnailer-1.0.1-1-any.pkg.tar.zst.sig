@@ -1,0 +1,1 @@
+../../../pool/overlay/xapp-raw-thumbnailer-1.0.1-1-any.pkg.tar.zst.sig

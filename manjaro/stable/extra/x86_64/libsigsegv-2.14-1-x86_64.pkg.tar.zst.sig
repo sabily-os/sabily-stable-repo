@@ -1,0 +1,1 @@
+../../../pool/sync/libsigsegv-2.14-1-x86_64.pkg.tar.zst.sig

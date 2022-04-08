@@ -1,0 +1,1 @@
+../../../pool/sync/perl-io-digest-0.11-7-any.pkg.tar.zst.sig

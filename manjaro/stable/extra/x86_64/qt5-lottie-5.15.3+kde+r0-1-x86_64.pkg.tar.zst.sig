@@ -1,0 +1,1 @@
+../../../pool/sync/qt5-lottie-5.15.3+kde+r0-1-x86_64.pkg.tar.zst.sig

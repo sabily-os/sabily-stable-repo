@@ -1,0 +1,1 @@
+../../../pool/sync/clipmenu-6.2.0-2-any.pkg.tar.zst.sig

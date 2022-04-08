@@ -1,0 +1,1 @@
+../../../pool/sync/python-setuptools-scm-6.4.2-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/gwget-1.0.4-17-x86_64.pkg.tar.zst.sig

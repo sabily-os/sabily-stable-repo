@@ -1,0 +1,1 @@
+../../../pool/sync/man-pages-zh_cn-1.6.3.6-1-any.pkg.tar.zst.sig

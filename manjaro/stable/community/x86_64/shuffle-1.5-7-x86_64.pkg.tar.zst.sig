@@ -1,0 +1,1 @@
+../../../pool/sync/shuffle-1.5-7-x86_64.pkg.tar.zst.sig

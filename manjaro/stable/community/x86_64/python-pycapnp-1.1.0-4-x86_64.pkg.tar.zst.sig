@@ -1,0 +1,1 @@
+../../../pool/sync/python-pycapnp-1.1.0-4-x86_64.pkg.tar.zst.sig

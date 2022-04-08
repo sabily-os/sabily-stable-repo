@@ -1,0 +1,1 @@
+../../../pool/sync/happy-1.20.0-8-x86_64.pkg.tar.zst.sig

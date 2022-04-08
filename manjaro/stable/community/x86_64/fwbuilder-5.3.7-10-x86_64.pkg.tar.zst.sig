@@ -1,0 +1,1 @@
+../../../pool/sync/fwbuilder-5.3.7-10-x86_64.pkg.tar.zst.sig

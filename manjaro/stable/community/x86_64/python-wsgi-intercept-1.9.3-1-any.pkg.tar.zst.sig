@@ -1,0 +1,1 @@
+../../../pool/sync/python-wsgi-intercept-1.9.3-1-any.pkg.tar.zst.sig

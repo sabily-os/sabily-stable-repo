@@ -1,0 +1,1 @@
+../../../pool/sync/libtorrent-0.13.8-2-x86_64.pkg.tar.zst.sig

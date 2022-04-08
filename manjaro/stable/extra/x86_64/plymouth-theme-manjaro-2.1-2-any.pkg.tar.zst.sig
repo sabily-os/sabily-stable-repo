@@ -1,0 +1,1 @@
+../../../pool/overlay/plymouth-theme-manjaro-2.1-2-any.pkg.tar.zst.sig

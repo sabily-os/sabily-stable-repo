@@ -1,0 +1,1 @@
+../../../pool/sync/otf-fantasque-sans-mono-1.8.0-2-any.pkg.tar.zst.sig

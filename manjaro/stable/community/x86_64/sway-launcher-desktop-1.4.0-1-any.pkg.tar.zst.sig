@@ -1,0 +1,1 @@
+../../../pool/overlay/sway-launcher-desktop-1.4.0-1-any.pkg.tar.zst.sig

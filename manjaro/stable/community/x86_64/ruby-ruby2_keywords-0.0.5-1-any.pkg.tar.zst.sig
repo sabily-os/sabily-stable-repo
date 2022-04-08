@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-ruby2_keywords-0.0.5-1-any.pkg.tar.zst.sig

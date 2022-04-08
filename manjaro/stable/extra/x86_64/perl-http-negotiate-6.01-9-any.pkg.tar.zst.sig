@@ -1,0 +1,1 @@
+../../../pool/sync/perl-http-negotiate-6.01-9-any.pkg.tar.zst.sig

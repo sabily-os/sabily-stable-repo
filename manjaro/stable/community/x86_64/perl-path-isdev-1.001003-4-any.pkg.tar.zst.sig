@@ -1,0 +1,1 @@
+../../../pool/sync/perl-path-isdev-1.001003-4-any.pkg.tar.zst.sig

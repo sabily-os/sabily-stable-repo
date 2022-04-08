@@ -1,0 +1,1 @@
+../../../pool/sync/iso-codes-4.9.0-1-any.pkg.tar.zst.sig

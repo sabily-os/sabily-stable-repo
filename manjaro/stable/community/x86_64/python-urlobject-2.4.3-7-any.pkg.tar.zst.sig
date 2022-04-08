@@ -1,0 +1,1 @@
+../../../pool/sync/python-urlobject-2.4.3-7-any.pkg.tar.zst.sig

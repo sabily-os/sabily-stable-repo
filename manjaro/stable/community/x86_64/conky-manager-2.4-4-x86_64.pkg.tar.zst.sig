@@ -1,0 +1,1 @@
+../../../pool/sync/conky-manager-2.4-4-x86_64.pkg.tar.zst.sig

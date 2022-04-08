@@ -1,0 +1,1 @@
+../../../pool/overlay/kdiamond-21.12.2.1.r709.g218c9b1-1-x86_64.pkg.tar.zst.sig

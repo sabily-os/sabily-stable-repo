@@ -1,0 +1,1 @@
+../../../pool/sync/zsh-syntax-highlighting-0.7.1-1-any.pkg.tar.zst.sig

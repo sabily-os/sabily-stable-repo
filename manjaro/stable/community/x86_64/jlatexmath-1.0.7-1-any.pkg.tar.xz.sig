@@ -1,0 +1,1 @@
+../../../pool/sync/jlatexmath-1.0.7-1-any.pkg.tar.xz.sig

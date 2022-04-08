@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libteam-1.31-2-x86_64.pkg.tar.zst.sig

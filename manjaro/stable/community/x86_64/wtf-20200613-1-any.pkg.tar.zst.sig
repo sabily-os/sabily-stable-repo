@@ -1,0 +1,1 @@
+../../../pool/sync/wtf-20200613-1-any.pkg.tar.zst.sig

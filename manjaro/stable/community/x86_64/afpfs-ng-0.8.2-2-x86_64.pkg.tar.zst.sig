@@ -1,0 +1,1 @@
+../../../pool/sync/afpfs-ng-0.8.2-2-x86_64.pkg.tar.zst.sig

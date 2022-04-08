@@ -1,0 +1,1 @@
+../../../pool/sync/perl-digest-bubblebabble-0.02-7-any.pkg.tar.zst.sig

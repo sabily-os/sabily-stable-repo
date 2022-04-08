@@ -1,0 +1,1 @@
+../../../pool/sync/libgsystem-2015.2+4+gd606bec-3-x86_64.pkg.tar.zst.sig

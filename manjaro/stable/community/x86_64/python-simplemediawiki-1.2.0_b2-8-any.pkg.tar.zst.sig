@@ -1,0 +1,1 @@
+../../../pool/sync/python-simplemediawiki-1.2.0_b2-8-any.pkg.tar.zst.sig

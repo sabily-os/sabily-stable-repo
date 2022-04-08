@@ -1,0 +1,1 @@
+../../../pool/sync/erlang-docs-24.0-1-any.pkg.tar.zst.sig

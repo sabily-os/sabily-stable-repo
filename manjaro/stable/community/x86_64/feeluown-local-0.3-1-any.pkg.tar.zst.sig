@@ -1,0 +1,1 @@
+../../../pool/sync/feeluown-local-0.3-1-any.pkg.tar.zst.sig

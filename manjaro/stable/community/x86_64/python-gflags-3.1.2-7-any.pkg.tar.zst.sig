@@ -1,0 +1,1 @@
+../../../pool/sync/python-gflags-3.1.2-7-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-wai-middleware-static-0.9.2-2-x86_64.pkg.tar.zst.sig

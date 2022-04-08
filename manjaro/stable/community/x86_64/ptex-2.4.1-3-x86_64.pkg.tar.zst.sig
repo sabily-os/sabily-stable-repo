@@ -1,0 +1,1 @@
+../../../pool/sync/ptex-2.4.1-3-x86_64.pkg.tar.zst.sig

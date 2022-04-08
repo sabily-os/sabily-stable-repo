@@ -1,0 +1,1 @@
+../../../pool/sync/kodi-addon-inputstream-rtmp-19.0.1-4-x86_64.pkg.tar.zst.sig

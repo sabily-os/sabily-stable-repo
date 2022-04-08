@@ -1,0 +1,1 @@
+../../../pool/sync/python-blessings-1.7-9-any.pkg.tar.zst.sig

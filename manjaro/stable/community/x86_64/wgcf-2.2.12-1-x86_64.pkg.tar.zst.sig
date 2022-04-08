@@ -1,0 +1,1 @@
+../../../pool/sync/wgcf-2.2.12-1-x86_64.pkg.tar.zst.sig

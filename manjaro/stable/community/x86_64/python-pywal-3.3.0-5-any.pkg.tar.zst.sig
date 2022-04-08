@@ -1,0 +1,1 @@
+../../../pool/sync/python-pywal-3.3.0-5-any.pkg.tar.zst.sig

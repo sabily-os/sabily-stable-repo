@@ -1,0 +1,1 @@
+../../../pool/sync/python-apipkg-2.1.0-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/translate-shell-0.9.6.12-2-any.pkg.tar.zst.sig

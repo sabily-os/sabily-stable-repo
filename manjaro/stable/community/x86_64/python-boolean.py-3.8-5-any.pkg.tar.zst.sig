@@ -1,0 +1,1 @@
+../../../pool/sync/python-boolean.py-3.8-5-any.pkg.tar.zst.sig

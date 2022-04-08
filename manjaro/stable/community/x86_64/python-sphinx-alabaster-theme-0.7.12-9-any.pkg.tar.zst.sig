@@ -1,0 +1,1 @@
+../../../pool/sync/python-sphinx-alabaster-theme-0.7.12-9-any.pkg.tar.zst.sig

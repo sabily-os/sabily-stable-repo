@@ -1,0 +1,1 @@
+../../../pool/sync/libwnck-2.31.0-3-x86_64.pkg.tar.xz.sig

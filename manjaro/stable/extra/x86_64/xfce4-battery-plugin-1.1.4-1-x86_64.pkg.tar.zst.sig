@@ -1,0 +1,1 @@
+../../../pool/sync/xfce4-battery-plugin-1.1.4-1-x86_64.pkg.tar.zst.sig

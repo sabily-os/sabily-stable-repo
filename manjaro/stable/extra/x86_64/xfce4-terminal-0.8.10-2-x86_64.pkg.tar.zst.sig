@@ -1,0 +1,1 @@
+../../../pool/sync/xfce4-terminal-0.8.10-2-x86_64.pkg.tar.zst.sig

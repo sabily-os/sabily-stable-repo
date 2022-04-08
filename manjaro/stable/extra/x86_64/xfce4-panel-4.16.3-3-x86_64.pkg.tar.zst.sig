@@ -1,0 +1,1 @@
+../../../pool/sync/xfce4-panel-4.16.3-3-x86_64.pkg.tar.zst.sig

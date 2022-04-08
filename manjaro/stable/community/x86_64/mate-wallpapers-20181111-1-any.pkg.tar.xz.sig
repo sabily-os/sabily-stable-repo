@@ -1,0 +1,1 @@
+../../../pool/overlay/mate-wallpapers-20181111-1-any.pkg.tar.xz.sig

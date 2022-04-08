@@ -1,0 +1,1 @@
+../../../pool/overlay/phonesim-1.21.r16.gadf231a-1-x86_64.pkg.tar.xz.sig

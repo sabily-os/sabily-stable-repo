@@ -1,0 +1,1 @@
+../../../pool/sync/python-pendulum-2.1.2-5-any.pkg.tar.zst.sig

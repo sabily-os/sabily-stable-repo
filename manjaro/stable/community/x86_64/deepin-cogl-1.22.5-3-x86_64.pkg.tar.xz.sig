@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-cogl-1.22.5-3-x86_64.pkg.tar.xz.sig

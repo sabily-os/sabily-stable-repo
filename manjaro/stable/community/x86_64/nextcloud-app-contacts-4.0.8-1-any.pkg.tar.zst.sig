@@ -1,0 +1,1 @@
+../../../pool/sync/nextcloud-app-contacts-4.0.8-1-any.pkg.tar.zst.sig

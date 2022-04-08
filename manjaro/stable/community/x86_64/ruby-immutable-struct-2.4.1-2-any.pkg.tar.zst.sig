@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-immutable-struct-2.4.1-2-any.pkg.tar.zst.sig

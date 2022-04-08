@@ -1,0 +1,1 @@
+../../../pool/overlay/mycroft-gui-r717.5b01471-1-x86_64.pkg.tar.zst.sig

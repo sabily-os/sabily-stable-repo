@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-jose-0.8.5-44-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-crypt-openssl-dsa-0.20-2-x86_64.pkg.tar.zst.sig

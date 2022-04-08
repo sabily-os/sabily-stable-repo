@@ -1,0 +1,1 @@
+../../../pool/sync/python-beaker-1.11.0-8-any.pkg.tar.zst.sig

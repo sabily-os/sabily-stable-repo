@@ -1,0 +1,1 @@
+../../../pool/sync/vim-jedi-0.11.0-2-any.pkg.tar.zst.sig

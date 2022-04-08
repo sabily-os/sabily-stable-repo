@@ -1,0 +1,1 @@
+../../../pool/sync/miniserve-0.19.2-1-x86_64.pkg.tar.zst.sig

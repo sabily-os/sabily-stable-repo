@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-live-skel-20210507-1-any.pkg.tar.zst.sig

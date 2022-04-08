@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-circle-icons-0.1.0-1-any.pkg.tar.xz.sig

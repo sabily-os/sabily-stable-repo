@@ -1,0 +1,1 @@
+../../../pool/sync/python-rfc6555-0.1.0-1-any.pkg.tar.zst.sig

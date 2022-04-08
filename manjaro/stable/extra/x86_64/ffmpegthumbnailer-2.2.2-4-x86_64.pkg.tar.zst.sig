@@ -1,0 +1,1 @@
+../../../pool/sync/ffmpegthumbnailer-2.2.2-4-x86_64.pkg.tar.zst.sig

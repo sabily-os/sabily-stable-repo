@@ -1,0 +1,1 @@
+../../../pool/sync/gopass-jsonapi-1.11.1-1-x86_64.pkg.tar.zst.sig

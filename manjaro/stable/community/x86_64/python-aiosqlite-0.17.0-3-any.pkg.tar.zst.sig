@@ -1,0 +1,1 @@
+../../../pool/sync/python-aiosqlite-0.17.0-3-any.pkg.tar.zst.sig

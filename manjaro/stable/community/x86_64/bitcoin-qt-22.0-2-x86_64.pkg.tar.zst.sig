@@ -1,0 +1,1 @@
+../../../pool/sync/bitcoin-qt-22.0-2-x86_64.pkg.tar.zst.sig

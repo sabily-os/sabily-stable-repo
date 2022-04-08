@@ -1,0 +1,1 @@
+../../../pool/sync/lxqt-build-tools-0.10.0-1-any.pkg.tar.zst.sig

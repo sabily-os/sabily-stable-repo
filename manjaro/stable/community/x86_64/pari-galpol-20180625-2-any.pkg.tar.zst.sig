@@ -1,0 +1,1 @@
+../../../pool/sync/pari-galpol-20180625-2-any.pkg.tar.zst.sig

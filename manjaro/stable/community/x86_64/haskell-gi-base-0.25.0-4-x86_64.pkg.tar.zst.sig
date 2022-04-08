@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-gi-base-0.25.0-4-x86_64.pkg.tar.zst.sig

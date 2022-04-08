@@ -1,0 +1,1 @@
+../../../pool/sync/dotnet-sdk-6.0.2.sdk102-1-x86_64.pkg.tar.zst.sig

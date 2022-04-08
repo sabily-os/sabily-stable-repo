@@ -1,0 +1,1 @@
+../../../pool/sync/python-h5py-3.6.0-3-x86_64.pkg.tar.zst.sig

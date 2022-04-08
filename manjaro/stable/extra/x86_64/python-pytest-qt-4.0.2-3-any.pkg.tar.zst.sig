@@ -1,0 +1,1 @@
+../../../pool/sync/python-pytest-qt-4.0.2-3-any.pkg.tar.zst.sig

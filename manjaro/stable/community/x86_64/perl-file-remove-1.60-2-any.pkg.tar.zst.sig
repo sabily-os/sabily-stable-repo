@@ -1,0 +1,1 @@
+../../../pool/sync/perl-file-remove-1.60-2-any.pkg.tar.zst.sig

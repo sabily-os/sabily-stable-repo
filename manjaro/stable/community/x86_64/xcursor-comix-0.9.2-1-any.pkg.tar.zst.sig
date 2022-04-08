@@ -1,0 +1,1 @@
+../../../pool/sync/xcursor-comix-0.9.2-1-any.pkg.tar.zst.sig

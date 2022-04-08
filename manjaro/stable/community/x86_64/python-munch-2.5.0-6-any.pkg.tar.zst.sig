@@ -1,0 +1,1 @@
+../../../pool/sync/python-munch-2.5.0-6-any.pkg.tar.zst.sig

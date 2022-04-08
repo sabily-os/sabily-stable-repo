@@ -1,0 +1,1 @@
+../../../pool/sync/python-setuptools-markdown-0.4.1-7-any.pkg.tar.zst.sig

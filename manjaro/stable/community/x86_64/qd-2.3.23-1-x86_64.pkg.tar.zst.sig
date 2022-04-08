@@ -1,0 +1,1 @@
+../../../pool/sync/qd-2.3.23-1-x86_64.pkg.tar.zst.sig

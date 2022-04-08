@@ -1,0 +1,1 @@
+../../../pool/sync/python2-six-1.16.0-5-any.pkg.tar.zst.sig

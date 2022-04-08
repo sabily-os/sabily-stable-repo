@@ -1,0 +1,1 @@
+../../../pool/sync/python-qstylizer-0.2.1-3-any.pkg.tar.zst.sig

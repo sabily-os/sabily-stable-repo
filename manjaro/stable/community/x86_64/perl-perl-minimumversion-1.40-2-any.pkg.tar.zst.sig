@@ -1,0 +1,1 @@
+../../../pool/sync/perl-perl-minimumversion-1.40-2-any.pkg.tar.zst.sig

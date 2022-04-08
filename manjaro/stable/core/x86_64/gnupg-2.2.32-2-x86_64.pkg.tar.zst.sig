@@ -1,0 +1,1 @@
+../../../pool/sync/gnupg-2.2.32-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/ibus-hangul-1.5.4-3-x86_64.pkg.tar.zst.sig

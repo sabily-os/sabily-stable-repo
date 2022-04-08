@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyqt5-networkauth-5.15.5-3-x86_64.pkg.tar.zst.sig

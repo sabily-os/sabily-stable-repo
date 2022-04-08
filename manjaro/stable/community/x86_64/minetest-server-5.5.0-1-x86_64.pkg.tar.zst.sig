@@ -1,0 +1,1 @@
+../../../pool/sync/minetest-server-5.5.0-1-x86_64.pkg.tar.zst.sig

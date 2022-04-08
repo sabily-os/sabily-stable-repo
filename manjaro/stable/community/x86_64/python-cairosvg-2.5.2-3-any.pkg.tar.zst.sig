@@ -1,0 +1,1 @@
+../../../pool/sync/python-cairosvg-2.5.2-3-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/cargo-asm-0.1.16-1-x86_64.pkg.tar.zst.sig

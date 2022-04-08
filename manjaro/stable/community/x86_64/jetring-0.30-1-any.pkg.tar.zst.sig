@@ -1,0 +1,1 @@
+../../../pool/sync/jetring-0.30-1-any.pkg.tar.zst.sig

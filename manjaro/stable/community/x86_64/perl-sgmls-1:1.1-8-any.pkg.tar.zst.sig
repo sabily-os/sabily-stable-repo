@@ -1,0 +1,1 @@
+../../../pool/sync/perl-sgmls-1:1.1-8-any.pkg.tar.zst.sig

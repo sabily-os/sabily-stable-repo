@@ -1,0 +1,1 @@
+../../../pool/sync/python-agate-sql-0.5.8-3-any.pkg.tar.zst.sig

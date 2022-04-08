@@ -1,0 +1,1 @@
+../../../pool/sync/kvantum-theme-materia-20220207-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/pidgin-libnotify-0.14-13-x86_64.pkg.tar.zst.sig

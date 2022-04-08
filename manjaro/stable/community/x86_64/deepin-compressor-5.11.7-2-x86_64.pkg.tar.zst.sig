@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-compressor-5.11.7-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/krita-plugin-gmic-3.0.2.1-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-show-0.6-78-x86_64.pkg.tar.zst.sig

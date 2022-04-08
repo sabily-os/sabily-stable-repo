@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-data-endian-0.1.1-23-x86_64.pkg.tar.zst.sig

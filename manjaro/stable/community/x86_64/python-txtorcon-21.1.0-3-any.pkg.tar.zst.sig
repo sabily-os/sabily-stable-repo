@@ -1,0 +1,1 @@
+../../../pool/sync/python-txtorcon-21.1.0-3-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/synergy-1.10.3-2-x86_64.pkg.tar.zst.sig

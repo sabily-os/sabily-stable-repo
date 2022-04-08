@@ -1,0 +1,1 @@
+../../../pool/sync/4ti2-1.6.9-2-x86_64.pkg.tar.zst.sig

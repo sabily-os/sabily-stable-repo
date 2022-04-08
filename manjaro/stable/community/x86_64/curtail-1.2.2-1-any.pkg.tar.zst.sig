@@ -1,0 +1,1 @@
+../../../pool/sync/curtail-1.2.2-1-any.pkg.tar.zst.sig

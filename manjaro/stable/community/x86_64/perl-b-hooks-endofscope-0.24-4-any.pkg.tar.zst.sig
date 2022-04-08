@@ -1,0 +1,1 @@
+../../../pool/sync/perl-b-hooks-endofscope-0.24-4-any.pkg.tar.zst.sig

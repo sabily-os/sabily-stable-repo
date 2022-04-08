@@ -1,0 +1,1 @@
+../../../pool/sync/pcsx2-1.7.2277-2-x86_64.pkg.tar.zst.sig

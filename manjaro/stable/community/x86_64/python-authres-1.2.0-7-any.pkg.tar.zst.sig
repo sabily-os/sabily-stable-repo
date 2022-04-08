@@ -1,0 +1,1 @@
+../../../pool/sync/python-authres-1.2.0-7-any.pkg.tar.zst.sig

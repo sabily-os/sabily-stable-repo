@@ -1,0 +1,1 @@
+../../../pool/sync/minieap-0.93-1-x86_64.pkg.tar.zst.sig

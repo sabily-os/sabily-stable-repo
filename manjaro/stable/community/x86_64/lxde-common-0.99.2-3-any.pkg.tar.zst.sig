@@ -1,0 +1,1 @@
+../../../pool/sync/lxde-common-0.99.2-3-any.pkg.tar.zst.sig

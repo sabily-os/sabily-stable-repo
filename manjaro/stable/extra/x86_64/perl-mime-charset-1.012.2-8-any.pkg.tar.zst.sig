@@ -1,0 +1,1 @@
+../../../pool/sync/perl-mime-charset-1.012.2-8-any.pkg.tar.zst.sig

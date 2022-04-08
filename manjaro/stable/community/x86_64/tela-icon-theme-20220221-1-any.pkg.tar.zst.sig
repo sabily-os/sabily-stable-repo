@@ -1,0 +1,1 @@
+../../../pool/overlay/tela-icon-theme-20220221-1-any.pkg.tar.zst.sig

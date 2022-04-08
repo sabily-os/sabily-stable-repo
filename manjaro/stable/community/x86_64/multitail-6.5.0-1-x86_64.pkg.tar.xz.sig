@@ -1,0 +1,1 @@
+../../../pool/sync/multitail-6.5.0-1-x86_64.pkg.tar.xz.sig

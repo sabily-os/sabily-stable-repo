@@ -1,0 +1,1 @@
+../../../pool/sync/vim-airline-themes-r1435.97cf3e6-1-any.pkg.tar.zst.sig

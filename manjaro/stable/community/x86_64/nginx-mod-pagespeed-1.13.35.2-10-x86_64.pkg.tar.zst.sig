@@ -1,0 +1,1 @@
+../../../pool/sync/nginx-mod-pagespeed-1.13.35.2-10-x86_64.pkg.tar.zst.sig

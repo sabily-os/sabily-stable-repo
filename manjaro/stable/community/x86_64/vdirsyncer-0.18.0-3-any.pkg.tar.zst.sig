@@ -1,0 +1,1 @@
+../../../pool/sync/vdirsyncer-0.18.0-3-any.pkg.tar.zst.sig

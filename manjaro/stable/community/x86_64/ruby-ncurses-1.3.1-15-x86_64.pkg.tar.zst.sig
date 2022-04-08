@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-ncurses-1.3.1-15-x86_64.pkg.tar.zst.sig

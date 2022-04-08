@@ -1,0 +1,1 @@
+../../../pool/sync/cgit-archweb-1.2.3-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libidn2-2.3.2-1-x86_64.pkg.tar.zst.sig

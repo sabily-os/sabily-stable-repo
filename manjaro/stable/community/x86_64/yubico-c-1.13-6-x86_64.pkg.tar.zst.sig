@@ -1,0 +1,1 @@
+../../../pool/sync/yubico-c-1.13-6-x86_64.pkg.tar.zst.sig

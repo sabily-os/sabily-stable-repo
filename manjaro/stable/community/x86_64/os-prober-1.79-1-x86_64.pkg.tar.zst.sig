@@ -1,0 +1,1 @@
+../../../pool/overlay/os-prober-1.79-1-x86_64.pkg.tar.zst.sig

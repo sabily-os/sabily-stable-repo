@@ -1,0 +1,1 @@
+../../../pool/sync/ttf-fira-sans-1:4.301-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/byacc-20210109-1-x86_64.pkg.tar.zst.sig

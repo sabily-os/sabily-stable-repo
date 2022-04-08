@@ -1,0 +1,1 @@
+../../../pool/sync/xlockmore-5.69-1-x86_64.pkg.tar.zst.sig

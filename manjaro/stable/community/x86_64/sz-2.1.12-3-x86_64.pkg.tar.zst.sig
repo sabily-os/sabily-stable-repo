@@ -1,0 +1,1 @@
+../../../pool/sync/sz-2.1.12-3-x86_64.pkg.tar.zst.sig

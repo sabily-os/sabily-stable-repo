@@ -1,0 +1,1 @@
+../../../pool/sync/ttf-droid-20121017-10-any.pkg.tar.zst.sig

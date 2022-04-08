@@ -1,0 +1,1 @@
+../../../pool/sync/python-markups-3.1.3-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-pipenv-2022.1.8-2-any.pkg.tar.zst.sig

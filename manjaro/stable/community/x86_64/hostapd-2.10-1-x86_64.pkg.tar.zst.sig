@@ -1,0 +1,1 @@
+../../../pool/sync/hostapd-2.10-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libsoup3-3.0.4-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/spiped-1.6.2-2-x86_64.pkg.tar.zst.sig

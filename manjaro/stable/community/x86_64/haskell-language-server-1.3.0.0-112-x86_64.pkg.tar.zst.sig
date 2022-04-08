@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-language-server-1.3.0.0-112-x86_64.pkg.tar.zst.sig

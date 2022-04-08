@@ -1,0 +1,1 @@
+../../../pool/sync/python-jaeger-client-4.8.0-3-any.pkg.tar.zst.sig

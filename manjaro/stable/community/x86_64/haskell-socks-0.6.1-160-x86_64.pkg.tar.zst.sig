@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-socks-0.6.1-160-x86_64.pkg.tar.zst.sig

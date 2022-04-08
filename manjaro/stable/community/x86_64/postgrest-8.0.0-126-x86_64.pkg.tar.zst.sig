@@ -1,0 +1,1 @@
+../../../pool/sync/postgrest-8.0.0-126-x86_64.pkg.tar.zst.sig

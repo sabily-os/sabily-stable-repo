@@ -1,0 +1,1 @@
+../../../pool/sync/python-hawkauthlib-2.0.0-10-any.pkg.tar.zst.sig

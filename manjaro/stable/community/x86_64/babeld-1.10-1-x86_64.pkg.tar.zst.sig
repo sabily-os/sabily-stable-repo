@@ -1,0 +1,1 @@
+../../../pool/sync/babeld-1.10-1-x86_64.pkg.tar.zst.sig

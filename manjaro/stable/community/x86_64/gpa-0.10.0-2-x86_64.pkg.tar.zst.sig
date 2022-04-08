@@ -1,0 +1,1 @@
+../../../pool/sync/gpa-0.10.0-2-x86_64.pkg.tar.zst.sig

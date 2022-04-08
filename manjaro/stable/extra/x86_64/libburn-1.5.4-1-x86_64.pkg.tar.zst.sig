@@ -1,0 +1,1 @@
+../../../pool/sync/libburn-1.5.4-1-x86_64.pkg.tar.zst.sig

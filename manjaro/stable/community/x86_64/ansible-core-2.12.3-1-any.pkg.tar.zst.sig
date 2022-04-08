@@ -1,0 +1,1 @@
+../../../pool/sync/ansible-core-2.12.3-1-any.pkg.tar.zst.sig

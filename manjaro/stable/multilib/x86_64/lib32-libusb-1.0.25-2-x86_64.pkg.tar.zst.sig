@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libusb-1.0.25-2-x86_64.pkg.tar.zst.sig

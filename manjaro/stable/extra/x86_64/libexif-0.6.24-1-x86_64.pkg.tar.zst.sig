@@ -1,0 +1,1 @@
+../../../pool/sync/libexif-0.6.24-1-x86_64.pkg.tar.zst.sig

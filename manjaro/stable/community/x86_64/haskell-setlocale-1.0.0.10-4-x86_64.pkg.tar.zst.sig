@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-setlocale-1.0.0.10-4-x86_64.pkg.tar.zst.sig

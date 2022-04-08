@@ -1,0 +1,1 @@
+../../../pool/overlay/mate-indicator-applet-1.24.0-1-x86_64.pkg.tar.zst.sig

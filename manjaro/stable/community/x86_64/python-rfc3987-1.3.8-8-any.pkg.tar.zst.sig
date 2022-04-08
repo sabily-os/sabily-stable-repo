@@ -1,0 +1,1 @@
+../../../pool/sync/python-rfc3987-1.3.8-8-any.pkg.tar.zst.sig

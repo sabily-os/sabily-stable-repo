@@ -1,0 +1,1 @@
+../../../pool/sync/aws-c-auth-0.6.8-1-x86_64.pkg.tar.zst.sig

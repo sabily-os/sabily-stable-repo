@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-cpphs-1.20.9.1-12-x86_64.pkg.tar.zst.sig

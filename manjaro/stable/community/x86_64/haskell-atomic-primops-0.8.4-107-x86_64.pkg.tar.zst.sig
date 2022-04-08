@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-atomic-primops-0.8.4-107-x86_64.pkg.tar.zst.sig

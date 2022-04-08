@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-screenshot-5.0.0-6-x86_64.pkg.tar.zst.sig

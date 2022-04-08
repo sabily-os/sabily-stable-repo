@@ -1,0 +1,1 @@
+../../../pool/sync/lxinput-gtk3-0.3.5-3-x86_64.pkg.tar.zst.sig

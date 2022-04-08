@@ -1,0 +1,1 @@
+../../../pool/sync/enigma-1.04-7-x86_64.pkg.tar.zst.sig

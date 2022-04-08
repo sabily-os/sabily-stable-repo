@@ -1,0 +1,1 @@
+../../../pool/sync/wireguard-tools-1.0.20210914-1-x86_64.pkg.tar.zst.sig

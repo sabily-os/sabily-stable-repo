@@ -1,0 +1,1 @@
+../../../pool/sync/libxrender-0.9.10-4-x86_64.pkg.tar.zst.sig

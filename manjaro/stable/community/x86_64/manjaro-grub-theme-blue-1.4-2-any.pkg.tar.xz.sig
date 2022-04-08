@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-grub-theme-blue-1.4-2-any.pkg.tar.xz.sig

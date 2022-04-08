@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-rack-protection-2.1.0-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-movie-1:5.7.15-3-x86_64.pkg.tar.zst.sig

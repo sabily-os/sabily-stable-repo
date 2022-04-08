@@ -1,0 +1,1 @@
+../../../pool/sync/libsoup-2.74.2-2-x86_64.pkg.tar.zst.sig

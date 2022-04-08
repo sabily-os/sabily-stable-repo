@@ -1,0 +1,1 @@
+../../../pool/sync/perl-text-soundex-3.05-9-x86_64.pkg.tar.zst.sig

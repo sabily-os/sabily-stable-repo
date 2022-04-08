@@ -1,0 +1,1 @@
+../../../pool/sync/tinycdb-0.78-5-x86_64.pkg.tar.zst.sig

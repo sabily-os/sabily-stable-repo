@@ -1,0 +1,1 @@
+../../../pool/sync/python-quart-cors-0.5.0-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-memory-0.16.0-49-x86_64.pkg.tar.zst.sig

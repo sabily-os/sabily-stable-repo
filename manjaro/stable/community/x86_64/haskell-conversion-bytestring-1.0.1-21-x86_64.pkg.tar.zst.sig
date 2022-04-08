@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-conversion-bytestring-1.0.1-21-x86_64.pkg.tar.zst.sig

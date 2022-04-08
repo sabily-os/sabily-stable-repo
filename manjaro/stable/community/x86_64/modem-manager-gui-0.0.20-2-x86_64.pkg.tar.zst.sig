@@ -1,0 +1,1 @@
+../../../pool/sync/modem-manager-gui-0.0.20-2-x86_64.pkg.tar.zst.sig

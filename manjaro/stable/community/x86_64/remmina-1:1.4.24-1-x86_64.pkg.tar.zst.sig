@@ -1,0 +1,1 @@
+../../../pool/sync/remmina-1:1.4.24-1-x86_64.pkg.tar.zst.sig

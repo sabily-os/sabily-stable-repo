@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-filemanip-0.3.6.3-35-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-appdirs-1.4.4-6-any.pkg.tar.zst.sig

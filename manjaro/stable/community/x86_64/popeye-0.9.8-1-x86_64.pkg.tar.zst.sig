@@ -1,0 +1,1 @@
+../../../pool/sync/popeye-0.9.8-1-x86_64.pkg.tar.zst.sig

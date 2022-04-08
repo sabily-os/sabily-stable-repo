@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-contravariant-1.5.5-3-x86_64.pkg.tar.zst.sig

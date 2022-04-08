@@ -1,0 +1,1 @@
+../../../pool/overlay/kdisplay-5.24.0.r1467.g3a9c6c8-1-x86_64.pkg.tar.zst.sig

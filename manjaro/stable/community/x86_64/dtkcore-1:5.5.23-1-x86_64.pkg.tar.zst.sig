@@ -1,0 +1,1 @@
+../../../pool/sync/dtkcore-1:5.5.23-1-x86_64.pkg.tar.zst.sig

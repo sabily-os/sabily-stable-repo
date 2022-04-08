@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-prettyclass-1.0.0.0-18-x86_64.pkg.tar.zst.sig

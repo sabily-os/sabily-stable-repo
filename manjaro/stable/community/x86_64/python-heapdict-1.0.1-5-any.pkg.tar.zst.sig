@@ -1,0 +1,1 @@
+../../../pool/sync/python-heapdict-1.0.1-5-any.pkg.tar.zst.sig

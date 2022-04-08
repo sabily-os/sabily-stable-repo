@@ -1,0 +1,1 @@
+../../../pool/sync/pinfo-0.6.13-1-x86_64.pkg.tar.zst.sig

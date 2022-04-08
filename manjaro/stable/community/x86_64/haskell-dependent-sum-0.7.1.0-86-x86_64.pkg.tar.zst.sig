@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-dependent-sum-0.7.1.0-86-x86_64.pkg.tar.zst.sig

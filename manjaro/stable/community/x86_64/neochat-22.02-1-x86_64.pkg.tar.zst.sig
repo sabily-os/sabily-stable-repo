@@ -1,0 +1,1 @@
+../../../pool/sync/neochat-22.02-1-x86_64.pkg.tar.zst.sig

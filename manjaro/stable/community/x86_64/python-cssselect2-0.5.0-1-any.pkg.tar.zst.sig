@@ -1,0 +1,1 @@
+../../../pool/sync/python-cssselect2-0.5.0-1-any.pkg.tar.zst.sig

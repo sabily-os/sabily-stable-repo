@@ -1,0 +1,1 @@
+../../../pool/sync/aws-sdk-cpp-1.9.168-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/kernel-modules-hook-0.1.7-2-any.pkg.tar.zst.sig

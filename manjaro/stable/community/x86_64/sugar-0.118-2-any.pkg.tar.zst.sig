@@ -1,0 +1,1 @@
+../../../pool/sync/sugar-0.118-2-any.pkg.tar.zst.sig

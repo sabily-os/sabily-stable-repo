@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-openssl-1.0-1.0.2.u-2-x86_64.pkg.tar.zst.sig

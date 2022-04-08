@@ -1,0 +1,1 @@
+../../../pool/sync/mokutil-0.5.0-1-x86_64.pkg.tar.zst.sig

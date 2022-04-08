@@ -1,0 +1,1 @@
+../../../pool/sync/libcap-ng-0.8.2-7-x86_64.pkg.tar.zst.sig

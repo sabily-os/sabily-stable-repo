@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-webdad-settings-20220204-2-any.pkg.tar.zst.sig

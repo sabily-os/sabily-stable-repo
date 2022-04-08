@@ -1,0 +1,1 @@
+../../../pool/sync/python-seaborn-0.11.2-3-any.pkg.tar.zst.sig

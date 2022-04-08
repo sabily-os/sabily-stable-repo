@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-prettyprinter-1.7.1-33-x86_64.pkg.tar.zst.sig

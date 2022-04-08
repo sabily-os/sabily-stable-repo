@@ -1,0 +1,1 @@
+../../../pool/sync/bluez-5.63-2-x86_64.pkg.tar.zst.sig

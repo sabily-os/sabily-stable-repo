@@ -1,0 +1,1 @@
+../../../pool/sync/python-pykwalify-1.8.0-3-any.pkg.tar.zst.sig

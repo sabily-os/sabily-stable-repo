@@ -1,0 +1,1 @@
+../../../pool/sync/python-jsbeautifier-1.14.0-3-any.pkg.tar.zst.sig

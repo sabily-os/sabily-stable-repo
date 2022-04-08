@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-text-metrics-0.3.2-13-x86_64.pkg.tar.zst.sig

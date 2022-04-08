@@ -1,0 +1,1 @@
+../../../pool/sync/xfce4-mpc-plugin-0.5.2-2-x86_64.pkg.tar.zst.sig

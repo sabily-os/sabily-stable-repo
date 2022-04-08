@@ -1,0 +1,1 @@
+../../../pool/overlay/softmaker-office-2018-1:982-1-x86_64.pkg.tar.zst.sig

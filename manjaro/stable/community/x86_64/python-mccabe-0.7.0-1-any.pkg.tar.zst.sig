@@ -1,0 +1,1 @@
+../../../pool/sync/python-mccabe-0.7.0-1-any.pkg.tar.zst.sig

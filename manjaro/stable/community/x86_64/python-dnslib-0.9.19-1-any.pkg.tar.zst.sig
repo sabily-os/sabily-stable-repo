@@ -1,0 +1,1 @@
+../../../pool/sync/python-dnslib-0.9.19-1-any.pkg.tar.zst.sig

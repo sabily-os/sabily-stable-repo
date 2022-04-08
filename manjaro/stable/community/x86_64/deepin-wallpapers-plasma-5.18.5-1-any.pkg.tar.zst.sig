@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-wallpapers-plasma-5.18.5-1-any.pkg.tar.zst.sig

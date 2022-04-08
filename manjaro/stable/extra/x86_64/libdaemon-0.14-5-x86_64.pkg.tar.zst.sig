@@ -1,0 +1,1 @@
+../../../pool/sync/libdaemon-0.14-5-x86_64.pkg.tar.zst.sig

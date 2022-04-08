@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-vaapi-20210102-1-x86_64.pkg.tar.zst.sig

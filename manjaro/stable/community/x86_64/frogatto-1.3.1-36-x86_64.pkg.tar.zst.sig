@@ -1,0 +1,1 @@
+../../../pool/sync/frogatto-1.3.1-36-x86_64.pkg.tar.zst.sig

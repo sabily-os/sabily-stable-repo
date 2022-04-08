@@ -1,0 +1,1 @@
+../../../pool/sync/iwd-1.25-1-x86_64.pkg.tar.zst.sig

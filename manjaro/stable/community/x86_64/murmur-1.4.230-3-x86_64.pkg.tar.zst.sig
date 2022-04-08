@@ -1,0 +1,1 @@
+../../../pool/sync/murmur-1.4.230-3-x86_64.pkg.tar.zst.sig

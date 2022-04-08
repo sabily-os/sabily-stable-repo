@@ -1,0 +1,1 @@
+../../../pool/sync/python-voluptuous-serialize-2.5.0-2-any.pkg.tar.zst.sig

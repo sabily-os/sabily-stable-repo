@@ -1,0 +1,1 @@
+../../../pool/sync/xfconf-4.16.0-2-x86_64.pkg.tar.zst.sig

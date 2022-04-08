@@ -1,0 +1,1 @@
+../../../pool/sync/riscv64-linux-gnu-gcc-11.1.0-1-x86_64.pkg.tar.zst.sig

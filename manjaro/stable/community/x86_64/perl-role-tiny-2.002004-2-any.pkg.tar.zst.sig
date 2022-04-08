@@ -1,0 +1,1 @@
+../../../pool/sync/perl-role-tiny-2.002004-2-any.pkg.tar.zst.sig

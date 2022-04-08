@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyqtgraph-0.11.1-3-any.pkg.tar.zst.sig

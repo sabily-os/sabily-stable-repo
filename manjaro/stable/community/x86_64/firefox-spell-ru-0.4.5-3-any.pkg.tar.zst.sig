@@ -1,0 +1,1 @@
+../../../pool/sync/firefox-spell-ru-0.4.5-3-any.pkg.tar.zst.sig

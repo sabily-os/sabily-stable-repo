@@ -1,0 +1,1 @@
+../../../pool/sync/istio-1.13.0-1-x86_64.pkg.tar.zst.sig

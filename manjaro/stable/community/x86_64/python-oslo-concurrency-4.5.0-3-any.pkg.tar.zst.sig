@@ -1,0 +1,1 @@
+../../../pool/sync/python-oslo-concurrency-4.5.0-3-any.pkg.tar.zst.sig

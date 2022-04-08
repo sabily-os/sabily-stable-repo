@@ -1,0 +1,1 @@
+../../../pool/sync/catimg-2.7.0-1-x86_64.pkg.tar.zst.sig

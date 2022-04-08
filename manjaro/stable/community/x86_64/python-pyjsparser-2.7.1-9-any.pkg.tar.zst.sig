@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyjsparser-2.7.1-9-any.pkg.tar.zst.sig

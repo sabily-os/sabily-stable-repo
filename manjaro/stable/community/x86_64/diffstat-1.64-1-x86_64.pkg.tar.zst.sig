@@ -1,0 +1,1 @@
+../../../pool/sync/diffstat-1.64-1-x86_64.pkg.tar.zst.sig

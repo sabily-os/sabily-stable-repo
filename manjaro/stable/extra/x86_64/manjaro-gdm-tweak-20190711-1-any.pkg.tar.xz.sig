@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-gdm-tweak-20190711-1-any.pkg.tar.xz.sig

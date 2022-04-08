@@ -1,0 +1,1 @@
+../../../pool/sync/coin-or-osi-0.108.7-1-x86_64.pkg.tar.zst.sig

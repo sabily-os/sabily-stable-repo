@@ -1,0 +1,1 @@
+../../../pool/sync/python2-dnspython-1.16.0-3-any.pkg.tar.xz.sig

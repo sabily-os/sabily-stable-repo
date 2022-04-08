@@ -1,0 +1,1 @@
+../../../pool/sync/perl-file-readbackwards-1.06-2-any.pkg.tar.zst.sig

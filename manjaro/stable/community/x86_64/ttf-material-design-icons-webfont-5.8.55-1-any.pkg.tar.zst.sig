@@ -1,0 +1,1 @@
+../../../pool/overlay/ttf-material-design-icons-webfont-5.8.55-1-any.pkg.tar.zst.sig

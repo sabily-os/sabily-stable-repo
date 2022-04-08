@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyelftools-0.28-1-any.pkg.tar.zst.sig

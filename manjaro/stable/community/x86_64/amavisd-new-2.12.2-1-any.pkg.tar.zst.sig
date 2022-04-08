@@ -1,0 +1,1 @@
+../../../pool/sync/amavisd-new-2.12.2-1-any.pkg.tar.zst.sig

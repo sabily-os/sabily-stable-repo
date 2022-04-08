@@ -1,0 +1,1 @@
+../../../pool/sync/xorg-fonts-alias-misc-1.0.4-1-any.pkg.tar.zst.sig

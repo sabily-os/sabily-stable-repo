@@ -1,0 +1,1 @@
+../../../pool/sync/python-oslo-config-8.8.0-1-any.pkg.tar.zst.sig

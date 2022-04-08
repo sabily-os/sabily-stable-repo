@@ -1,0 +1,1 @@
+../../../pool/overlay/wallpapers-infinity-book-20191104-1-any.pkg.tar.xz.sig

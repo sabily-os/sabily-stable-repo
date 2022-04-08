@@ -1,0 +1,1 @@
+../../../pool/sync/totem-pl-parser-3.26.6-1-x86_64.pkg.tar.zst.sig

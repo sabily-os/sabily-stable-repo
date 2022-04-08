@@ -1,0 +1,1 @@
+../../../pool/sync/python2-packaging-20.9-7-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/uvicorn-0.17.0.post1-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/lilv-0.24.12-4-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/ttf-sazanami-20040629-11-any.pkg.tar.zst.sig

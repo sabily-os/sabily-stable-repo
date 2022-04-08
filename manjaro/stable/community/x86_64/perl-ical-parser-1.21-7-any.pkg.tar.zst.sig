@@ -1,0 +1,1 @@
+../../../pool/sync/perl-ical-parser-1.21-7-any.pkg.tar.zst.sig

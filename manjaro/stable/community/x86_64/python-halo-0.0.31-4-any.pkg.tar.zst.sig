@@ -1,0 +1,1 @@
+../../../pool/sync/python-halo-0.0.31-4-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/lua-luassert-1.8.0-7-any.pkg.tar.zst.sig

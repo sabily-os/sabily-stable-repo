@@ -1,0 +1,1 @@
+../../../pool/sync/xf86-video-vesa-2.5.0-2-x86_64.pkg.tar.zst.sig

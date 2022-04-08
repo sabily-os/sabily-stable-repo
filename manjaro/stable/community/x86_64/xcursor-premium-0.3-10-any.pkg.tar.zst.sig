@@ -1,0 +1,1 @@
+../../../pool/sync/xcursor-premium-0.3-10-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/qtkeychain-qt5-0.13.2-1-x86_64.pkg.tar.zst.sig

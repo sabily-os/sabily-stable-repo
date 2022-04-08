@@ -1,0 +1,1 @@
+../../../pool/sync/libatomic_ops-7.6.12-1-x86_64.pkg.tar.zst.sig

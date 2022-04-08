@@ -1,0 +1,1 @@
+../../../pool/sync/python-outcome-1.1.0-3-any.pkg.tar.zst.sig

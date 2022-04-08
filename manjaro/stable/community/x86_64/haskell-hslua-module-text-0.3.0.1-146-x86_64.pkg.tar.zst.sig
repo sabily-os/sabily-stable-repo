@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-hslua-module-text-0.3.0.1-146-x86_64.pkg.tar.zst.sig

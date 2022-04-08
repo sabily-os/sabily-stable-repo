@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-artwork-extra-1.0.7-2-any.pkg.tar.xz.sig

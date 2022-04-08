@@ -1,0 +1,1 @@
+../../../pool/sync/perl-moox-types-mooselike-0.29-7-any.pkg.tar.zst.sig

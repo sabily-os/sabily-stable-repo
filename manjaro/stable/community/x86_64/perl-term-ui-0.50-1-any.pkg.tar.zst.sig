@@ -1,0 +1,1 @@
+../../../pool/sync/perl-term-ui-0.50-1-any.pkg.tar.zst.sig

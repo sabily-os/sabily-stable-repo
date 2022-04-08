@@ -1,0 +1,1 @@
+../../../pool/sync/python-django-appconf-1.0.5-3-any.pkg.tar.zst.sig

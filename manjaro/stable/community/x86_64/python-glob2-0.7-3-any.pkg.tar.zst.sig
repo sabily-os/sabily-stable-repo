@@ -1,0 +1,1 @@
+../../../pool/sync/python-glob2-0.7-3-any.pkg.tar.zst.sig

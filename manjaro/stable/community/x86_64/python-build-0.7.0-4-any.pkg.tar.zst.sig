@@ -1,0 +1,1 @@
+../../../pool/sync/python-build-0.7.0-4-any.pkg.tar.zst.sig

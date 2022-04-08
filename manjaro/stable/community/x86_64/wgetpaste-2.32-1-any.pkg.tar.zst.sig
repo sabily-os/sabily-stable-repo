@@ -1,0 +1,1 @@
+../../../pool/sync/wgetpaste-2.32-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-wsgiproxy2-0.5.1-3-any.pkg.tar.zst.sig

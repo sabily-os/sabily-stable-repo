@@ -1,0 +1,1 @@
+../../../pool/sync/nextcloud-app-spreed-1:13.0.3-1-any.pkg.tar.zst.sig

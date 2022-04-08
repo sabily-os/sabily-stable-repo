@@ -1,0 +1,1 @@
+../../../pool/sync/qt5-doc-5.15.2-2-any.pkg.tar.zst.sig

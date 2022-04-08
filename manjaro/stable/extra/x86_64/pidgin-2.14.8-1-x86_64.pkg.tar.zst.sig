@@ -1,0 +1,1 @@
+../../../pool/sync/pidgin-2.14.8-1-x86_64.pkg.tar.zst.sig

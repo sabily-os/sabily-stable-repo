@@ -1,0 +1,1 @@
+../../../pool/overlay/pop-launcher-1.1.0+12+g21f699e-1-x86_64.pkg.tar.zst.sig

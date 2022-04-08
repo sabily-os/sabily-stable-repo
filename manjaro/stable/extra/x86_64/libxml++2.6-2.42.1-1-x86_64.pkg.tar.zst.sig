@@ -1,0 +1,1 @@
+../../../pool/sync/libxml++2.6-2.42.1-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-sys-meminfo-0.99-3-x86_64.pkg.tar.zst.sig

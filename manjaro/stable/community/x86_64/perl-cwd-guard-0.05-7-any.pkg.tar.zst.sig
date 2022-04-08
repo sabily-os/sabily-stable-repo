@@ -1,0 +1,1 @@
+../../../pool/sync/perl-cwd-guard-0.05-7-any.pkg.tar.zst.sig

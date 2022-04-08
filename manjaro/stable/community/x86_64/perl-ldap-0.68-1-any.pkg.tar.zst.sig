@@ -1,0 +1,1 @@
+../../../pool/sync/perl-ldap-0.68-1-any.pkg.tar.zst.sig

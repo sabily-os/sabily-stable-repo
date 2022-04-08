@@ -1,0 +1,1 @@
+../../../pool/sync/yrd-0.5.3-6-any.pkg.tar.zst.sig

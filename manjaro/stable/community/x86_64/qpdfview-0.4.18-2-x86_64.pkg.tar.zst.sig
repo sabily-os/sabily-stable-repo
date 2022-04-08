@@ -1,0 +1,1 @@
+../../../pool/sync/qpdfview-0.4.18-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-django-mailman3-1.3.7-3-any.pkg.tar.zst.sig

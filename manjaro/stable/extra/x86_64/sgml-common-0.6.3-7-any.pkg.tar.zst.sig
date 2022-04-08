@@ -1,0 +1,1 @@
+../../../pool/sync/sgml-common-0.6.3-7-any.pkg.tar.zst.sig

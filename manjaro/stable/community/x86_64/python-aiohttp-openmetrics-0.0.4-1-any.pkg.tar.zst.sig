@@ -1,0 +1,1 @@
+../../../pool/sync/python-aiohttp-openmetrics-0.0.4-1-any.pkg.tar.zst.sig

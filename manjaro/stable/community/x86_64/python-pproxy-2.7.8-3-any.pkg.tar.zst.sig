@@ -1,0 +1,1 @@
+../../../pool/sync/python-pproxy-2.7.8-3-any.pkg.tar.zst.sig

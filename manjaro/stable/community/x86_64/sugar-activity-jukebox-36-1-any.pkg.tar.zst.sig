@@ -1,0 +1,1 @@
+../../../pool/sync/sugar-activity-jukebox-36-1-any.pkg.tar.zst.sig

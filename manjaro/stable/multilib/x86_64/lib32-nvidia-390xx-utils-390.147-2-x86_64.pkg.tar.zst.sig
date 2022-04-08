@@ -1,0 +1,1 @@
+../../../pool/overlay/lib32-nvidia-390xx-utils-390.147-2-x86_64.pkg.tar.zst.sig

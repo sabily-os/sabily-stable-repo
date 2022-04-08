@@ -1,0 +1,1 @@
+../../../pool/sync/python-feedparser-6.0.2-1-any.pkg.tar.zst.sig

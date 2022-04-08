@@ -1,0 +1,1 @@
+../../../pool/sync/hunspell-en_gb-2020.12.07-4-any.pkg.tar.zst.sig

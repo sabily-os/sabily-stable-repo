@@ -1,0 +1,1 @@
+../../../pool/overlay/bomber-21.12.2.1.r551.g65b6e3c-1-x86_64.pkg.tar.zst.sig

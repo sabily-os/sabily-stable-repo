@@ -1,0 +1,1 @@
+../../../pool/sync/archlinux-repro-20220116-1-any.pkg.tar.zst.sig

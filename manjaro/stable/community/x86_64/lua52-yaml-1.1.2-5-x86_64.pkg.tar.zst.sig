@@ -1,0 +1,1 @@
+../../../pool/sync/lua52-yaml-1.1.2-5-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/avr-libc-2.1.0-1-any.pkg.tar.zst.sig

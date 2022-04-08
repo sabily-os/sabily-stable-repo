@@ -1,0 +1,1 @@
+../../../pool/sync/hyphen-it-20071127-5-any.pkg.tar.zst.sig

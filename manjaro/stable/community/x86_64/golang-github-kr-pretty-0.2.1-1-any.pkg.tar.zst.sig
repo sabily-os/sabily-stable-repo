@@ -1,0 +1,1 @@
+../../../pool/sync/golang-github-kr-pretty-0.2.1-1-any.pkg.tar.zst.sig

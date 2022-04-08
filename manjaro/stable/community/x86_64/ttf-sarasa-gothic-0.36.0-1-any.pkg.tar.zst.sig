@@ -1,0 +1,1 @@
+../../../pool/sync/ttf-sarasa-gothic-0.36.0-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-google-auth-1.34.0-4-any.pkg.tar.zst.sig

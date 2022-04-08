@@ -1,0 +1,1 @@
+../../../pool/sync/lua51-luaossl-20200709-2-x86_64.pkg.tar.zst.sig

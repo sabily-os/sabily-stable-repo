@@ -1,0 +1,1 @@
+../../../pool/sync/nushell-0.44.0-1-x86_64.pkg.tar.zst.sig

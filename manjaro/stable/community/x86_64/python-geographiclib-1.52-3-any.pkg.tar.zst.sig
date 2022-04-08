@@ -1,0 +1,1 @@
+../../../pool/sync/python-geographiclib-1.52-3-any.pkg.tar.zst.sig

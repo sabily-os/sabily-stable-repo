@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libavc1394-0.5.4-2-x86_64.pkg.tar.xz.sig

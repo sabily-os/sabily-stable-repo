@@ -1,0 +1,1 @@
+../../../pool/sync/doctl-1.70.0-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-regex-tdfa-1.3.1.2-4-x86_64.pkg.tar.zst.sig

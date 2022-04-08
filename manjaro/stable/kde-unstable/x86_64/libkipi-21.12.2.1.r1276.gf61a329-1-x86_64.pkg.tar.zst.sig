@@ -1,0 +1,1 @@
+../../../pool/overlay/libkipi-21.12.2.1.r1276.gf61a329-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-prettyprinter-ansi-terminal-1.1.3-35-x86_64.pkg.tar.zst.sig

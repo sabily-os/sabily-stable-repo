@@ -1,0 +1,1 @@
+../../../pool/sync/zfp-0.5.5-5-x86_64.pkg.tar.zst.sig

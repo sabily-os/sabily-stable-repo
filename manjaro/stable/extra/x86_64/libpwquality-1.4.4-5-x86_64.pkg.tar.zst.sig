@@ -1,0 +1,1 @@
+../../../pool/sync/libpwquality-1.4.4-5-x86_64.pkg.tar.zst.sig

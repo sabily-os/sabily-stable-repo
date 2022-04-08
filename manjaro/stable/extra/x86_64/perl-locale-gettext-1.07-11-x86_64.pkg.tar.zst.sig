@@ -1,0 +1,1 @@
+../../../pool/sync/perl-locale-gettext-1.07-11-x86_64.pkg.tar.zst.sig

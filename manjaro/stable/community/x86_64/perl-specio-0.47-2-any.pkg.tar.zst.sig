@@ -1,0 +1,1 @@
+../../../pool/sync/perl-specio-0.47-2-any.pkg.tar.zst.sig

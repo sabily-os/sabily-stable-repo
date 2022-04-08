@@ -1,0 +1,1 @@
+../../../pool/sync/perl-text-wrapi18n-0.06-9-any.pkg.tar.zst.sig

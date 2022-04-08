@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyinotify-0.9.6-11-any.pkg.tar.zst.sig

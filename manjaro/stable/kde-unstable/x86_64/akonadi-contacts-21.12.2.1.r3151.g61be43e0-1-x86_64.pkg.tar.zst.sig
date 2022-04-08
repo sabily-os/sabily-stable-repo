@@ -1,0 +1,1 @@
+../../../pool/overlay/akonadi-contacts-21.12.2.1.r3151.g61be43e0-1-x86_64.pkg.tar.zst.sig

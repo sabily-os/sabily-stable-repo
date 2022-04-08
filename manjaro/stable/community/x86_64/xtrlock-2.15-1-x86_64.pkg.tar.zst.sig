@@ -1,0 +1,1 @@
+../../../pool/sync/xtrlock-2.15-1-x86_64.pkg.tar.zst.sig

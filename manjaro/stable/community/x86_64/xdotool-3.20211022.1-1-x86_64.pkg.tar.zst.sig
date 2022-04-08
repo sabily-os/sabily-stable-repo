@@ -1,0 +1,1 @@
+../../../pool/sync/xdotool-3.20211022.1-1-x86_64.pkg.tar.zst.sig

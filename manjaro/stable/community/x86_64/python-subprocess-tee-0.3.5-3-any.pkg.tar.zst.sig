@@ -1,0 +1,1 @@
+../../../pool/sync/python-subprocess-tee-0.3.5-3-any.pkg.tar.zst.sig

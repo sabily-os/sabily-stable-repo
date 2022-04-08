@@ -1,0 +1,1 @@
+../../../pool/sync/telepathy-haze-0.8.1-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/procstatd-1.4.2-10-x86_64.pkg.tar.xz.sig

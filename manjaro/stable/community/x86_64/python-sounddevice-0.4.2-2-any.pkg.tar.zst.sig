@@ -1,0 +1,1 @@
+../../../pool/sync/python-sounddevice-0.4.2-2-any.pkg.tar.zst.sig

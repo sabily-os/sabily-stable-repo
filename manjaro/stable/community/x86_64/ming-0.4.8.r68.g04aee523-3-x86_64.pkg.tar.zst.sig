@@ -1,0 +1,1 @@
+../../../pool/sync/ming-0.4.8.r68.g04aee523-3-x86_64.pkg.tar.zst.sig

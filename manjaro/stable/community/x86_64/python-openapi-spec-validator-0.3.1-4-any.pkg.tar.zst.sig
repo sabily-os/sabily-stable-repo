@@ -1,0 +1,1 @@
+../../../pool/sync/python-openapi-spec-validator-0.3.1-4-any.pkg.tar.zst.sig

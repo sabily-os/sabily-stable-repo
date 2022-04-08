@@ -1,0 +1,1 @@
+../../../pool/overlay/kde-dev-scripts-21.12.2.1.r4144.gc500048-1-x86_64.pkg.tar.zst.sig

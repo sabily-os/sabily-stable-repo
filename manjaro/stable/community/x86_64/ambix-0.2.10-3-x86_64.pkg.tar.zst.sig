@@ -1,0 +1,1 @@
+../../../pool/sync/ambix-0.2.10-3-x86_64.pkg.tar.zst.sig

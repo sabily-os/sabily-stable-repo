@@ -1,0 +1,1 @@
+../../../pool/sync/python-pydispatcher-2.0.5-9-any.pkg.tar.zst.sig

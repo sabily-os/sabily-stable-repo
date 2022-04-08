@@ -1,0 +1,1 @@
+../../../pool/overlay/kguiaddons-5.91.0.r447.g322dd7e-1-x86_64.pkg.tar.zst.sig

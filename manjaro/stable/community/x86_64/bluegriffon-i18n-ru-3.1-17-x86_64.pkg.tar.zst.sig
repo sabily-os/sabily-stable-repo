@@ -1,0 +1,1 @@
+../../../pool/sync/bluegriffon-i18n-ru-3.1-17-x86_64.pkg.tar.zst.sig

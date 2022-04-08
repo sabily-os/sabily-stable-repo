@@ -1,0 +1,1 @@
+../../../pool/sync/freeradius-3.0.25-5-x86_64.pkg.tar.zst.sig

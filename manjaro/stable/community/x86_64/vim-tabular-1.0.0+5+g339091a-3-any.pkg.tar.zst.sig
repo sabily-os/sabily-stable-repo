@@ -1,0 +1,1 @@
+../../../pool/sync/vim-tabular-1.0.0+5+g339091a-3-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-agate-dbf-0.2.2-4-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/pulseaudio-equalizer-ladspa-3.0.2-5-any.pkg.tar.zst.sig

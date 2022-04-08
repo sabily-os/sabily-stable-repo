@@ -1,0 +1,1 @@
+../../../pool/overlay/kpeople-5.91.0.r1367.g06652d3-1-x86_64.pkg.tar.zst.sig

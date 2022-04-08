@@ -1,0 +1,1 @@
+../../../pool/overlay/gnome-terminal-fedora-3.42.2-2-x86_64.pkg.tar.zst.sig

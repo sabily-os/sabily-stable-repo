@@ -1,0 +1,1 @@
+../../../pool/sync/perl-term-readkey-2.38-6-x86_64.pkg.tar.zst.sig

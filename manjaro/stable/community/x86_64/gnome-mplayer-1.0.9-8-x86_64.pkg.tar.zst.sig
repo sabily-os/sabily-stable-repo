@@ -1,0 +1,1 @@
+../../../pool/sync/gnome-mplayer-1.0.9-8-x86_64.pkg.tar.zst.sig

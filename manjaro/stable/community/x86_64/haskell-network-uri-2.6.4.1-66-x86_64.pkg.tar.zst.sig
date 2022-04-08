@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-network-uri-2.6.4.1-66-x86_64.pkg.tar.zst.sig

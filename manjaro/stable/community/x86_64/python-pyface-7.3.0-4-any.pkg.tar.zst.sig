@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyface-7.3.0-4-any.pkg.tar.zst.sig

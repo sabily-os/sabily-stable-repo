@@ -1,0 +1,1 @@
+../../../pool/sync/python-gwebsockets-0.7-5-any.pkg.tar.zst.sig

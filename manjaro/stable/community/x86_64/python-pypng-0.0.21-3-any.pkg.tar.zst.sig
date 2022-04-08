@@ -1,0 +1,1 @@
+../../../pool/sync/python-pypng-0.0.21-3-any.pkg.tar.zst.sig

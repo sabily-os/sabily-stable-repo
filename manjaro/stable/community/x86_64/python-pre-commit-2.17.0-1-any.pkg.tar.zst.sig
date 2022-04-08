@@ -1,0 +1,1 @@
+../../../pool/sync/python-pre-commit-2.17.0-1-any.pkg.tar.zst.sig

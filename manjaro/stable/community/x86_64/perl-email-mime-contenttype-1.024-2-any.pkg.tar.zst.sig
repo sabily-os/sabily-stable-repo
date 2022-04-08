@@ -1,0 +1,1 @@
+../../../pool/sync/perl-email-mime-contenttype-1.024-2-any.pkg.tar.zst.sig

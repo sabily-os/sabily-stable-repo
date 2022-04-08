@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyppmd-0.17.4-1-x86_64.pkg.tar.zst.sig

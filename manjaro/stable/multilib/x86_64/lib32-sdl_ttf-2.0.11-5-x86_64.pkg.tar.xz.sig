@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-sdl_ttf-2.0.11-5-x86_64.pkg.tar.xz.sig

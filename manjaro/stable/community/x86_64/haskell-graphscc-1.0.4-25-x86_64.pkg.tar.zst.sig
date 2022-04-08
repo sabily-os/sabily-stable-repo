@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-graphscc-1.0.4-25-x86_64.pkg.tar.zst.sig

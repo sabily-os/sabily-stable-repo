@@ -1,0 +1,1 @@
+../../../pool/sync/perl-log-message-simple-0.10-7-any.pkg.tar.zst.sig

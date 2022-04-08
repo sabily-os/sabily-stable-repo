@@ -1,0 +1,1 @@
+../../../pool/sync/python-cchardet-2.1.7-4-x86_64.pkg.tar.zst.sig

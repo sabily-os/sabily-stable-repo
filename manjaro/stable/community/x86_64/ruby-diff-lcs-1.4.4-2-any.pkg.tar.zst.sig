@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-diff-lcs-1.4.4-2-any.pkg.tar.zst.sig

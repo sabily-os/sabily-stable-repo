@@ -1,0 +1,1 @@
+../../../pool/sync/openconnect-1:8.20-1-x86_64.pkg.tar.zst.sig

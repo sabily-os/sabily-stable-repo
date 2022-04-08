@@ -1,0 +1,1 @@
+../../../pool/sync/adobe-source-sans-fonts-3.046-1-any.pkg.tar.zst.sig

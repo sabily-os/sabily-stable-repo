@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-async-2.2.4-21-x86_64.pkg.tar.zst.sig

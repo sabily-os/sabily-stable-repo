@@ -1,0 +1,1 @@
+../../../pool/sync/webfs-1.21-15-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/osbuild-52-2-any.pkg.tar.zst.sig

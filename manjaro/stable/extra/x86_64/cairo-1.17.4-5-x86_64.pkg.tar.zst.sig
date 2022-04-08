@@ -1,0 +1,1 @@
+../../../pool/sync/cairo-1.17.4-5-x86_64.pkg.tar.zst.sig

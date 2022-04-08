@@ -1,0 +1,1 @@
+../../../pool/sync/python-expects-0.9.0-8-any.pkg.tar.zst.sig

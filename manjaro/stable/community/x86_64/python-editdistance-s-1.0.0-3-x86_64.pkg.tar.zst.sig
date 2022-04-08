@@ -1,0 +1,1 @@
+../../../pool/sync/python-editdistance-s-1.0.0-3-x86_64.pkg.tar.zst.sig

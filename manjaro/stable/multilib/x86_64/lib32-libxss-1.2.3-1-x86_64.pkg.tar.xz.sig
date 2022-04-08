@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libxss-1.2.3-1-x86_64.pkg.tar.xz.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/nvidia-470xx-dkms-470.103.01-1-x86_64.pkg.tar.zst.sig

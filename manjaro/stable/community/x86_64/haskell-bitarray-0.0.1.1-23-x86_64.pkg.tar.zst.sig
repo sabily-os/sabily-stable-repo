@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-bitarray-0.0.1.1-23-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/libsasl-2.1.27-3-x86_64.pkg.tar.zst.sig

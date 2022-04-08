@@ -1,0 +1,1 @@
+../../../pool/sync/python-virtualenv-clone-0.5.7-3-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/sl-5.05-2-x86_64.pkg.tar.zst.sig

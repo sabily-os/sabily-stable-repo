@@ -1,0 +1,1 @@
+../../../pool/sync/espeakup-0.90-1-x86_64.pkg.tar.zst.sig

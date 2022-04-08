@@ -1,0 +1,1 @@
+../../../pool/sync/nemo-seahorse-5.2.0-2-x86_64.pkg.tar.zst.sig

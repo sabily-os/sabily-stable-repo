@@ -1,0 +1,1 @@
+../../../pool/sync/python-vcversioner-2.16.0.0-6-any.pkg.tar.zst.sig

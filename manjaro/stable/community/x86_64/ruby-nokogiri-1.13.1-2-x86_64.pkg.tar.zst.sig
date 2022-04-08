@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-nokogiri-1.13.1-2-x86_64.pkg.tar.zst.sig

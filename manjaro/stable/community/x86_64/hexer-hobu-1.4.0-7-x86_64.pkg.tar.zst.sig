@@ -1,0 +1,1 @@
+../../../pool/sync/hexer-hobu-1.4.0-7-x86_64.pkg.tar.zst.sig

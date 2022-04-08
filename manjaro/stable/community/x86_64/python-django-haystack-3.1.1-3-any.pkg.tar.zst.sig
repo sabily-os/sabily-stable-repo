@@ -1,0 +1,1 @@
+../../../pool/sync/python-django-haystack-3.1.1-3-any.pkg.tar.zst.sig

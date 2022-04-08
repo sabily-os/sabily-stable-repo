@@ -1,0 +1,1 @@
+../../../pool/sync/dbeaver-plugin-apache-poi-4.1.1-3-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-module-pluggable-5.2-7-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-onetuple-0.3.1-6-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/libparserutils-0.2.4-5-x86_64.pkg.tar.zst.sig

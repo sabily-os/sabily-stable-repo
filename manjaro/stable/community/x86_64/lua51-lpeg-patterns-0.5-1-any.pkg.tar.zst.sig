@@ -1,0 +1,1 @@
+../../../pool/sync/lua51-lpeg-patterns-0.5-1-any.pkg.tar.zst.sig

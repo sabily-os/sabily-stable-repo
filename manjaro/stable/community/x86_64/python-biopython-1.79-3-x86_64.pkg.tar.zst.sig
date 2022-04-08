@@ -1,0 +1,1 @@
+../../../pool/sync/python-biopython-1.79-3-x86_64.pkg.tar.zst.sig

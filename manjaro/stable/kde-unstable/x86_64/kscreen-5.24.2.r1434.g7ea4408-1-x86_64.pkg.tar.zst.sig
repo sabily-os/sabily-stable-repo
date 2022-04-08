@@ -1,0 +1,1 @@
+../../../pool/overlay/kscreen-5.24.2.r1434.g7ea4408-1-x86_64.pkg.tar.zst.sig

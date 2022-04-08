@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-faraday-excon-1.1.0-1-any.pkg.tar.zst.sig

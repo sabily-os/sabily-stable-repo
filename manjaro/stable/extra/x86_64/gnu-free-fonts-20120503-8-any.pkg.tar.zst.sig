@@ -1,0 +1,1 @@
+../../../pool/sync/gnu-free-fonts-20120503-8-any.pkg.tar.zst.sig

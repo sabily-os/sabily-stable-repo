@@ -1,0 +1,1 @@
+../../../pool/sync/libretro-gambatte-958-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/physlock-13-3-x86_64.pkg.tar.zst.sig

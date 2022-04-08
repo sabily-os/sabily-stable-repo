@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-quickcheck-text-0.1.2.1-57-x86_64.pkg.tar.zst.sig

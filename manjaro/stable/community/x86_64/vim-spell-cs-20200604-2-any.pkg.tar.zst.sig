@@ -1,0 +1,1 @@
+../../../pool/sync/vim-spell-cs-20200604-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-dpcontracts-0.6.0-9-any.pkg.tar.zst.sig

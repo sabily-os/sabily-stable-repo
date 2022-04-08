@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-text-conversions-0.3.1-114-x86_64.pkg.tar.zst.sig

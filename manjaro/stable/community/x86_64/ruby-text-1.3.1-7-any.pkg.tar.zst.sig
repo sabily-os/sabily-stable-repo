@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-text-1.3.1-7-any.pkg.tar.zst.sig

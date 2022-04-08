@@ -1,0 +1,1 @@
+../../../pool/sync/archey3-0.5-12-any.pkg.tar.zst.sig

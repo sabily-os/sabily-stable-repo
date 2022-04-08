@@ -1,0 +1,1 @@
+../../../pool/sync/perl-text-glob-0.11-8-any.pkg.tar.zst.sig

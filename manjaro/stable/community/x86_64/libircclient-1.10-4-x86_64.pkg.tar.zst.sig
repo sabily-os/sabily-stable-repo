@@ -1,0 +1,1 @@
+../../../pool/sync/libircclient-1.10-4-x86_64.pkg.tar.zst.sig

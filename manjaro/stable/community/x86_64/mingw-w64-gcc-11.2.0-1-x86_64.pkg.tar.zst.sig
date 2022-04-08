@@ -1,0 +1,1 @@
+../../../pool/sync/mingw-w64-gcc-11.2.0-1-x86_64.pkg.tar.zst.sig

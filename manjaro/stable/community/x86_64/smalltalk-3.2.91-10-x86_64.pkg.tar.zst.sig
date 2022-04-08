@@ -1,0 +1,1 @@
+../../../pool/sync/smalltalk-3.2.91-10-x86_64.pkg.tar.zst.sig

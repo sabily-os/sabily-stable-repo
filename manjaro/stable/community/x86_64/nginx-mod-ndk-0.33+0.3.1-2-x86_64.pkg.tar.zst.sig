@@ -1,0 +1,1 @@
+../../../pool/sync/nginx-mod-ndk-0.33+0.3.1-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-simplesat-0.8.2-5-any.pkg.tar.zst.sig

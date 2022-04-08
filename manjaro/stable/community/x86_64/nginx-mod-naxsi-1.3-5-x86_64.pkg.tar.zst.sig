@@ -1,0 +1,1 @@
+../../../pool/sync/nginx-mod-naxsi-1.3-5-x86_64.pkg.tar.zst.sig

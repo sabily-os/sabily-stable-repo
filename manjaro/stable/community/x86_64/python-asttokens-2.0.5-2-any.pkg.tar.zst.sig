@@ -1,0 +1,1 @@
+../../../pool/sync/python-asttokens-2.0.5-2-any.pkg.tar.zst.sig

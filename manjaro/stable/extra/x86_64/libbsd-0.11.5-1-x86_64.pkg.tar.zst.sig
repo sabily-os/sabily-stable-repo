@@ -1,0 +1,1 @@
+../../../pool/sync/libbsd-0.11.5-1-x86_64.pkg.tar.zst.sig

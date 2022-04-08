@@ -1,0 +1,1 @@
+../../../pool/overlay/kvantum-manjaro-0.13.5+1+g333aa00-1-any.pkg.tar.zst.sig

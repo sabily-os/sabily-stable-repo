@@ -1,0 +1,1 @@
+../../../pool/overlay/thunarx-python-0.5.2-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/exa-0.10.1-5-x86_64.pkg.tar.zst.sig

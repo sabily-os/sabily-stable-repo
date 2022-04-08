@@ -1,0 +1,1 @@
+../../../pool/sync/ublock-origin-1.41.8-1-any.pkg.tar.zst.sig

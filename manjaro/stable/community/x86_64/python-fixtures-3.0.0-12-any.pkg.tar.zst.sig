@@ -1,0 +1,1 @@
+../../../pool/sync/python-fixtures-3.0.0-12-any.pkg.tar.zst.sig

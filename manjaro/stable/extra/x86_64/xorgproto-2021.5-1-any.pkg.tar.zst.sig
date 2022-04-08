@@ -1,0 +1,1 @@
+../../../pool/sync/xorgproto-2021.5-1-any.pkg.tar.zst.sig

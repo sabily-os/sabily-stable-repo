@@ -1,0 +1,1 @@
+../../../pool/sync/synapse-0.2.99.4-2-x86_64.pkg.tar.zst.sig

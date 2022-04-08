@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-text-binary-0.2.1.1-26-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-xss-sanitize-0.3.7-30-x86_64.pkg.tar.zst.sig

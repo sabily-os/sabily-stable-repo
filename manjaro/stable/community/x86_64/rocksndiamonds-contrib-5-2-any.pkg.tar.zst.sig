@@ -1,0 +1,1 @@
+../../../pool/sync/rocksndiamonds-contrib-5-2-any.pkg.tar.zst.sig

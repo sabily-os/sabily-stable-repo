@@ -1,0 +1,1 @@
+../../../pool/sync/python-pytest-django-4.5.2-1-any.pkg.tar.zst.sig

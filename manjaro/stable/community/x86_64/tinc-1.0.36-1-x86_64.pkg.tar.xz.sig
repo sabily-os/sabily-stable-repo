@@ -1,0 +1,1 @@
+../../../pool/sync/tinc-1.0.36-1-x86_64.pkg.tar.xz.sig

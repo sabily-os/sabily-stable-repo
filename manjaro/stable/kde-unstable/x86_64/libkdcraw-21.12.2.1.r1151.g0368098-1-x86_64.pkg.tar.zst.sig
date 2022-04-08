@@ -1,0 +1,1 @@
+../../../pool/overlay/libkdcraw-21.12.2.1.r1151.g0368098-1-x86_64.pkg.tar.zst.sig

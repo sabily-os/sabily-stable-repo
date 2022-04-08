@@ -1,0 +1,1 @@
+../../../pool/sync/perl-cgi-fast-2.16-1-any.pkg.tar.zst.sig

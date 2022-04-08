@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-pixman-0.40.0-1-x86_64.pkg.tar.zst.sig

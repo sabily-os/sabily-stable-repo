@@ -1,0 +1,1 @@
+../../../pool/sync/perl-template-gd-2.66-7-any.pkg.tar.zst.sig

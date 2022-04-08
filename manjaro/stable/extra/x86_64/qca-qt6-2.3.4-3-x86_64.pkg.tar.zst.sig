@@ -1,0 +1,1 @@
+../../../pool/sync/qca-qt6-2.3.4-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/rofi-scripts-0.12-1-any.pkg.tar.zst.sig

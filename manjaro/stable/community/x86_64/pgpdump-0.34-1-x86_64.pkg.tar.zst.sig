@@ -1,0 +1,1 @@
+../../../pool/sync/pgpdump-0.34-1-x86_64.pkg.tar.zst.sig

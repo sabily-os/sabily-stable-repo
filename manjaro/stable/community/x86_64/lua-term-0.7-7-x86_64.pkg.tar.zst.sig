@@ -1,0 +1,1 @@
+../../../pool/sync/lua-term-0.7-7-x86_64.pkg.tar.zst.sig

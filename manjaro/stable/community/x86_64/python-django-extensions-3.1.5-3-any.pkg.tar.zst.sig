@@ -1,0 +1,1 @@
+../../../pool/sync/python-django-extensions-3.1.5-3-any.pkg.tar.zst.sig

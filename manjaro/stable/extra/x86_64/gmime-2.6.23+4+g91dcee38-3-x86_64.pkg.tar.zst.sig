@@ -1,0 +1,1 @@
+../../../pool/sync/gmime-2.6.23+4+g91dcee38-3-x86_64.pkg.tar.zst.sig

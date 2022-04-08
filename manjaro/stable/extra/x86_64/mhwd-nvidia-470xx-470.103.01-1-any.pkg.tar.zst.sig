@@ -1,0 +1,1 @@
+../../../pool/overlay/mhwd-nvidia-470xx-470.103.01-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-tqdm-4.63.0-1-any.pkg.tar.zst.sig

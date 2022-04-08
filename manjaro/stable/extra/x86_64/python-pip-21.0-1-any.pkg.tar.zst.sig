@@ -1,0 +1,1 @@
+../../../pool/sync/python-pip-21.0-1-any.pkg.tar.zst.sig

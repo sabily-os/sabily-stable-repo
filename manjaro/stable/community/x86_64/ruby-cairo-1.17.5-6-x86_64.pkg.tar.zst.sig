@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-cairo-1.17.5-6-x86_64.pkg.tar.zst.sig

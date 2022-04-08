@@ -1,0 +1,1 @@
+../../../pool/sync/libpinyin-2.6.1-1-x86_64.pkg.tar.zst.sig

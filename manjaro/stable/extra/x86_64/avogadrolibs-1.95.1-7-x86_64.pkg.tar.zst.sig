@@ -1,0 +1,1 @@
+../../../pool/sync/avogadrolibs-1.95.1-7-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/stylish-haskell-0.12.2.0-124-x86_64.pkg.tar.zst.sig

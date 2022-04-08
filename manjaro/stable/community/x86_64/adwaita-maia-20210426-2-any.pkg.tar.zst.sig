@@ -1,0 +1,1 @@
+../../../pool/overlay/adwaita-maia-20210426-2-any.pkg.tar.zst.sig

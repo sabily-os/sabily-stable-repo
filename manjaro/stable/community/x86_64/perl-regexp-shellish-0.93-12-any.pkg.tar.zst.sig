@@ -1,0 +1,1 @@
+../../../pool/sync/perl-regexp-shellish-0.93-12-any.pkg.tar.zst.sig

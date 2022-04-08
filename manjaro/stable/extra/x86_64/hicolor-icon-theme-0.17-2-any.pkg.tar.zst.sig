@@ -1,0 +1,1 @@
+../../../pool/sync/hicolor-icon-theme-0.17-2-any.pkg.tar.zst.sig

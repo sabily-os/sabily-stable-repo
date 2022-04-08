@@ -1,0 +1,1 @@
+../../../pool/sync/nginx-mainline-1.21.6-1-x86_64.pkg.tar.zst.sig

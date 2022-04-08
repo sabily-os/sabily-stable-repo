@@ -1,0 +1,1 @@
+../../../pool/sync/clamav-0.104.2-1-x86_64.pkg.tar.zst.sig

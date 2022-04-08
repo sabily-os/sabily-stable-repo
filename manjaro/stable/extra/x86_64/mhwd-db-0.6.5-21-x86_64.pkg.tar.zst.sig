@@ -1,0 +1,1 @@
+../../../pool/overlay/mhwd-db-0.6.5-21-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/ttf-crimson-0.800-1-any.pkg.tar.zst.sig

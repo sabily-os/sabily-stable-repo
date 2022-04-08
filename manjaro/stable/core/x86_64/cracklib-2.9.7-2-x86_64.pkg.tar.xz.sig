@@ -1,0 +1,1 @@
+../../../pool/sync/cracklib-2.9.7-2-x86_64.pkg.tar.xz.sig

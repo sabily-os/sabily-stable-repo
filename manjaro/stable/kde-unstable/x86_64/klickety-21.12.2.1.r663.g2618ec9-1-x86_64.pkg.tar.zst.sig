@@ -1,0 +1,1 @@
+../../../pool/overlay/klickety-21.12.2.1.r663.g2618ec9-1-x86_64.pkg.tar.zst.sig

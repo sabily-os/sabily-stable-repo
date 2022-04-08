@@ -1,0 +1,1 @@
+../../../pool/sync/python-hidapi-0.11.0.2-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-m2crypto-0.38.0-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-samus-3.0.9-2-any.pkg.tar.zst.sig

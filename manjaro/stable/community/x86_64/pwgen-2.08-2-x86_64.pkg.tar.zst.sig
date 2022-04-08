@@ -1,0 +1,1 @@
+../../../pool/sync/pwgen-2.08-2-x86_64.pkg.tar.zst.sig

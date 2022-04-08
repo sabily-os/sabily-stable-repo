@@ -1,0 +1,1 @@
+../../../pool/sync/sshpass-1.09-1-x86_64.pkg.tar.zst.sig

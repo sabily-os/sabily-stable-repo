@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-pretty-hex-1.1-9-x86_64.pkg.tar.zst.sig

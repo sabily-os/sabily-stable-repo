@@ -1,0 +1,1 @@
+../../../pool/sync/arm-none-eabi-binutils-2.37-1-x86_64.pkg.tar.zst.sig

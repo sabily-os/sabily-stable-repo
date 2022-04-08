@@ -1,0 +1,1 @@
+../../../pool/sync/aspell-da-1.6.36-2-any.pkg.tar.zst.sig

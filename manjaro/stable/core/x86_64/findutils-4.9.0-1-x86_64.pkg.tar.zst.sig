@@ -1,0 +1,1 @@
+../../../pool/sync/findutils-4.9.0-1-x86_64.pkg.tar.zst.sig

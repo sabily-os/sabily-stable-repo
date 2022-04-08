@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-ci-0.12.1-151-x86_64.pkg.tar.zst.sig

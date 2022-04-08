@@ -1,0 +1,1 @@
+../../../pool/sync/golang-golang-x-text-0.3.3-2-any.pkg.tar.zst.sig

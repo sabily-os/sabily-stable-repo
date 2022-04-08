@@ -1,0 +1,1 @@
+../../../pool/sync/python-django-fake-model-0.1.4-5-any.pkg.tar.zst.sig

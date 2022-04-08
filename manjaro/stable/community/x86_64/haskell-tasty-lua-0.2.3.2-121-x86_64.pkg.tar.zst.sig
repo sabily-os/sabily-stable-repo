@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-tasty-lua-0.2.3.2-121-x86_64.pkg.tar.zst.sig

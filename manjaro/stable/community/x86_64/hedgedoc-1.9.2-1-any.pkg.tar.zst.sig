@@ -1,0 +1,1 @@
+../../../pool/sync/hedgedoc-1.9.2-1-any.pkg.tar.zst.sig

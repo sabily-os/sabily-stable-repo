@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyjwt-2.2.0-3-any.pkg.tar.zst.sig

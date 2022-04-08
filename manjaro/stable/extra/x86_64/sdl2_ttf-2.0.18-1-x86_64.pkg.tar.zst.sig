@@ -1,0 +1,1 @@
+../../../pool/sync/sdl2_ttf-2.0.18-1-x86_64.pkg.tar.zst.sig

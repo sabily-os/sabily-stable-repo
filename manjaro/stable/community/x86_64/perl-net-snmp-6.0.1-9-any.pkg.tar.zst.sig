@@ -1,0 +1,1 @@
+../../../pool/sync/perl-net-snmp-6.0.1-9-any.pkg.tar.zst.sig

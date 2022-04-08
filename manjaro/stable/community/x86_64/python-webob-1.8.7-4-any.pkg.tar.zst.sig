@@ -1,0 +1,1 @@
+../../../pool/sync/python-webob-1.8.7-4-any.pkg.tar.zst.sig

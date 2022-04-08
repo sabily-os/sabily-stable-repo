@@ -1,0 +1,1 @@
+../../../pool/sync/gtk2-2.24.33-2-x86_64.pkg.tar.zst.sig

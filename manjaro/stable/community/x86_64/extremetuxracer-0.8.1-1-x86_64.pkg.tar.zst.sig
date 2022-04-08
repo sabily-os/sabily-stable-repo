@@ -1,0 +1,1 @@
+../../../pool/sync/extremetuxracer-0.8.1-1-x86_64.pkg.tar.zst.sig

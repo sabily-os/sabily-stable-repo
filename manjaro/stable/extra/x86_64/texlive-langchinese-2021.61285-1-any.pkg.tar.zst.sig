@@ -1,0 +1,1 @@
+../../../pool/sync/texlive-langchinese-2021.61285-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/libpamac-snap-plugin-11.2.0-13-x86_64.pkg.tar.zst.sig

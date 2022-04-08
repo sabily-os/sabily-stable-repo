@@ -1,0 +1,1 @@
+../../../pool/sync/pstoedit-3.78-1-x86_64.pkg.tar.zst.sig

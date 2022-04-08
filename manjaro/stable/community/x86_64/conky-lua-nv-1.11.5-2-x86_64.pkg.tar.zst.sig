@@ -1,0 +1,1 @@
+../../../pool/overlay/conky-lua-nv-1.11.5-2-x86_64.pkg.tar.zst.sig

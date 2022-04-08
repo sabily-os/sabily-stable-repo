@@ -1,0 +1,1 @@
+../../../pool/sync/perl-json-xs-4.03-2-x86_64.pkg.tar.zst.sig

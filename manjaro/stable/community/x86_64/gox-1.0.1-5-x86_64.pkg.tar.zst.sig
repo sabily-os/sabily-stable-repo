@@ -1,0 +1,1 @@
+../../../pool/sync/gox-1.0.1-5-x86_64.pkg.tar.zst.sig

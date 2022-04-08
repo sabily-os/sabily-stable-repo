@@ -1,0 +1,1 @@
+../../../pool/overlay/kio-gdrive-21.12.2.1.r584.gc68a8f9-1-x86_64.pkg.tar.zst.sig

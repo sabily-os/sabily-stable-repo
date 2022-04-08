@@ -1,0 +1,1 @@
+../../../pool/sync/python-setuptools-declarative-requirements-1.2.0-3-any.pkg.tar.zst.sig

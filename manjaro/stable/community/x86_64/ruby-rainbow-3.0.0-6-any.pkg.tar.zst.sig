@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-rainbow-3.0.0-6-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/pulseaudio-qt-1.3-1-x86_64.pkg.tar.zst.sig

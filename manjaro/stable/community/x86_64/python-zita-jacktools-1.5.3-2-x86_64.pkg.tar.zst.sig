@@ -1,0 +1,1 @@
+../../../pool/sync/python-zita-jacktools-1.5.3-2-x86_64.pkg.tar.zst.sig

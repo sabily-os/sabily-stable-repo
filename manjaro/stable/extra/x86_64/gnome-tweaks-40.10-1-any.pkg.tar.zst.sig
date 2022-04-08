@@ -1,0 +1,1 @@
+../../../pool/sync/gnome-tweaks-40.10-1-any.pkg.tar.zst.sig

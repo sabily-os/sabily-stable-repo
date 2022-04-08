@@ -1,0 +1,1 @@
+../../../pool/sync/impacket-0.9.24-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/klayout-0.27.8-1-x86_64.pkg.tar.zst.sig

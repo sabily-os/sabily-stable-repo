@@ -1,0 +1,1 @@
+../../../pool/sync/edac-utils-0.18-3-x86_64.pkg.tar.zst.sig

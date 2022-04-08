@@ -1,0 +1,1 @@
+../../../pool/sync/mathjax2-2.7.9-1-any.pkg.tar.zst.sig

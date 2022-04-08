@@ -1,0 +1,1 @@
+../../../pool/overlay/indicator-sysmonitor-0.9.0-1-any.pkg.tar.zst.sig

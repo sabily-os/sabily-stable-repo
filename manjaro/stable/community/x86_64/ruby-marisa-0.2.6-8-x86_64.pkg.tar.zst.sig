@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-marisa-0.2.6-8-x86_64.pkg.tar.zst.sig

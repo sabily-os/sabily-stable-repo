@@ -1,0 +1,1 @@
+../../../pool/sync/rust-analyzer-20220307-1-x86_64.pkg.tar.zst.sig

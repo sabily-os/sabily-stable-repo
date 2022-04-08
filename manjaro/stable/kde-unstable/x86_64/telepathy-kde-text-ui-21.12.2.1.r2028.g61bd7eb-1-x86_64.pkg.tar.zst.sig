@@ -1,0 +1,1 @@
+../../../pool/overlay/telepathy-kde-text-ui-21.12.2.1.r2028.g61bd7eb-1-x86_64.pkg.tar.zst.sig

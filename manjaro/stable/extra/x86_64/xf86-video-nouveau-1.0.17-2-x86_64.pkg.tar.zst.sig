@@ -1,0 +1,1 @@
+../../../pool/sync/xf86-video-nouveau-1.0.17-2-x86_64.pkg.tar.zst.sig

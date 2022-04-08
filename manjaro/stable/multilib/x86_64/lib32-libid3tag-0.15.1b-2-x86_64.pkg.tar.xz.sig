@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libid3tag-0.15.1b-2-x86_64.pkg.tar.xz.sig

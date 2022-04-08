@@ -1,0 +1,1 @@
+../../../pool/sync/golang-deepin-lib-5.7.35-1-any.pkg.tar.zst.sig

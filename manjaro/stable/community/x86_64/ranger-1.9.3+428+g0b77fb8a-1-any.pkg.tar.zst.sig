@@ -1,0 +1,1 @@
+../../../pool/overlay/ranger-1.9.3+428+g0b77fb8a-1-any.pkg.tar.zst.sig

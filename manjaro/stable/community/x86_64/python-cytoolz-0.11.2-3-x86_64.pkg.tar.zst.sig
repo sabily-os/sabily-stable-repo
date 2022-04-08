@@ -1,0 +1,1 @@
+../../../pool/sync/python-cytoolz-0.11.2-3-x86_64.pkg.tar.zst.sig

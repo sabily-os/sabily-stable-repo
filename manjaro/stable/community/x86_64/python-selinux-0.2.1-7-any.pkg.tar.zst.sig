@@ -1,0 +1,1 @@
+../../../pool/sync/python-selinux-0.2.1-7-any.pkg.tar.zst.sig

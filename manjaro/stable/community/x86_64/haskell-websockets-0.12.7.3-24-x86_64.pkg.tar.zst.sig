@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-websockets-0.12.7.3-24-x86_64.pkg.tar.zst.sig

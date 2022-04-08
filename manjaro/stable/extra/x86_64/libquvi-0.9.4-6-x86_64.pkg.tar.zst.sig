@@ -1,0 +1,1 @@
+../../../pool/sync/libquvi-0.9.4-6-x86_64.pkg.tar.zst.sig

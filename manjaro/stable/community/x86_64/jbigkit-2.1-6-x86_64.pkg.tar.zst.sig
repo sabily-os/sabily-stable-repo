@@ -1,0 +1,1 @@
+../../../pool/sync/jbigkit-2.1-6-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/irssi-xmpp-0.54-3-x86_64.pkg.tar.xz.sig

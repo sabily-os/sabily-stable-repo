@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-statistics-0.15.2.0-230-x86_64.pkg.tar.zst.sig

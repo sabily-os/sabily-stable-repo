@@ -1,0 +1,1 @@
+../../../pool/sync/lmms-1.2.2-8-x86_64.pkg.tar.zst.sig

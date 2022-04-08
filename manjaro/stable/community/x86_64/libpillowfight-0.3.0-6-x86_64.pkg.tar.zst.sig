@@ -1,0 +1,1 @@
+../../../pool/sync/libpillowfight-0.3.0-6-x86_64.pkg.tar.zst.sig

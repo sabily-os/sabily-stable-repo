@@ -1,0 +1,1 @@
+../../../pool/sync/libwpd-0.10.3-3-x86_64.pkg.tar.zst.sig

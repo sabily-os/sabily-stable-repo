@@ -1,0 +1,1 @@
+../../../pool/sync/java-batik-1.14-1-any.pkg.tar.zst.sig

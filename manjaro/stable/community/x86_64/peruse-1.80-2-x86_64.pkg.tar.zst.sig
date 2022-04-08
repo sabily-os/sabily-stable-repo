@@ -1,0 +1,1 @@
+../../../pool/overlay/peruse-1.80-2-x86_64.pkg.tar.zst.sig

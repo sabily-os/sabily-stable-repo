@@ -1,0 +1,1 @@
+../../../pool/sync/python-sphinxcontrib-jsmath-1.0.1-11-any.pkg.tar.zst.sig

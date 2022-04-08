@@ -1,0 +1,1 @@
+../../../pool/overlay/starlabs-tweaks-1.2-1-any.pkg.tar.zst.sig

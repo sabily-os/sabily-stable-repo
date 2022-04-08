@@ -1,0 +1,1 @@
+../../../pool/sync/libsynctex-2021.59745-1-x86_64.pkg.tar.zst.sig

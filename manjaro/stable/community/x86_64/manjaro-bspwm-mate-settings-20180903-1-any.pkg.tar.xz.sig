@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-bspwm-mate-settings-20180903-1-any.pkg.tar.xz.sig

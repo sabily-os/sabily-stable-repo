@@ -1,0 +1,1 @@
+../../../pool/sync/rpcbind-1.2.6-2-x86_64.pkg.tar.zst.sig

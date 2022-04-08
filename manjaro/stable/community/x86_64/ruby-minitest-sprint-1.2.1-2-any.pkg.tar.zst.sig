@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-minitest-sprint-1.2.1-2-any.pkg.tar.zst.sig

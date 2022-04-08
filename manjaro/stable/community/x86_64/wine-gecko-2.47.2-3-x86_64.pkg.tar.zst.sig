@@ -1,0 +1,1 @@
+../../../pool/sync/wine-gecko-2.47.2-3-x86_64.pkg.tar.zst.sig

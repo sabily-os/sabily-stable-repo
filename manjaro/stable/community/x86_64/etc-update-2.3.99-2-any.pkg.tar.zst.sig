@@ -1,0 +1,1 @@
+../../../pool/sync/etc-update-2.3.99-2-any.pkg.tar.zst.sig

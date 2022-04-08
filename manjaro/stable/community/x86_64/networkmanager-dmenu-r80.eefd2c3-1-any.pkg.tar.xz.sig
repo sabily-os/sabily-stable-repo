@@ -1,0 +1,1 @@
+../../../pool/overlay/networkmanager-dmenu-r80.eefd2c3-1-any.pkg.tar.xz.sig

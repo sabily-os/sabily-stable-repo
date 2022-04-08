@@ -1,0 +1,1 @@
+../../../pool/sync/kodi-platform-20190726.809c5e9-35-x86_64.pkg.tar.zst.sig

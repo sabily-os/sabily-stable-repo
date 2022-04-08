@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyproject2setuppy-21-1-any.pkg.tar.zst.sig

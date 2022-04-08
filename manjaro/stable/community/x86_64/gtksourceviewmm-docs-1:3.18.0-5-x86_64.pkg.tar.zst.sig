@@ -1,0 +1,1 @@
+../../../pool/sync/gtksourceviewmm-docs-1:3.18.0-5-x86_64.pkg.tar.zst.sig

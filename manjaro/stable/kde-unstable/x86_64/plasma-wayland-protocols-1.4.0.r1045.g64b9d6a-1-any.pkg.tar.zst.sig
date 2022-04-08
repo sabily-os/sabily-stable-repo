@@ -1,0 +1,1 @@
+../../../pool/overlay/plasma-wayland-protocols-1.4.0.r1045.g64b9d6a-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/mate-themes-3.22.23-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/gandi.cli-1.6-3-any.pkg.tar.zst.sig

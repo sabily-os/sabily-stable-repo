@@ -1,0 +1,1 @@
+../../../pool/sync/bin86-0.16.21-4-x86_64.pkg.tar.zst.sig

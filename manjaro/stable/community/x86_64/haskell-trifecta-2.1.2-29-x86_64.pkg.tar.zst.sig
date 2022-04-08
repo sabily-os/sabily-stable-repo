@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-trifecta-2.1.2-29-x86_64.pkg.tar.zst.sig

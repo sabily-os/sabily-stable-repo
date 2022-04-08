@@ -1,0 +1,1 @@
+../../../pool/sync/kmplayer-0.12.0.b-4-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/libspf2-1.2.11-1-x86_64.pkg.tar.zst.sig

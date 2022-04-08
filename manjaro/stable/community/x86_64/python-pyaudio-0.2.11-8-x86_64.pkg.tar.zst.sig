@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyaudio-0.2.11-8-x86_64.pkg.tar.zst.sig

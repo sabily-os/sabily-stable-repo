@@ -1,0 +1,1 @@
+../../../pool/sync/perl-xml-stream-1.24-7-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/xautolock-2.2-6-x86_64.pkg.tar.zst.sig

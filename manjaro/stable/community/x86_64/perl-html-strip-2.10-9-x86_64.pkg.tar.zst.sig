@@ -1,0 +1,1 @@
+../../../pool/sync/perl-html-strip-2.10-9-x86_64.pkg.tar.zst.sig

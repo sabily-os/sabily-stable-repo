@@ -1,0 +1,1 @@
+../../../pool/sync/python-awesomeversion-22.2.0-1-any.pkg.tar.zst.sig

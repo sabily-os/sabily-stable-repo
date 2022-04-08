@@ -1,0 +1,1 @@
+../../../pool/overlay/katomic-21.12.2.1.r947.g5a14f5d-1-x86_64.pkg.tar.zst.sig

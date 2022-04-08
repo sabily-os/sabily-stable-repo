@@ -1,0 +1,1 @@
+../../../pool/overlay/kiriki-21.12.2.1.r441.ge122d48-1-x86_64.pkg.tar.zst.sig

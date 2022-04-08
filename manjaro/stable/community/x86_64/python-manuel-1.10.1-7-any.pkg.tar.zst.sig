@@ -1,0 +1,1 @@
+../../../pool/sync/python-manuel-1.10.1-7-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/openapi-generator-5.4.0-1-any.pkg.tar.zst.sig

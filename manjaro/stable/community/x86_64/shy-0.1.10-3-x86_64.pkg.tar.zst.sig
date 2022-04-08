@@ -1,0 +1,1 @@
+../../../pool/sync/shy-0.1.10-3-x86_64.pkg.tar.zst.sig

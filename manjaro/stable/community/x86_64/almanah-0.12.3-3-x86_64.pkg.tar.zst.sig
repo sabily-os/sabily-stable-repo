@@ -1,0 +1,1 @@
+../../../pool/sync/almanah-0.12.3-3-x86_64.pkg.tar.zst.sig

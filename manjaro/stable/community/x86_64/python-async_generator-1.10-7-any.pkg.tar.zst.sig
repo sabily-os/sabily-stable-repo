@@ -1,0 +1,1 @@
+../../../pool/sync/python-async_generator-1.10-7-any.pkg.tar.zst.sig

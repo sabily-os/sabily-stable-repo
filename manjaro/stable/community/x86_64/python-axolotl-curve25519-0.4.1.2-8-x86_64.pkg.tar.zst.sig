@@ -1,0 +1,1 @@
+../../../pool/sync/python-axolotl-curve25519-0.4.1.2-8-x86_64.pkg.tar.zst.sig

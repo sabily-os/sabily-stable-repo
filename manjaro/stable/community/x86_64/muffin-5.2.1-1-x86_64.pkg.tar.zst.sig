@@ -1,0 +1,1 @@
+../../../pool/sync/muffin-5.2.1-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-cerberus-1.3.4-3-any.pkg.tar.zst.sig

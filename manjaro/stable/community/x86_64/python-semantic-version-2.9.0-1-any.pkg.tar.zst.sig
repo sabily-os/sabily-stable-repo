@@ -1,0 +1,1 @@
+../../../pool/sync/python-semantic-version-2.9.0-1-any.pkg.tar.zst.sig

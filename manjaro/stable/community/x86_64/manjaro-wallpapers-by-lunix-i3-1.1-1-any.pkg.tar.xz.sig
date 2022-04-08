@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-wallpapers-by-lunix-i3-1.1-1-any.pkg.tar.xz.sig

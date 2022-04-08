@@ -1,0 +1,1 @@
+../../../pool/sync/yamdi-1.9-4-x86_64.pkg.tar.zst.sig

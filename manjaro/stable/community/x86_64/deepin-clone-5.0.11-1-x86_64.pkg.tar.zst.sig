@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-clone-5.0.11-1-x86_64.pkg.tar.zst.sig

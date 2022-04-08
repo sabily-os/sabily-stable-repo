@@ -1,0 +1,1 @@
+../../../pool/sync/python-aws-xray-sdk-2.9.0-1-any.pkg.tar.zst.sig

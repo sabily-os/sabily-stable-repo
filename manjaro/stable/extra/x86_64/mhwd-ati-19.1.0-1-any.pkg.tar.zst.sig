@@ -1,0 +1,1 @@
+../../../pool/overlay/mhwd-ati-19.1.0-1-any.pkg.tar.zst.sig

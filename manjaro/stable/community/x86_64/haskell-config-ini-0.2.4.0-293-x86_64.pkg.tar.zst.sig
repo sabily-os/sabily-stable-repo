@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-config-ini-0.2.4.0-293-x86_64.pkg.tar.zst.sig

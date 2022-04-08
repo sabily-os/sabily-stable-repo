@@ -1,0 +1,1 @@
+../../../pool/sync/perl-glib-object-introspection-0.049-2-x86_64.pkg.tar.zst.sig

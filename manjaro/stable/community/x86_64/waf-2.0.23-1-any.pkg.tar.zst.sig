@@ -1,0 +1,1 @@
+../../../pool/sync/waf-2.0.23-1-any.pkg.tar.zst.sig

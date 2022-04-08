@@ -1,0 +1,1 @@
+../../../pool/sync/prometheus-mysqld-exporter-0.13.0-1-x86_64.pkg.tar.zst.sig

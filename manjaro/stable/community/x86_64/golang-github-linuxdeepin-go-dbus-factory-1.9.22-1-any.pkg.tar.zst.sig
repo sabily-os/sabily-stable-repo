@@ -1,0 +1,1 @@
+../../../pool/sync/golang-github-linuxdeepin-go-dbus-factory-1.9.22-1-any.pkg.tar.zst.sig

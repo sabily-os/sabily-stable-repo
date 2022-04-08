@@ -1,0 +1,1 @@
+../../../pool/sync/gnome-initial-setup-41.4-1-x86_64.pkg.tar.zst.sig

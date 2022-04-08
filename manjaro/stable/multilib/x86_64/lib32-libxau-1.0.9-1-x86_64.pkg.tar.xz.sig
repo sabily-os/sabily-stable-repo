@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libxau-1.0.9-1-x86_64.pkg.tar.xz.sig

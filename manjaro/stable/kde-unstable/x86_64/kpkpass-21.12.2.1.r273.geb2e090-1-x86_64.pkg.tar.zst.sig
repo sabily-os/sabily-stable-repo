@@ -1,0 +1,1 @@
+../../../pool/overlay/kpkpass-21.12.2.1.r273.geb2e090-1-x86_64.pkg.tar.zst.sig

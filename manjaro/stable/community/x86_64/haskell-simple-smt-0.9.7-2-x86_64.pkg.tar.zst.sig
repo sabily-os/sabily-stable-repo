@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-simple-smt-0.9.7-2-x86_64.pkg.tar.zst.sig

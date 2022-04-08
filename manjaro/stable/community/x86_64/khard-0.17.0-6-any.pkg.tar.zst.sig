@@ -1,0 +1,1 @@
+../../../pool/sync/khard-0.17.0-6-any.pkg.tar.zst.sig

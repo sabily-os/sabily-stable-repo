@@ -1,0 +1,1 @@
+../../../pool/sync/lxrandr-gtk3-0.3.2-2-x86_64.pkg.tar.zst.sig

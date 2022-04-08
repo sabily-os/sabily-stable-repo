@@ -1,0 +1,1 @@
+../../../pool/sync/python-poppler-qt5-21.1.0-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/materia-kde-20220207-1-any.pkg.tar.zst.sig

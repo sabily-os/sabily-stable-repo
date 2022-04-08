@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-snap-server-1.1.2.0-283-x86_64.pkg.tar.zst.sig

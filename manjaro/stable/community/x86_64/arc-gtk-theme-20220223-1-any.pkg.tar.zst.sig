@@ -1,0 +1,1 @@
+../../../pool/sync/arc-gtk-theme-20220223-1-any.pkg.tar.zst.sig

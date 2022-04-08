@@ -1,0 +1,1 @@
+../../../pool/sync/alsa-ucm-conf-1.2.6.3-1-any.pkg.tar.zst.sig

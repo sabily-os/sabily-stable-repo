@@ -1,0 +1,1 @@
+../../../pool/sync/openjade-1.3.2-6-x86_64.pkg.tar.zst.sig

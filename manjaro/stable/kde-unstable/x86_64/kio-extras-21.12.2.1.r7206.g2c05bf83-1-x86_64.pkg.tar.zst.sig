@@ -1,0 +1,1 @@
+../../../pool/overlay/kio-extras-21.12.2.1.r7206.g2c05bf83-1-x86_64.pkg.tar.zst.sig

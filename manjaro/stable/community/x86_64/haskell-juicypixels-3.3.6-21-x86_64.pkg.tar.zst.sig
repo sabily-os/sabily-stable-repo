@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-juicypixels-3.3.6-21-x86_64.pkg.tar.zst.sig

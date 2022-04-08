@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-aws-0.22-388-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/plasma-settings-21.05-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/boinc-7.16.20-1-x86_64.pkg.tar.zst.sig

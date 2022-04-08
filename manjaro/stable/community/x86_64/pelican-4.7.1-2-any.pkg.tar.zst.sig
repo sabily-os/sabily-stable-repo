@@ -1,0 +1,1 @@
+../../../pool/sync/pelican-4.7.1-2-any.pkg.tar.zst.sig

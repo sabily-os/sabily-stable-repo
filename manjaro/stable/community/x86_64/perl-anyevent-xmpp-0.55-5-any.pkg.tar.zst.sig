@@ -1,0 +1,1 @@
+../../../pool/sync/perl-anyevent-xmpp-0.55-5-any.pkg.tar.zst.sig

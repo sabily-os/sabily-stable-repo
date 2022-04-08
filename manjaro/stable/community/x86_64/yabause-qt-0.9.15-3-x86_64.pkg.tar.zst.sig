@@ -1,0 +1,1 @@
+../../../pool/sync/yabause-qt-0.9.15-3-x86_64.pkg.tar.zst.sig

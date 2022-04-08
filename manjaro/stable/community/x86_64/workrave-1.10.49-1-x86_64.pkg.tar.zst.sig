@@ -1,0 +1,1 @@
+../../../pool/sync/workrave-1.10.49-1-x86_64.pkg.tar.zst.sig

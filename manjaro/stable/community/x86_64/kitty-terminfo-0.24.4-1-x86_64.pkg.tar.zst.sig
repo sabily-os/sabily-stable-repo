@@ -1,0 +1,1 @@
+../../../pool/sync/kitty-terminfo-0.24.4-1-x86_64.pkg.tar.zst.sig

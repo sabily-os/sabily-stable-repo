@@ -1,0 +1,1 @@
+../../../pool/sync/mingw-w64-headers-9.0.0-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-test-framework-smallcheck-0.2-187-x86_64.pkg.tar.zst.sig

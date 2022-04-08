@@ -1,0 +1,1 @@
+../../../pool/sync/libgadu-1.12.2-13-x86_64.pkg.tar.zst.sig

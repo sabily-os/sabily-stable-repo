@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-slick-greeter-theme-sunset-1.0-2-any.pkg.tar.xz.sig

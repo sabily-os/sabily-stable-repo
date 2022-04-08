@@ -1,0 +1,1 @@
+../../../pool/sync/python-pilkit-2.0-10-any.pkg.tar.zst.sig

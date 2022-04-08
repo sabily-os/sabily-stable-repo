@@ -1,0 +1,1 @@
+../../../pool/overlay/steam-manjaro-1.0.0.74-1-x86_64.pkg.tar.zst.sig

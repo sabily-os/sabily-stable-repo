@@ -1,0 +1,1 @@
+../../../pool/sync/python-ppmd-cffi-0.5.0-2-x86_64.pkg.tar.zst.sig

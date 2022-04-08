@@ -1,0 +1,1 @@
+../../../pool/sync/python-maxminddb-2.2.0-3-x86_64.pkg.tar.zst.sig

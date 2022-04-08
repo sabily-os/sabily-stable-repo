@@ -1,0 +1,1 @@
+../../../pool/sync/libid3tag-0.15.1b-11-x86_64.pkg.tar.zst.sig

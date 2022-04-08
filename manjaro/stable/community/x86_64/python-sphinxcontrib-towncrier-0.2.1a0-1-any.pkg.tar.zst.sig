@@ -1,0 +1,1 @@
+../../../pool/sync/python-sphinxcontrib-towncrier-0.2.1a0-1-any.pkg.tar.zst.sig

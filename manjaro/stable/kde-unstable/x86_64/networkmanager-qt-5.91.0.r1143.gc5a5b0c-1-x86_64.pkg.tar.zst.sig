@@ -1,0 +1,1 @@
+../../../pool/overlay/networkmanager-qt-5.91.0.r1143.gc5a5b0c-1-x86_64.pkg.tar.zst.sig

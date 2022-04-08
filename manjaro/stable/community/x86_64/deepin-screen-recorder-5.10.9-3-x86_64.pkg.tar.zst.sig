@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-screen-recorder-5.10.9-3-x86_64.pkg.tar.zst.sig

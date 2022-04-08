@@ -1,0 +1,1 @@
+../../../pool/sync/xandikos-0.2.8-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/flyspray-1.0rc10-1-any.pkg.tar.zst.sig

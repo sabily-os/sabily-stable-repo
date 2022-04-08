@@ -1,0 +1,1 @@
+../../../pool/sync/gpaste-3.42.6-1-x86_64.pkg.tar.zst.sig

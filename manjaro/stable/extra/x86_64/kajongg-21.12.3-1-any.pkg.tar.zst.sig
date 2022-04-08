@@ -1,0 +1,1 @@
+../../../pool/sync/kajongg-21.12.3-1-any.pkg.tar.zst.sig

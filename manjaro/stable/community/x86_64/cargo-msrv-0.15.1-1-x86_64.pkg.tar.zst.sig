@@ -1,0 +1,1 @@
+../../../pool/sync/cargo-msrv-0.15.1-1-x86_64.pkg.tar.zst.sig

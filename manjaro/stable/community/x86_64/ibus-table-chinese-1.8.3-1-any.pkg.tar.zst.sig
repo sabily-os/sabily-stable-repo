@@ -1,0 +1,1 @@
+../../../pool/sync/ibus-table-chinese-1.8.3-1-any.pkg.tar.zst.sig

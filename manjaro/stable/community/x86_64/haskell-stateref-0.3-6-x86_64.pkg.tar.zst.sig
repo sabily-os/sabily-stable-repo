@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-stateref-0.3-6-x86_64.pkg.tar.zst.sig

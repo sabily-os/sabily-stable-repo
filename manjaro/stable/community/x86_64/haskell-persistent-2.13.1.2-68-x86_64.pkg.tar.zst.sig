@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-persistent-2.13.1.2-68-x86_64.pkg.tar.zst.sig

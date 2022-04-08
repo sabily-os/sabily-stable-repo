@@ -1,0 +1,1 @@
+../../../pool/overlay/octopi-0.12.0-2-x86_64.pkg.tar.zst.sig

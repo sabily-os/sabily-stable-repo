@@ -1,0 +1,1 @@
+../../../pool/sync/antlr2-2.7.7-12-x86_64.pkg.tar.zst.sig

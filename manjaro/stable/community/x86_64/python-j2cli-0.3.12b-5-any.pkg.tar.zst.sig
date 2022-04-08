@@ -1,0 +1,1 @@
+../../../pool/sync/python-j2cli-0.3.12b-5-any.pkg.tar.zst.sig

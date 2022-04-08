@@ -1,0 +1,1 @@
+../../../pool/sync/python-littleutils-0.2.2-3-any.pkg.tar.zst.sig

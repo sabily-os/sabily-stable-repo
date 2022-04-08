@@ -1,0 +1,1 @@
+../../../pool/overlay/evopop-icon-theme-0.11.r0.gbf7b5373-1-any.pkg.tar.xz.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-numtype-dk-0.5.0.3-2-x86_64.pkg.tar.zst.sig

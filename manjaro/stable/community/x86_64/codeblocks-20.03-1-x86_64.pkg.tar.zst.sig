@@ -1,0 +1,1 @@
+../../../pool/sync/codeblocks-20.03-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-cborg-0.2.6.0-16-x86_64.pkg.tar.zst.sig

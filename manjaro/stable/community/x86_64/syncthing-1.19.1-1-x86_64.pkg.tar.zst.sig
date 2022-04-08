@@ -1,0 +1,1 @@
+../../../pool/sync/syncthing-1.19.1-1-x86_64.pkg.tar.zst.sig

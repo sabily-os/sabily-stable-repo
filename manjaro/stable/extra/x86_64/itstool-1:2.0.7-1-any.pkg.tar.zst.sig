@@ -1,0 +1,1 @@
+../../../pool/sync/itstool-1:2.0.7-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/lua51-compat53-0.10-1-x86_64.pkg.tar.zst.sig

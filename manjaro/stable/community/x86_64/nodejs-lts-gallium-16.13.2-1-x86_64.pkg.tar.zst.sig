@@ -1,0 +1,1 @@
+../../../pool/sync/nodejs-lts-gallium-16.13.2-1-x86_64.pkg.tar.zst.sig

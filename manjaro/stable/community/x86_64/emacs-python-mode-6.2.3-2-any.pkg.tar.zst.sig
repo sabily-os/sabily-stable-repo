@@ -1,0 +1,1 @@
+../../../pool/sync/emacs-python-mode-6.2.3-2-any.pkg.tar.zst.sig

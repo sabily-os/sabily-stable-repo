@@ -1,0 +1,1 @@
+../../../pool/sync/mate-applet-dock-21.10.0-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/golang-github-kr-pty-1.1.6-2-any.pkg.tar.zst.sig

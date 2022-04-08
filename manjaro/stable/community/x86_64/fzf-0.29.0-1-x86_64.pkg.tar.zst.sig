@@ -1,0 +1,1 @@
+../../../pool/sync/fzf-0.29.0-1-x86_64.pkg.tar.zst.sig

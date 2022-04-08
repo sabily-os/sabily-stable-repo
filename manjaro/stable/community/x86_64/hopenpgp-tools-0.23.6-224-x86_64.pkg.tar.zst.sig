@@ -1,0 +1,1 @@
+../../../pool/sync/hopenpgp-tools-0.23.6-224-x86_64.pkg.tar.zst.sig

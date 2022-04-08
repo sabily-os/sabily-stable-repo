@@ -1,0 +1,1 @@
+../../../pool/sync/python-fastapi-0.68.1-2-any.pkg.tar.zst.sig

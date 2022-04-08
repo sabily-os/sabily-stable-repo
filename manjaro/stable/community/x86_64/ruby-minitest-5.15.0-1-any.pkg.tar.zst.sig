@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-minitest-5.15.0-1-any.pkg.tar.zst.sig

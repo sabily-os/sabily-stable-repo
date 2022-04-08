@@ -1,0 +1,1 @@
+../../../pool/sync/garcon-4.16.1-1-x86_64.pkg.tar.zst.sig

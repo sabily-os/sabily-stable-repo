@@ -1,0 +1,1 @@
+../../../pool/sync/xa-2.3.12-1-x86_64.pkg.tar.zst.sig

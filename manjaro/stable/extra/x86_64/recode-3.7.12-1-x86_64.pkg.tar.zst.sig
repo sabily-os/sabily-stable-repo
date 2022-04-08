@@ -1,0 +1,1 @@
+../../../pool/sync/recode-3.7.12-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-pytest-subtesthack-0.1.2-3-any.pkg.tar.zst.sig

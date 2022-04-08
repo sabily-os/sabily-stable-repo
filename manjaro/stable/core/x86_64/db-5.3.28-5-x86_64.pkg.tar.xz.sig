@@ -1,0 +1,1 @@
+../../../pool/sync/db-5.3.28-5-x86_64.pkg.tar.xz.sig

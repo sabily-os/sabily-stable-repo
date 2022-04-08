@@ -1,0 +1,1 @@
+../../../pool/sync/shorewall6-5.2.8-1-any.pkg.tar.zst.sig

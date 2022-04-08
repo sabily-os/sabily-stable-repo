@@ -1,0 +1,1 @@
+../../../pool/sync/source-highlight-3.1.9-7-x86_64.pkg.tar.zst.sig

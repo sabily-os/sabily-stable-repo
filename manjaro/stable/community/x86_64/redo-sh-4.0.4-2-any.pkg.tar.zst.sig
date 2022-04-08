@@ -1,0 +1,1 @@
+../../../pool/sync/redo-sh-4.0.4-2-any.pkg.tar.zst.sig

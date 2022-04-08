@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-diff-0.4.1-6-x86_64.pkg.tar.zst.sig

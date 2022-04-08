@@ -1,0 +1,1 @@
+../../../pool/sync/firefox-decentraleyes-2.0.17-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/zellij-0.26.0-1-x86_64.pkg.tar.zst.sig

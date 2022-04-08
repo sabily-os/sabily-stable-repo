@@ -1,0 +1,1 @@
+../../../pool/sync/performous-1.1-35-x86_64.pkg.tar.zst.sig

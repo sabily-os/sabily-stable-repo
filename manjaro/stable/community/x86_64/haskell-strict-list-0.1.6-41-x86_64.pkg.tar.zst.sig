@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-strict-list-0.1.6-41-x86_64.pkg.tar.zst.sig

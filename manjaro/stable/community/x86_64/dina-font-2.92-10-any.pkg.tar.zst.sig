@@ -1,0 +1,1 @@
+../../../pool/sync/dina-font-2.92-10-any.pkg.tar.zst.sig

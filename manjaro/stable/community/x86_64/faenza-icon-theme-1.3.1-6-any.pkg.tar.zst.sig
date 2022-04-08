@@ -1,0 +1,1 @@
+../../../pool/sync/faenza-icon-theme-1.3.1-6-any.pkg.tar.zst.sig

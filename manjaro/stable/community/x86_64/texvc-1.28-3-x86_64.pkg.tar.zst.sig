@@ -1,0 +1,1 @@
+../../../pool/sync/texvc-1.28-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/spglib-1.16.3-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/xine-ui-0.99.13-2-x86_64.pkg.tar.zst.sig

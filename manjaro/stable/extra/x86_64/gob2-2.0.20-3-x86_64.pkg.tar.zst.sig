@@ -1,0 +1,1 @@
+../../../pool/sync/gob2-2.0.20-3-x86_64.pkg.tar.zst.sig

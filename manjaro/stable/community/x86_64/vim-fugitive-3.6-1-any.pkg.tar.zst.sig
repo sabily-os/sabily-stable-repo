@@ -1,0 +1,1 @@
+../../../pool/sync/vim-fugitive-3.6-1-any.pkg.tar.zst.sig

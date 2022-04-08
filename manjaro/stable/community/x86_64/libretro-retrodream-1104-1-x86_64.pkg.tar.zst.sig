@@ -1,0 +1,1 @@
+../../../pool/sync/libretro-retrodream-1104-1-x86_64.pkg.tar.zst.sig

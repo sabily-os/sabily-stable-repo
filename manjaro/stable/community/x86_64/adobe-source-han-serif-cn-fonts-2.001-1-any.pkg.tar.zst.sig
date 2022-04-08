@@ -1,0 +1,1 @@
+../../../pool/sync/adobe-source-han-serif-cn-fonts-2.001-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/nextcloud-app-calendar-1:3.1.0-1-any.pkg.tar.zst.sig

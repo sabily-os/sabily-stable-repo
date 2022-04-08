@@ -1,0 +1,1 @@
+../../../pool/sync/libuninameslist-20211114-1-x86_64.pkg.tar.zst.sig

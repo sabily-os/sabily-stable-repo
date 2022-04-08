@@ -1,0 +1,1 @@
+../../../pool/sync/python-git-url-parse-1.2.2-4-any.pkg.tar.zst.sig

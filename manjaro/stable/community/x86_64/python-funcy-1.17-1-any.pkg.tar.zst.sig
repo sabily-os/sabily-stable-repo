@@ -1,0 +1,1 @@
+../../../pool/sync/python-funcy-1.17-1-any.pkg.tar.zst.sig

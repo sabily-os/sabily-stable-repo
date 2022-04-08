@@ -1,0 +1,1 @@
+../../../pool/sync/aspell-nl-0.50.2-6-any.pkg.tar.zst.sig

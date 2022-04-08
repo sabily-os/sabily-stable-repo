@@ -1,0 +1,1 @@
+../../../pool/sync/python-httpretty-1.1.4-3-any.pkg.tar.zst.sig

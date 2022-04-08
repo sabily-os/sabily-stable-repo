@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-hls-floskell-plugin-1.0.0.1-97-x86_64.pkg.tar.zst.sig

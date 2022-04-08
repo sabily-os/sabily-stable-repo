@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-fontconfig-2:2.13.96-1-x86_64.pkg.tar.zst.sig

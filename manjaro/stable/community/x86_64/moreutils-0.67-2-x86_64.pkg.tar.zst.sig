@@ -1,0 +1,1 @@
+../../../pool/sync/moreutils-0.67-2-x86_64.pkg.tar.zst.sig

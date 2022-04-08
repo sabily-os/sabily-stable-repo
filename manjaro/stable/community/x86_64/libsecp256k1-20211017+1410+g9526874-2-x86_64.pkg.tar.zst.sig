@@ -1,0 +1,1 @@
+../../../pool/sync/libsecp256k1-20211017+1410+g9526874-2-x86_64.pkg.tar.zst.sig

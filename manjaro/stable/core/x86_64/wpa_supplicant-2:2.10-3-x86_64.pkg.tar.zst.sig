@@ -1,0 +1,1 @@
+../../../pool/sync/wpa_supplicant-2:2.10-3-x86_64.pkg.tar.zst.sig

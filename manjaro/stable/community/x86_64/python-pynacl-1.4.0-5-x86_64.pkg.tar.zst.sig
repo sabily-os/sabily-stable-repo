@@ -1,0 +1,1 @@
+../../../pool/sync/python-pynacl-1.4.0-5-x86_64.pkg.tar.zst.sig

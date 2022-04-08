@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-openbox-desktop-settings-1:1.21-1-any.pkg.tar.zst.sig

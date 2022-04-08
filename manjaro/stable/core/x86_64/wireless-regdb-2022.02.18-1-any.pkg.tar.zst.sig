@@ -1,0 +1,1 @@
+../../../pool/sync/wireless-regdb-2022.02.18-1-any.pkg.tar.zst.sig

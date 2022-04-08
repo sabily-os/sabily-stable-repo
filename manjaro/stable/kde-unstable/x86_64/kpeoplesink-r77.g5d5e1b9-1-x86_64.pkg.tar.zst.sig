@@ -1,0 +1,1 @@
+../../../pool/overlay/kpeoplesink-r77.g5d5e1b9-1-x86_64.pkg.tar.zst.sig

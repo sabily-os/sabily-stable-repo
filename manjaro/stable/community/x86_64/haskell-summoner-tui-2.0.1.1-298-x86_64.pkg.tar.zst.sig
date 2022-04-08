@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-summoner-tui-2.0.1.1-298-x86_64.pkg.tar.zst.sig

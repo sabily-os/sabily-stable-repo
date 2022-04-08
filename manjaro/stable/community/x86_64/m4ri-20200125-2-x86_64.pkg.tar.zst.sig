@@ -1,0 +1,1 @@
+../../../pool/sync/m4ri-20200125-2-x86_64.pkg.tar.zst.sig

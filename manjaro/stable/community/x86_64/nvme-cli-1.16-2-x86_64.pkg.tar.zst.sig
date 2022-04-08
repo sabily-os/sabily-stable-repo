@@ -1,0 +1,1 @@
+../../../pool/sync/nvme-cli-1.16-2-x86_64.pkg.tar.zst.sig

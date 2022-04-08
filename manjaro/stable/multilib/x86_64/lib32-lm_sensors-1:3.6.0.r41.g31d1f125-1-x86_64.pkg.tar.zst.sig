@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-lm_sensors-1:3.6.0.r41.g31d1f125-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/woob-3.0-5-any.pkg.tar.zst.sig

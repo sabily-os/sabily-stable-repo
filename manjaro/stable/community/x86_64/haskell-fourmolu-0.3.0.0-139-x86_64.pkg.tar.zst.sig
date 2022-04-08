@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-fourmolu-0.3.0.0-139-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/nlopt-2.7.1-1-x86_64.pkg.tar.zst.sig

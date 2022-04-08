@@ -1,0 +1,1 @@
+../../../pool/sync/calibre-5.38.0-1-x86_64.pkg.tar.zst.sig

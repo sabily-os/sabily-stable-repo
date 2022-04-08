@@ -1,0 +1,1 @@
+../../../pool/sync/perl-switch-2.17-7-any.pkg.tar.zst.sig

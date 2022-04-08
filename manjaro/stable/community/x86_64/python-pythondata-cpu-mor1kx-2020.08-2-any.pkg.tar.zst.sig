@@ -1,0 +1,1 @@
+../../../pool/sync/python-pythondata-cpu-mor1kx-2020.08-2-any.pkg.tar.zst.sig

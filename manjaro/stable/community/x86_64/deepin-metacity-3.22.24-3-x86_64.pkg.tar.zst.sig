@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-metacity-3.22.24-3-x86_64.pkg.tar.zst.sig

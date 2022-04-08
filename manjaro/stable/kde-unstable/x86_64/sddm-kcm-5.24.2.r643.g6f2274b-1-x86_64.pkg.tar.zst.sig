@@ -1,0 +1,1 @@
+../../../pool/overlay/sddm-kcm-5.24.2.r643.g6f2274b-1-x86_64.pkg.tar.zst.sig

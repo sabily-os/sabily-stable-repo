@@ -1,0 +1,1 @@
+../../../pool/sync/antiword-0.37-8-x86_64.pkg.tar.zst.sig

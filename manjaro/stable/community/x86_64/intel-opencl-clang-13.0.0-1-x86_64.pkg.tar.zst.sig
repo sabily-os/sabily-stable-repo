@@ -1,0 +1,1 @@
+../../../pool/sync/intel-opencl-clang-13.0.0-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-uri-encode-1.5.0.7-140-x86_64.pkg.tar.zst.sig

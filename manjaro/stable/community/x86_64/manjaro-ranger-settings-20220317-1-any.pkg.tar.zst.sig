@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-ranger-settings-20220317-1-any.pkg.tar.zst.sig

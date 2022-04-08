@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyliblo-0.10.0-9-x86_64.pkg.tar.zst.sig

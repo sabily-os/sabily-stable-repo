@@ -1,0 +1,1 @@
+../../../pool/sync/qemu-arch-extra-6.2.0-4-x86_64.pkg.tar.zst.sig

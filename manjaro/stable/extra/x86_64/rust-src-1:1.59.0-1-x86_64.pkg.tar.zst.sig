@@ -1,0 +1,1 @@
+../../../pool/sync/rust-src-1:1.59.0-1-x86_64.pkg.tar.zst.sig

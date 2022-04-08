@@ -1,0 +1,1 @@
+../../../pool/overlay/kmime-21.12.2.1.r1497.g66a5e6a-1-x86_64.pkg.tar.zst.sig

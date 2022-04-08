@@ -1,0 +1,1 @@
+../../../pool/sync/arduino-avr-core-1.8.3-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/zcash-4.6.0_1-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-text-template-1.60-1-any.pkg.tar.zst.sig

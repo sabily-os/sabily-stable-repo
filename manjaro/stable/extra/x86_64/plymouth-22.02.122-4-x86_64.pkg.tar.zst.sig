@@ -1,0 +1,1 @@
+../../../pool/overlay/plymouth-22.02.122-4-x86_64.pkg.tar.zst.sig

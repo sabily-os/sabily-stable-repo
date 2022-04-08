@@ -1,0 +1,1 @@
+../../../pool/sync/libreoffice-still-kn-7.2.6-1-any.pkg.tar.zst.sig

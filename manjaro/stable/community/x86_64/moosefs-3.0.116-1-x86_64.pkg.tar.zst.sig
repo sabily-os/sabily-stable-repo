@@ -1,0 +1,1 @@
+../../../pool/sync/moosefs-3.0.116-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-scramp-1.4.1-3-any.pkg.tar.zst.sig

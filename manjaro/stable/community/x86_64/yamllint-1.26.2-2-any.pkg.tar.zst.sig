@@ -1,0 +1,1 @@
+../../../pool/sync/yamllint-1.26.2-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-monoid-subclasses-1.1.3-7-x86_64.pkg.tar.zst.sig

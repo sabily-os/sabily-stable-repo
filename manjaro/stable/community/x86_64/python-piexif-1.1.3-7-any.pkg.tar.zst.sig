@@ -1,0 +1,1 @@
+../../../pool/sync/python-piexif-1.1.3-7-any.pkg.tar.zst.sig

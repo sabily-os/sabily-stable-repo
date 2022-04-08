@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-network_interface-0.0.2-5-x86_64.pkg.tar.zst.sig

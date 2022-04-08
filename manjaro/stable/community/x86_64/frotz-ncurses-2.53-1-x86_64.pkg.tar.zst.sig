@@ -1,0 +1,1 @@
+../../../pool/sync/frotz-ncurses-2.53-1-x86_64.pkg.tar.zst.sig

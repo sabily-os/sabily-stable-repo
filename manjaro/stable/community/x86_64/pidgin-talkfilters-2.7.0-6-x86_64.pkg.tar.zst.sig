@@ -1,0 +1,1 @@
+../../../pool/sync/pidgin-talkfilters-2.7.0-6-x86_64.pkg.tar.zst.sig

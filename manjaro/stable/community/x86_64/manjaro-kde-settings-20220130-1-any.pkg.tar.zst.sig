@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-kde-settings-20220130-1-any.pkg.tar.zst.sig

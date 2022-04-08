@@ -1,0 +1,1 @@
+../../../pool/sync/python-vagrant-0.5.15-7-any.pkg.tar.zst.sig

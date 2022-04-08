@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-taglib-1.12-1-x86_64.pkg.tar.zst.sig

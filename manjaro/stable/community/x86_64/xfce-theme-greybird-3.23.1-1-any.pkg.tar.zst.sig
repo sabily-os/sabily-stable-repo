@@ -1,0 +1,1 @@
+../../../pool/overlay/xfce-theme-greybird-3.23.1-1-any.pkg.tar.zst.sig

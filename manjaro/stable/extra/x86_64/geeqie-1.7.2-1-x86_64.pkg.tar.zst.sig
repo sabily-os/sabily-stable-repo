@@ -1,0 +1,1 @@
+../../../pool/sync/geeqie-1.7.2-1-x86_64.pkg.tar.zst.sig

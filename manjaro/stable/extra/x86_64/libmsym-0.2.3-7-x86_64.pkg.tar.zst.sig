@@ -1,0 +1,1 @@
+../../../pool/sync/libmsym-0.2.3-7-x86_64.pkg.tar.zst.sig

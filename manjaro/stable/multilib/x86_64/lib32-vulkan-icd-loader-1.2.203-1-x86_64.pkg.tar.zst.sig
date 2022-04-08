@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-vulkan-icd-loader-1.2.203-1-x86_64.pkg.tar.zst.sig

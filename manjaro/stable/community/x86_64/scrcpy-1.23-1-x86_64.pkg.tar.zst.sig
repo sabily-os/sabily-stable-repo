@@ -1,0 +1,1 @@
+../../../pool/sync/scrcpy-1.23-1-x86_64.pkg.tar.zst.sig

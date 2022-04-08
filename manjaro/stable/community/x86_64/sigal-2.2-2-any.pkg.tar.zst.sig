@@ -1,0 +1,1 @@
+../../../pool/sync/sigal-2.2-2-any.pkg.tar.zst.sig

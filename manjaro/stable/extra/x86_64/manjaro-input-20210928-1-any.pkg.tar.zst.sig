@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-input-20210928-1-any.pkg.tar.zst.sig

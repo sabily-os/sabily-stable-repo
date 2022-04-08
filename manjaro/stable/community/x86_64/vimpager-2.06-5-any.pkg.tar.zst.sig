@@ -1,0 +1,1 @@
+../../../pool/sync/vimpager-2.06-5-any.pkg.tar.zst.sig

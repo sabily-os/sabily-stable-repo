@@ -1,0 +1,1 @@
+../../../pool/sync/pastebinit-1.5.1-1-any.pkg.tar.xz.sig

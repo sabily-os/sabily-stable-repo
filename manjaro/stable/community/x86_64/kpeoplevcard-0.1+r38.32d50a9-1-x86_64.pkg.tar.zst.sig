@@ -1,0 +1,1 @@
+../../../pool/overlay/kpeoplevcard-0.1+r38.32d50a9-1-x86_64.pkg.tar.zst.sig

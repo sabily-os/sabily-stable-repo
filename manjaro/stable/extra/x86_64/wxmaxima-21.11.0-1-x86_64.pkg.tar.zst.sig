@@ -1,0 +1,1 @@
+../../../pool/sync/wxmaxima-21.11.0-1-x86_64.pkg.tar.zst.sig

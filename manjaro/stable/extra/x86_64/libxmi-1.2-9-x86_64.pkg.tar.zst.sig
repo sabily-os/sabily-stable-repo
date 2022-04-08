@@ -1,0 +1,1 @@
+../../../pool/sync/libxmi-1.2-9-x86_64.pkg.tar.zst.sig

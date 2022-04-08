@@ -1,0 +1,1 @@
+../../../pool/sync/perl-encode-imaputf7-1.05-5-any.pkg.tar.zst.sig

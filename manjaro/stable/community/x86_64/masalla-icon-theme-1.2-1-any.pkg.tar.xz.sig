@@ -1,0 +1,1 @@
+../../../pool/overlay/masalla-icon-theme-1.2-1-any.pkg.tar.xz.sig

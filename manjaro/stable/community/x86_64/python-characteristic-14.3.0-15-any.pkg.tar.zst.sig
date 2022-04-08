@@ -1,0 +1,1 @@
+../../../pool/sync/python-characteristic-14.3.0-15-any.pkg.tar.zst.sig

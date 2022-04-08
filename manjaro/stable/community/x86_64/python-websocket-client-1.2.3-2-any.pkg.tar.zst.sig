@@ -1,0 +1,1 @@
+../../../pool/sync/python-websocket-client-1.2.3-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/libibus-1.5.25-5-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/wv-1.2.9-5-x86_64.pkg.tar.zst.sig

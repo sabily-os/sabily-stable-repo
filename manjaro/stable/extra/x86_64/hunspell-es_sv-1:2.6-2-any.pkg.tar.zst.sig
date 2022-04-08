@@ -1,0 +1,1 @@
+../../../pool/sync/hunspell-es_sv-1:2.6-2-any.pkg.tar.zst.sig

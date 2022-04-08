@@ -1,0 +1,1 @@
+../../../pool/sync/python-nose-1.3.7-14-any.pkg.tar.zst.sig

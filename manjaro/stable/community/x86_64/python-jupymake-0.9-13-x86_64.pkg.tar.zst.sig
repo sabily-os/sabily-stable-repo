@@ -1,0 +1,1 @@
+../../../pool/sync/python-jupymake-0.9-13-x86_64.pkg.tar.zst.sig

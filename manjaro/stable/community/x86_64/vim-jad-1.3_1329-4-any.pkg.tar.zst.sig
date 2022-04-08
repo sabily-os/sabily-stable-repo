@@ -1,0 +1,1 @@
+../../../pool/sync/vim-jad-1.3_1329-4-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/numlockx-1.2-5-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/php-geoip-1.1.1-7-x86_64.pkg.tar.zst.sig

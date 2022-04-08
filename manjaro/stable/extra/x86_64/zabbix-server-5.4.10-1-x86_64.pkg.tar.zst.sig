@@ -1,0 +1,1 @@
+../../../pool/sync/zabbix-server-5.4.10-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/plowshare-2.1.7-6-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/bootsplash-theme-vendor-0.1-2-any.pkg.tar.xz.sig

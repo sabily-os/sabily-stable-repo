@@ -1,0 +1,1 @@
+../../../pool/sync/python-smartypants-2.0.1-9-any.pkg.tar.zst.sig

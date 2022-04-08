@@ -1,0 +1,1 @@
+../../../pool/sync/cscope-15.9-2-x86_64.pkg.tar.zst.sig

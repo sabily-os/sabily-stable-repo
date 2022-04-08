@@ -1,0 +1,1 @@
+../../../pool/sync/graphicsmagick-1.3.37-1-x86_64.pkg.tar.zst.sig

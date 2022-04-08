@@ -1,0 +1,1 @@
+../../../pool/sync/docopt-0.6.3-1-x86_64.pkg.tar.zst.sig

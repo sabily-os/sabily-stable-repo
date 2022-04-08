@@ -1,0 +1,1 @@
+../../../pool/sync/gtkwave-3.3.111-1-x86_64.pkg.tar.zst.sig

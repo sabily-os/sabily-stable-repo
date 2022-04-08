@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-data-checked-0.3-23-x86_64.pkg.tar.zst.sig

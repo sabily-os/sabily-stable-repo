@@ -1,0 +1,1 @@
+../../../pool/sync/lua52-vstruct-2.1.1-4-any.pkg.tar.zst.sig

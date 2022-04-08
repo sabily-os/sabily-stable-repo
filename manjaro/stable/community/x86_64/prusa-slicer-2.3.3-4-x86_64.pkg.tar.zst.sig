@@ -1,0 +1,1 @@
+../../../pool/sync/prusa-slicer-2.3.3-4-x86_64.pkg.tar.zst.sig

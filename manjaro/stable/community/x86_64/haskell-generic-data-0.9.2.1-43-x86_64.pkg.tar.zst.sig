@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-generic-data-0.9.2.1-43-x86_64.pkg.tar.zst.sig

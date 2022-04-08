@@ -1,0 +1,1 @@
+../../../pool/sync/python-feedgen-0.9.0-3-any.pkg.tar.zst.sig

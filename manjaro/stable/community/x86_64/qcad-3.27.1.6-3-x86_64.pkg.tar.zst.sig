@@ -1,0 +1,1 @@
+../../../pool/sync/qcad-3.27.1.6-3-x86_64.pkg.tar.zst.sig

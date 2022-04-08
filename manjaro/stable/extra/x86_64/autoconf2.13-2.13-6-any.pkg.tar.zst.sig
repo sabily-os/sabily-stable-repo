@@ -1,0 +1,1 @@
+../../../pool/sync/autoconf2.13-2.13-6-any.pkg.tar.zst.sig

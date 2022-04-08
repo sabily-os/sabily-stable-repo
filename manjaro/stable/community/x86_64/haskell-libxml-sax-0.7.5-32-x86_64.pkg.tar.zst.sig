@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-libxml-sax-0.7.5-32-x86_64.pkg.tar.zst.sig

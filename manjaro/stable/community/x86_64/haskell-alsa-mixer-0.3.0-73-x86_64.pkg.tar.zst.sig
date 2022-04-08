@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-alsa-mixer-0.3.0-73-x86_64.pkg.tar.zst.sig

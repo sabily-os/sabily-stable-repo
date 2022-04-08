@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-data-default-class-0.1.2.0-24-x86_64.pkg.tar.zst.sig

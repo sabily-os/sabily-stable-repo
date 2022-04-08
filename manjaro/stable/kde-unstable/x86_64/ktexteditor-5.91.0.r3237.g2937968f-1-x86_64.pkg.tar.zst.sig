@@ -1,0 +1,1 @@
+../../../pool/overlay/ktexteditor-5.91.0.r3237.g2937968f-1-x86_64.pkg.tar.zst.sig

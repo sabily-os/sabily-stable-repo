@@ -1,0 +1,1 @@
+../../../pool/sync/procinfo-ng-2.0.304-8-x86_64.pkg.tar.xz.sig

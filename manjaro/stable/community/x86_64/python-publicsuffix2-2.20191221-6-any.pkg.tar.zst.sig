@@ -1,0 +1,1 @@
+../../../pool/sync/python-publicsuffix2-2.20191221-6-any.pkg.tar.zst.sig

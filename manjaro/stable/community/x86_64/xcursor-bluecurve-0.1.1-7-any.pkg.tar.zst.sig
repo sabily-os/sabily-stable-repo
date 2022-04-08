@@ -1,0 +1,1 @@
+../../../pool/sync/xcursor-bluecurve-0.1.1-7-any.pkg.tar.zst.sig

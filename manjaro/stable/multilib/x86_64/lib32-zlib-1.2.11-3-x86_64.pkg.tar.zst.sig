@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-zlib-1.2.11-3-x86_64.pkg.tar.zst.sig

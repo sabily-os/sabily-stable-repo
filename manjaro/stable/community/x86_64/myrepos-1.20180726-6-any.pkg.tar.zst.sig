@@ -1,0 +1,1 @@
+../../../pool/sync/myrepos-1.20180726-6-any.pkg.tar.zst.sig

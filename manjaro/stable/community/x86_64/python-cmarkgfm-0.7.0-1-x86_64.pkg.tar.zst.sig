@@ -1,0 +1,1 @@
+../../../pool/sync/python-cmarkgfm-0.7.0-1-x86_64.pkg.tar.zst.sig

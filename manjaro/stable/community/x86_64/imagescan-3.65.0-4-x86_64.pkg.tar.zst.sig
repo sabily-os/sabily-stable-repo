@@ -1,0 +1,1 @@
+../../../pool/sync/imagescan-3.65.0-4-x86_64.pkg.tar.zst.sig

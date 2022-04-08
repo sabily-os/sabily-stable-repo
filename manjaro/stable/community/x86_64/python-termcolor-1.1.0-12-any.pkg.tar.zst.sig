@@ -1,0 +1,1 @@
+../../../pool/sync/python-termcolor-1.1.0-12-any.pkg.tar.zst.sig

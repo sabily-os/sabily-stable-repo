@@ -1,0 +1,1 @@
+../../../pool/sync/python-flask-gravatar-0.5.0-7-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-tidal-1.7.10-12-x86_64.pkg.tar.zst.sig

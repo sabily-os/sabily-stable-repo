@@ -1,0 +1,1 @@
+../../../pool/sync/sane-frontends-1.0.14-9-x86_64.pkg.tar.zst.sig

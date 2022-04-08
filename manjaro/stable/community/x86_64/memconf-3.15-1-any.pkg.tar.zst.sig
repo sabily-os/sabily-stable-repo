@@ -1,0 +1,1 @@
+../../../pool/sync/memconf-3.15-1-any.pkg.tar.zst.sig

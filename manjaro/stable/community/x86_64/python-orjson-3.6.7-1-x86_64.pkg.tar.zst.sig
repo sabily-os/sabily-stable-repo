@@ -1,0 +1,1 @@
+../../../pool/sync/python-orjson-3.6.7-1-x86_64.pkg.tar.zst.sig

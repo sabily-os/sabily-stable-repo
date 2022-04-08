@@ -1,0 +1,1 @@
+../../../pool/sync/raptor-2.0.15-18-x86_64.pkg.tar.zst.sig

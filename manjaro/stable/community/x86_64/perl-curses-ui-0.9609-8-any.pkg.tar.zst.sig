@@ -1,0 +1,1 @@
+../../../pool/sync/perl-curses-ui-0.9609-8-any.pkg.tar.zst.sig

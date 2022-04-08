@@ -1,0 +1,1 @@
+../../../pool/sync/cimg-3.0.0-1-any.pkg.tar.zst.sig

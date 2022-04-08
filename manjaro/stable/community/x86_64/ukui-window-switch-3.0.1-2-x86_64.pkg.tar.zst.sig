@@ -1,0 +1,1 @@
+../../../pool/sync/ukui-window-switch-3.0.1-2-x86_64.pkg.tar.zst.sig

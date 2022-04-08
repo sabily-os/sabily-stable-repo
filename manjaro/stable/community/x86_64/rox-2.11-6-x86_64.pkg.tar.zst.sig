@@ -1,0 +1,1 @@
+../../../pool/sync/rox-2.11-6-x86_64.pkg.tar.zst.sig

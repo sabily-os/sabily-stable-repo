@@ -1,0 +1,1 @@
+../../../pool/sync/vim-syntastic-3.10.0-2-any.pkg.tar.zst.sig

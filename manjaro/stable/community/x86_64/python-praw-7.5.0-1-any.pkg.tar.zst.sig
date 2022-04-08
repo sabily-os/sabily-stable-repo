@@ -1,0 +1,1 @@
+../../../pool/sync/python-praw-7.5.0-1-any.pkg.tar.zst.sig

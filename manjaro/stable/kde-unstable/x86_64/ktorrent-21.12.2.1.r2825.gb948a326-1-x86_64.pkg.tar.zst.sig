@@ -1,0 +1,1 @@
+../../../pool/overlay/ktorrent-21.12.2.1.r2825.gb948a326-1-x86_64.pkg.tar.zst.sig

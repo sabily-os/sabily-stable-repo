@@ -1,0 +1,1 @@
+../../../pool/sync/python-binaryornot-0.4.4-6-any.pkg.tar.zst.sig

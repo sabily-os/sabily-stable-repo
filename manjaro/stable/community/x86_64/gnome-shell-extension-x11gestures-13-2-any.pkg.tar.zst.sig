@@ -1,0 +1,1 @@
+../../../pool/overlay/gnome-shell-extension-x11gestures-13-2-any.pkg.tar.zst.sig

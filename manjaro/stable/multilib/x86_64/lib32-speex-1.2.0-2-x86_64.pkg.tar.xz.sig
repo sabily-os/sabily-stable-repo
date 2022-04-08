@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-speex-1.2.0-2-x86_64.pkg.tar.xz.sig

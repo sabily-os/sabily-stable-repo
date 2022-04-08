@@ -1,0 +1,1 @@
+../../../pool/overlay/libqofono-0.99-1-x86_64.pkg.tar.xz.sig

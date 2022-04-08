@@ -1,0 +1,1 @@
+../../../pool/sync/python-chameleon-3.9.1-2-any.pkg.tar.zst.sig

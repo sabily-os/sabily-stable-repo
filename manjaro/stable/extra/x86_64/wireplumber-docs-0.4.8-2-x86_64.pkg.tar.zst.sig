@@ -1,0 +1,1 @@
+../../../pool/sync/wireplumber-docs-0.4.8-2-x86_64.pkg.tar.zst.sig

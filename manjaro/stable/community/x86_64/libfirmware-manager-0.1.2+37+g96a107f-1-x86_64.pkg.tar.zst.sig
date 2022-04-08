@@ -1,0 +1,1 @@
+../../../pool/overlay/libfirmware-manager-0.1.2+37+g96a107f-1-x86_64.pkg.tar.zst.sig

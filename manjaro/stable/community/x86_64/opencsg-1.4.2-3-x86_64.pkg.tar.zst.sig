@@ -1,0 +1,1 @@
+../../../pool/sync/opencsg-1.4.2-3-x86_64.pkg.tar.zst.sig

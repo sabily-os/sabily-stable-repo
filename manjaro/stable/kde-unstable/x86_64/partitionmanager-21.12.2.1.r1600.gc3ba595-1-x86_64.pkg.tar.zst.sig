@@ -1,0 +1,1 @@
+../../../pool/overlay/partitionmanager-21.12.2.1.r1600.gc3ba595-1-x86_64.pkg.tar.zst.sig

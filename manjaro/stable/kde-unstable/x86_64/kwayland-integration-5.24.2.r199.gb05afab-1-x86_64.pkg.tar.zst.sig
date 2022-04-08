@@ -1,0 +1,1 @@
+../../../pool/overlay/kwayland-integration-5.24.2.r199.gb05afab-1-x86_64.pkg.tar.zst.sig

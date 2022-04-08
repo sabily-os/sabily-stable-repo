@@ -1,0 +1,1 @@
+../../../pool/sync/liblightdm-qt5-1:1.30.0-4-x86_64.pkg.tar.zst.sig

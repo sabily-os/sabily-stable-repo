@@ -1,0 +1,1 @@
+../../../pool/sync/gnome-video-effects-0.5.0+4+g9554041-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-mpmath-1.2.1-5-any.pkg.tar.zst.sig

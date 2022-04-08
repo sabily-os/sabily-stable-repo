@@ -1,0 +1,1 @@
+../../../pool/sync/htmldoc-1.9.15-1-x86_64.pkg.tar.zst.sig

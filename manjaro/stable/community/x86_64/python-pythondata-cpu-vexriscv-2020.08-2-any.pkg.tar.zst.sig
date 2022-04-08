@@ -1,0 +1,1 @@
+../../../pool/sync/python-pythondata-cpu-vexriscv-2020.08-2-any.pkg.tar.zst.sig

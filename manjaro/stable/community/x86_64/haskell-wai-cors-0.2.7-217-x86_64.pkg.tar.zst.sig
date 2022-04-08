@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-wai-cors-0.2.7-217-x86_64.pkg.tar.zst.sig

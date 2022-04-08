@@ -1,0 +1,1 @@
+../../../pool/sync/libstatgrab-0.92.1-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-hjsonpointer-1.5.0-274-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/ibus-anthy-1.5.14-1-x86_64.pkg.tar.zst.sig

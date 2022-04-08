@@ -1,0 +1,1 @@
+../../../pool/sync/cern-vdt-0.4.3-5-x86_64.pkg.tar.zst.sig

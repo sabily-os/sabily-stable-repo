@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyenchant-3.2.2-1-any.pkg.tar.zst.sig

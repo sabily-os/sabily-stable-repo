@@ -1,0 +1,1 @@
+../../../pool/sync/stylus-0.56.0-1-any.pkg.tar.zst.sig

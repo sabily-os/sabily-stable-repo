@@ -1,0 +1,1 @@
+../../../pool/sync/python-bidict-0.21.4-1-any.pkg.tar.zst.sig

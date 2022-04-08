@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-some-1.0.3-4-x86_64.pkg.tar.zst.sig

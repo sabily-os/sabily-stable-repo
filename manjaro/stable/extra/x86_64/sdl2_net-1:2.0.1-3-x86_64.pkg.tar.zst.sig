@@ -1,0 +1,1 @@
+../../../pool/sync/sdl2_net-1:2.0.1-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/normaliz-3.9.2-1-x86_64.pkg.tar.zst.sig

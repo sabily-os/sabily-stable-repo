@@ -1,0 +1,1 @@
+../../../pool/sync/ncrack-0.7-2-x86_64.pkg.tar.zst.sig

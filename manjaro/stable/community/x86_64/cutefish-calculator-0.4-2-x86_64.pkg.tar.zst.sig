@@ -1,0 +1,1 @@
+../../../pool/sync/cutefish-calculator-0.4-2-x86_64.pkg.tar.zst.sig

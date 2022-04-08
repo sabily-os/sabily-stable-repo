@@ -1,0 +1,1 @@
+../../../pool/sync/mingw-w64-binutils-2.36.1-1-x86_64.pkg.tar.zst.sig

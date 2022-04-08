@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-newtype-0.2.2.0-12-x86_64.pkg.tar.zst.sig

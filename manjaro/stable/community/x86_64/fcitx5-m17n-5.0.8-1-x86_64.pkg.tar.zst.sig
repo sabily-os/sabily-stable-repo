@@ -1,0 +1,1 @@
+../../../pool/sync/fcitx5-m17n-5.0.8-1-x86_64.pkg.tar.zst.sig

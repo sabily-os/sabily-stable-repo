@@ -1,0 +1,1 @@
+../../../pool/sync/otter-browser-1.0.02-2-x86_64.pkg.tar.zst.sig

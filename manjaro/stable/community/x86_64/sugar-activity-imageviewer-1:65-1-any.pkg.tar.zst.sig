@@ -1,0 +1,1 @@
+../../../pool/sync/sugar-activity-imageviewer-1:65-1-any.pkg.tar.zst.sig

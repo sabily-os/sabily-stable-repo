@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyadi-iio-0.0.8-4-any.pkg.tar.zst.sig

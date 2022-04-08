@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-prettyprinter-convert-ansi-wl-pprint-1.1.2-35-x86_64.pkg.tar.zst.sig

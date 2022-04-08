@@ -1,0 +1,1 @@
+../../../pool/sync/eid-mw-5.0.28-1-x86_64.pkg.tar.zst.sig

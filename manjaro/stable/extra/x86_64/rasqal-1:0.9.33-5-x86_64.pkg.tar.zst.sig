@@ -1,0 +1,1 @@
+../../../pool/sync/rasqal-1:0.9.33-5-x86_64.pkg.tar.zst.sig

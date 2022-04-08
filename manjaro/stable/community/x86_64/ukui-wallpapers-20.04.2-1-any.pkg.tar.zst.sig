@@ -1,0 +1,1 @@
+../../../pool/sync/ukui-wallpapers-20.04.2-1-any.pkg.tar.zst.sig

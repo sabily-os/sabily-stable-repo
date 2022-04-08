@@ -1,0 +1,1 @@
+../../../pool/sync/pstotext-1.9-6-x86_64.pkg.tar.zst.sig

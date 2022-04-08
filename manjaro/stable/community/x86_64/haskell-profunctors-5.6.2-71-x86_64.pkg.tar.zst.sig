@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-profunctors-5.6.2-71-x86_64.pkg.tar.zst.sig

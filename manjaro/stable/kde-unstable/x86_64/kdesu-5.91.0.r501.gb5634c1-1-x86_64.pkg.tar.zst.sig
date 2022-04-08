@@ -1,0 +1,1 @@
+../../../pool/overlay/kdesu-5.91.0.r501.gb5634c1-1-x86_64.pkg.tar.zst.sig

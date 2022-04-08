@@ -1,0 +1,1 @@
+../../../pool/overlay/bashrc-manjaro-5.1.016-2-any.pkg.tar.zst.sig

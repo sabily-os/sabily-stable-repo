@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyfiglet-0.8.post1-5-any.pkg.tar.zst.sig

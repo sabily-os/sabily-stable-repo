@@ -1,0 +1,1 @@
+../../../pool/sync/perl-email-send-2.201-4-any.pkg.tar.zst.sig

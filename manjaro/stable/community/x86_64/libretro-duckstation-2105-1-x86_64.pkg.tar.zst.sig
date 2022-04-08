@@ -1,0 +1,1 @@
+../../../pool/sync/libretro-duckstation-2105-1-x86_64.pkg.tar.zst.sig

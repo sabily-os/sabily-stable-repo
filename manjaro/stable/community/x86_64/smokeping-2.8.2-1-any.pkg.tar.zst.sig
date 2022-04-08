@@ -1,0 +1,1 @@
+../../../pool/sync/smokeping-2.8.2-1-any.pkg.tar.zst.sig

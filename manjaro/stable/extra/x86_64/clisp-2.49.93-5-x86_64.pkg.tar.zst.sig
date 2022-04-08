@@ -1,0 +1,1 @@
+../../../pool/sync/clisp-2.49.93-5-x86_64.pkg.tar.zst.sig

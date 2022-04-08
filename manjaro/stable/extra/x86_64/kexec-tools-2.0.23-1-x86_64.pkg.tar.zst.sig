@@ -1,0 +1,1 @@
+../../../pool/sync/kexec-tools-2.0.23-1-x86_64.pkg.tar.zst.sig

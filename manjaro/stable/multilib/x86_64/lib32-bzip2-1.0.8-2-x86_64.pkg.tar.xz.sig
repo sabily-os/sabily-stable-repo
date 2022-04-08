@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-bzip2-1.0.8-2-x86_64.pkg.tar.xz.sig

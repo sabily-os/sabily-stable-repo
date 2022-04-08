@@ -1,0 +1,1 @@
+../../../pool/sync/pvoc-0.1.12-5-x86_64.pkg.tar.zst.sig

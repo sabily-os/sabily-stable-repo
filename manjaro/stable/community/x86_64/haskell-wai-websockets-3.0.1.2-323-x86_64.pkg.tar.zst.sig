@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-wai-websockets-3.0.1.2-323-x86_64.pkg.tar.zst.sig

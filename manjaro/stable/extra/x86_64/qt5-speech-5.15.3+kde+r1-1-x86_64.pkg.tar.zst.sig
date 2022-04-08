@@ -1,0 +1,1 @@
+../../../pool/sync/qt5-speech-5.15.3+kde+r1-1-x86_64.pkg.tar.zst.sig

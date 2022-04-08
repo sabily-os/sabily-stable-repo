@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-torrent-10000.1.1-154-x86_64.pkg.tar.zst.sig

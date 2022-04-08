@@ -1,0 +1,1 @@
+../../../pool/sync/snap-sync-0.7-1-any.pkg.tar.zst.sig

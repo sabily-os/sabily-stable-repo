@@ -1,0 +1,1 @@
+../../../pool/sync/perl-devel-checkcompiler-0.07-7-any.pkg.tar.zst.sig

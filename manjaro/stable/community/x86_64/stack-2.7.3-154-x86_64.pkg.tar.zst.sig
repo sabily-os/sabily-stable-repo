@@ -1,0 +1,1 @@
+../../../pool/sync/stack-2.7.3-154-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-colorator-1.1.0-7-any.pkg.tar.zst.sig

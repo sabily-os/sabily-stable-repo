@@ -1,0 +1,1 @@
+../../../pool/sync/media-player-info-24-2-any.pkg.tar.zst.sig

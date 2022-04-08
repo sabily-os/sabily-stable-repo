@@ -1,0 +1,1 @@
+../../../pool/sync/arduino-cli-0.19.3-1-x86_64.pkg.tar.zst.sig

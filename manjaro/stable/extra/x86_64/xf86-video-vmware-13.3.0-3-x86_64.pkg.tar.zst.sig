@@ -1,0 +1,1 @@
+../../../pool/sync/xf86-video-vmware-13.3.0-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/gssdp-docs-1.4.0.1-1-x86_64.pkg.tar.zst.sig

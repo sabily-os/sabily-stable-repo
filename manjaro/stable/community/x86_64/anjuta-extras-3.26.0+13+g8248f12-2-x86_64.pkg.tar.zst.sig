@@ -1,0 +1,1 @@
+../../../pool/sync/anjuta-extras-3.26.0+13+g8248f12-2-x86_64.pkg.tar.zst.sig

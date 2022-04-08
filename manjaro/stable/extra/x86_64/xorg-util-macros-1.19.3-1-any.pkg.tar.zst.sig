@@ -1,0 +1,1 @@
+../../../pool/sync/xorg-util-macros-1.19.3-1-any.pkg.tar.zst.sig

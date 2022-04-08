@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-metadata_json_deps-0.3.0-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-aeson-pretty-0.8.9-37-x86_64.pkg.tar.zst.sig

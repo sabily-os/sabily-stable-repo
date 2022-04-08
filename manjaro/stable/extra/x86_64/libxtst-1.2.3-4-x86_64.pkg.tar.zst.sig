@@ -1,0 +1,1 @@
+../../../pool/sync/libxtst-1.2.3-4-x86_64.pkg.tar.zst.sig

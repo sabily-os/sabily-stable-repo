@@ -1,0 +1,1 @@
+../../../pool/sync/serverless-3.7.4-1-any.pkg.tar.zst.sig

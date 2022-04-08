@@ -1,0 +1,1 @@
+../../../pool/sync/yt-dlp-2022.03.08.1-1-any.pkg.tar.zst.sig

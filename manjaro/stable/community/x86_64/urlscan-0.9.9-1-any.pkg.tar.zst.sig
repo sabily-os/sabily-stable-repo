@@ -1,0 +1,1 @@
+../../../pool/sync/urlscan-0.9.9-1-any.pkg.tar.zst.sig

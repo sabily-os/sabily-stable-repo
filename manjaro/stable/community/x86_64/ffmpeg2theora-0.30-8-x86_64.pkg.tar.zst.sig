@@ -1,0 +1,1 @@
+../../../pool/sync/ffmpeg2theora-0.30-8-x86_64.pkg.tar.zst.sig

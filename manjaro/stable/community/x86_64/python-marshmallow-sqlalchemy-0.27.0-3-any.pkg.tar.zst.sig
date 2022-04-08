@@ -1,0 +1,1 @@
+../../../pool/sync/python-marshmallow-sqlalchemy-0.27.0-3-any.pkg.tar.zst.sig

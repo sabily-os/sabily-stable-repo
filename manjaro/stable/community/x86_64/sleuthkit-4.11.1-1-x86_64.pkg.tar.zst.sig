@@ -1,0 +1,1 @@
+../../../pool/sync/sleuthkit-4.11.1-1-x86_64.pkg.tar.zst.sig

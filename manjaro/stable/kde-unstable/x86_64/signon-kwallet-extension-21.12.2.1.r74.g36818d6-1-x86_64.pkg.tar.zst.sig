@@ -1,0 +1,1 @@
+../../../pool/overlay/signon-kwallet-extension-21.12.2.1.r74.g36818d6-1-x86_64.pkg.tar.zst.sig

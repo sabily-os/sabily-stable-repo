@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-hls-haddock-comments-plugin-1.0.0.3-97-x86_64.pkg.tar.zst.sig

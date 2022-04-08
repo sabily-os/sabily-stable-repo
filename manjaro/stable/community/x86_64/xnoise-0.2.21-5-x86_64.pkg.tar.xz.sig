@@ -1,0 +1,1 @@
+../../../pool/sync/xnoise-0.2.21-5-x86_64.pkg.tar.xz.sig

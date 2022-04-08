@@ -1,0 +1,1 @@
+../../../pool/sync/sassc-3.6.2-3-x86_64.pkg.tar.zst.sig

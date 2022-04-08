@@ -1,0 +1,1 @@
+../../../pool/overlay/kdisplay-git-5.21.80.r1435.g24a3e32-1-x86_64.pkg.tar.zst.sig

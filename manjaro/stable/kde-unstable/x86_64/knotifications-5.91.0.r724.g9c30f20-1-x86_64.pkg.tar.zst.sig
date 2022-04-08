@@ -1,0 +1,1 @@
+../../../pool/overlay/knotifications-5.91.0.r724.g9c30f20-1-x86_64.pkg.tar.zst.sig

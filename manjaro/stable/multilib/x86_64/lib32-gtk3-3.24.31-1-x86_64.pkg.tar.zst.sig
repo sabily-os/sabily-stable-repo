@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-gtk3-3.24.31-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-doublex-expects-0.7.1-7-any.pkg.tar.zst.sig

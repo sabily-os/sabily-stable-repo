@@ -1,0 +1,1 @@
+../../../pool/sync/amdvlk-2022.Q1.3-1-x86_64.pkg.tar.zst.sig

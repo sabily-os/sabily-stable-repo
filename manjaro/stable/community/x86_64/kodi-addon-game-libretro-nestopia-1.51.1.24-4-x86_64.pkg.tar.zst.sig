@@ -1,0 +1,1 @@
+../../../pool/sync/kodi-addon-game-libretro-nestopia-1.51.1.24-4-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-testpath-0.5.0-3-any.pkg.tar.zst.sig

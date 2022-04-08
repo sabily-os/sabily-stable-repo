@@ -1,0 +1,1 @@
+../../../pool/sync/python-harparser-0.4-7-any.pkg.tar.zst.sig

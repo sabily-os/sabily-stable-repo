@@ -1,0 +1,1 @@
+../../../pool/sync/jedi-language-server-0.35.1-1-any.pkg.tar.zst.sig

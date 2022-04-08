@@ -1,0 +1,1 @@
+../../../pool/sync/pulseaudio-bluetooth-15.0-4-x86_64.pkg.tar.zst.sig

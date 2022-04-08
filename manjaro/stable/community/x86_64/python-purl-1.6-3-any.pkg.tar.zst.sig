@@ -1,0 +1,1 @@
+../../../pool/sync/python-purl-1.6-3-any.pkg.tar.zst.sig

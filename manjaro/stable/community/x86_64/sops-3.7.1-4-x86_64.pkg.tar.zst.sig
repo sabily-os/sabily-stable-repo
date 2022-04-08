@@ -1,0 +1,1 @@
+../../../pool/sync/sops-3.7.1-4-x86_64.pkg.tar.zst.sig

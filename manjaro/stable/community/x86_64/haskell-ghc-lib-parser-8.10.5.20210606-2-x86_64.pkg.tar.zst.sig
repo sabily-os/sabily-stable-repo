@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-ghc-lib-parser-8.10.5.20210606-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/systemdgenie-0.99.0-4-x86_64.pkg.tar.zst.sig

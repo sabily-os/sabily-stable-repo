@@ -1,0 +1,1 @@
+../../../pool/sync/libident-0.32-8-x86_64.pkg.tar.zst.sig

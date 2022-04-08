@@ -1,0 +1,1 @@
+../../../pool/sync/c2hs-0.28.8-53-x86_64.pkg.tar.zst.sig

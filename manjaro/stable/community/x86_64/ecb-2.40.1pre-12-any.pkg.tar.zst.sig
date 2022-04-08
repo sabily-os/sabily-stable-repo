@@ -1,0 +1,1 @@
+../../../pool/sync/ecb-2.40.1pre-12-any.pkg.tar.zst.sig

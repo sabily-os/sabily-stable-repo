@@ -1,0 +1,1 @@
+../../../pool/sync/python-apispec-webframeworks-0.5.2-5-any.pkg.tar.zst.sig

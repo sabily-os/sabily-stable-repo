@@ -1,0 +1,1 @@
+../../../pool/sync/python-sourceinspect-0.0.3-2-any.pkg.tar.zst.sig

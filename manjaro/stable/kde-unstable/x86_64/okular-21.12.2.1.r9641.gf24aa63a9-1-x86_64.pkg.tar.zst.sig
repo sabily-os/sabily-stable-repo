@@ -1,0 +1,1 @@
+../../../pool/overlay/okular-21.12.2.1.r9641.gf24aa63a9-1-x86_64.pkg.tar.zst.sig

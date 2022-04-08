@@ -1,0 +1,1 @@
+../../../pool/sync/xorg-fonts-100dpi-1.0.3-7-any.pkg.tar.zst.sig

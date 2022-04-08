@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-djinn-lib-0.0.1.3-19-x86_64.pkg.tar.zst.sig

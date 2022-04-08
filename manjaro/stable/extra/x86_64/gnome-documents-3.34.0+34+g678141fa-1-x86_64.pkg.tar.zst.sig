@@ -1,0 +1,1 @@
+../../../pool/sync/gnome-documents-3.34.0+34+g678141fa-1-x86_64.pkg.tar.zst.sig

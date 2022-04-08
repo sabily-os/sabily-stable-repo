@@ -1,0 +1,1 @@
+../../../pool/sync/telepathy-glib-0.24.2-2-x86_64.pkg.tar.zst.sig

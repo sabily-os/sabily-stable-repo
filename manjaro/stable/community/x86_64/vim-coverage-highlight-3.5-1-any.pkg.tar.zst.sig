@@ -1,0 +1,1 @@
+../../../pool/sync/vim-coverage-highlight-3.5-1-any.pkg.tar.zst.sig

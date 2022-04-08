@@ -1,0 +1,1 @@
+../../../pool/sync/python-dephell-shells-0.1.5-3-any.pkg.tar.zst.sig

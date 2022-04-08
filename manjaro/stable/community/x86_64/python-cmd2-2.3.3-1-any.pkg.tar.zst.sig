@@ -1,0 +1,1 @@
+../../../pool/sync/python-cmd2-2.3.3-1-any.pkg.tar.zst.sig

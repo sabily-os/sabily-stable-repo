@@ -1,0 +1,1 @@
+../../../pool/sync/perl-mail-sendmail-0.79-12-any.pkg.tar.zst.sig

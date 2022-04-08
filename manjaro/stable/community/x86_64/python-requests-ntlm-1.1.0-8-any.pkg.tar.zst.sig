@@ -1,0 +1,1 @@
+../../../pool/sync/python-requests-ntlm-1.1.0-8-any.pkg.tar.zst.sig

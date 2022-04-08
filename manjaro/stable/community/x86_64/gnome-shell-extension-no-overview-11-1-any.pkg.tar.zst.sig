@@ -1,0 +1,1 @@
+../../../pool/overlay/gnome-shell-extension-no-overview-11-1-any.pkg.tar.zst.sig

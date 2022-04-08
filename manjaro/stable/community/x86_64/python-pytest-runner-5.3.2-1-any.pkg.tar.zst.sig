@@ -1,0 +1,1 @@
+../../../pool/sync/python-pytest-runner-5.3.2-1-any.pkg.tar.zst.sig

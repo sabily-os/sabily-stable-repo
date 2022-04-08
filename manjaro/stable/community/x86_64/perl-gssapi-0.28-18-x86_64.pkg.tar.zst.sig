@@ -1,0 +1,1 @@
+../../../pool/sync/perl-gssapi-0.28-18-x86_64.pkg.tar.zst.sig

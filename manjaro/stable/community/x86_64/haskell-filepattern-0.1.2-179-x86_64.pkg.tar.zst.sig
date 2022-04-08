@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-filepattern-0.1.2-179-x86_64.pkg.tar.zst.sig

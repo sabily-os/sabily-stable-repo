@@ -1,0 +1,1 @@
+../../../pool/sync/geotag-0.103-3-any.pkg.tar.zst.sig

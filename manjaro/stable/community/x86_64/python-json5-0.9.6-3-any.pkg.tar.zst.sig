@@ -1,0 +1,1 @@
+../../../pool/sync/python-json5-0.9.6-3-any.pkg.tar.zst.sig

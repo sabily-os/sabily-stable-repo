@@ -1,0 +1,1 @@
+../../../pool/sync/appstream-qt-0.15.2-1-x86_64.pkg.tar.zst.sig

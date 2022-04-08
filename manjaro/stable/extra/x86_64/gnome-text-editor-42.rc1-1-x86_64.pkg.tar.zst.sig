@@ -1,0 +1,1 @@
+../../../pool/overlay/gnome-text-editor-42.rc1-1-x86_64.pkg.tar.zst.sig

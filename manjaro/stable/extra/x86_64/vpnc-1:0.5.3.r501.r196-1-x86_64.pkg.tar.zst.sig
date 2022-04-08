@@ -1,0 +1,1 @@
+../../../pool/sync/vpnc-1:0.5.3.r501.r196-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-universal-can-1.20140328-4-any.pkg.tar.zst.sig

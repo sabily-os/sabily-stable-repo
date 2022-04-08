@@ -1,0 +1,1 @@
+../../../pool/sync/gimp-2.10.30-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/sticky-1.8-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-hspec-attoparsec-0.1.0.2-113-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/mkinitcpio-busybox-1.35.0-1-x86_64.pkg.tar.zst.sig

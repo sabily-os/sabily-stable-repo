@@ -1,0 +1,1 @@
+../../../pool/sync/perl-test-file-1.992-1-any.pkg.tar.zst.sig

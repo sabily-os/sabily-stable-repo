@@ -1,0 +1,1 @@
+../../../pool/sync/scratch-1.4.0.7-8-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/opensmtpd-6.8.0p2-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/kirigami2-5.91.0.r3094.g147baecc-1-x86_64.pkg.tar.zst.sig

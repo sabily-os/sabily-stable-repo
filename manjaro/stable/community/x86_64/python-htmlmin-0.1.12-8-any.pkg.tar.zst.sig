@@ -1,0 +1,1 @@
+../../../pool/sync/python-htmlmin-0.1.12-8-any.pkg.tar.zst.sig

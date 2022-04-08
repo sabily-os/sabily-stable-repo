@@ -1,0 +1,1 @@
+../../../pool/sync/xfce4-mount-plugin-1.1.5-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/plasma-wayland-session-5.24.2.r11497.g672303367-1-x86_64.pkg.tar.zst.sig

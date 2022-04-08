@@ -1,0 +1,1 @@
+../../../pool/sync/fanficfare-4.10.0-1-any.pkg.tar.zst.sig

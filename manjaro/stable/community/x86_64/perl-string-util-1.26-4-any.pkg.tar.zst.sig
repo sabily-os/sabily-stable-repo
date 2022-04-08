@@ -1,0 +1,1 @@
+../../../pool/sync/perl-string-util-1.26-4-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-pam-1.8.4-7-any.pkg.tar.zst.sig

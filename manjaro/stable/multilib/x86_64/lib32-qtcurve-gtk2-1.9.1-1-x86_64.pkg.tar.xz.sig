@@ -1,0 +1,1 @@
+../../../pool/overlay/lib32-qtcurve-gtk2-1.9.1-1-x86_64.pkg.tar.xz.sig

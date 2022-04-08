@@ -1,0 +1,1 @@
+../../../pool/sync/farstream-0.2.9-3-x86_64.pkg.tar.zst.sig

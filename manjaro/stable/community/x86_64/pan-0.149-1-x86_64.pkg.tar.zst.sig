@@ -1,0 +1,1 @@
+../../../pool/sync/pan-0.149-1-x86_64.pkg.tar.zst.sig

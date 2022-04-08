@@ -1,0 +1,1 @@
+../../../pool/sync/gnome-shell-extension-appindicator-41-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-pytest-console-scripts-1.2.1-4-any.pkg.tar.zst.sig

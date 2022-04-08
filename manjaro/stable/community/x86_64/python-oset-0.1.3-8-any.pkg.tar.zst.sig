@@ -1,0 +1,1 @@
+../../../pool/sync/python-oset-0.1.3-8-any.pkg.tar.zst.sig

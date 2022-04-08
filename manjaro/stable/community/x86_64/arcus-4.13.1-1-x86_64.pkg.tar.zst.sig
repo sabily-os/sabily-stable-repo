@@ -1,0 +1,1 @@
+../../../pool/sync/arcus-4.13.1-1-x86_64.pkg.tar.zst.sig

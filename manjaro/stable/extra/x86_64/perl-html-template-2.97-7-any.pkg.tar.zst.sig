@@ -1,0 +1,1 @@
+../../../pool/sync/perl-html-template-2.97-7-any.pkg.tar.zst.sig

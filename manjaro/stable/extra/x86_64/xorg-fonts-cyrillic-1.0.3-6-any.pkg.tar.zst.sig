@@ -1,0 +1,1 @@
+../../../pool/sync/xorg-fonts-cyrillic-1.0.3-6-any.pkg.tar.zst.sig

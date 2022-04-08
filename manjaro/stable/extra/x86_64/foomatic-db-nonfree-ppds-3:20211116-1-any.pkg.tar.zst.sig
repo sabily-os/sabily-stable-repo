@@ -1,0 +1,1 @@
+../../../pool/sync/foomatic-db-nonfree-ppds-3:20211116-1-any.pkg.tar.zst.sig

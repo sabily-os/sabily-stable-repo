@@ -1,0 +1,1 @@
+../../../pool/sync/fuseiso-20070708-8-x86_64.pkg.tar.zst.sig

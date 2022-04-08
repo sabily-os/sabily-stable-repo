@@ -1,0 +1,1 @@
+../../../pool/sync/python-pytest-mypy-0.9.1-1-any.pkg.tar.zst.sig

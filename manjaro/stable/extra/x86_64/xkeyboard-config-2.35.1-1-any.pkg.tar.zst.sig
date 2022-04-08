@@ -1,0 +1,1 @@
+../../../pool/sync/xkeyboard-config-2.35.1-1-any.pkg.tar.zst.sig

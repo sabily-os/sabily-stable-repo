@@ -1,0 +1,1 @@
+../../../pool/sync/pantheon-videos-2.8.3-2-x86_64.pkg.tar.zst.sig

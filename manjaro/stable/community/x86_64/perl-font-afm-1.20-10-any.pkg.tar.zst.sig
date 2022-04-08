@@ -1,0 +1,1 @@
+../../../pool/sync/perl-font-afm-1.20-10-any.pkg.tar.zst.sig

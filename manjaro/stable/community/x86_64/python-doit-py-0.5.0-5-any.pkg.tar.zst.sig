@@ -1,0 +1,1 @@
+../../../pool/sync/python-doit-py-0.5.0-5-any.pkg.tar.zst.sig

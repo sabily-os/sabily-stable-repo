@@ -1,0 +1,1 @@
+../../../pool/sync/python-typing_inspect-0.7.1-3-any.pkg.tar.zst.sig

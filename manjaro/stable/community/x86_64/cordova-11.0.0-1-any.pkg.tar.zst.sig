@@ -1,0 +1,1 @@
+../../../pool/sync/cordova-11.0.0-1-any.pkg.tar.zst.sig

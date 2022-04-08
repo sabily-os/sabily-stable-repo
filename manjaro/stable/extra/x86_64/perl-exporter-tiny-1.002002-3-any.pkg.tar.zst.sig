@@ -1,0 +1,1 @@
+../../../pool/sync/perl-exporter-tiny-1.002002-3-any.pkg.tar.zst.sig

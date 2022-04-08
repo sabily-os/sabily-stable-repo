@@ -1,0 +1,1 @@
+../../../pool/overlay/sddm-breath-theme-21.2.0-2-any.pkg.tar.zst.sig

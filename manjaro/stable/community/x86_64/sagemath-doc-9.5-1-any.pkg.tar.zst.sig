@@ -1,0 +1,1 @@
+../../../pool/sync/sagemath-doc-9.5-1-any.pkg.tar.zst.sig

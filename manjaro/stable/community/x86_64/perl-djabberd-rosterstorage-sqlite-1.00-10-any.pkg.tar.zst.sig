@@ -1,0 +1,1 @@
+../../../pool/sync/perl-djabberd-rosterstorage-sqlite-1.00-10-any.pkg.tar.zst.sig

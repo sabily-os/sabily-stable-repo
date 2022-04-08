@@ -1,0 +1,1 @@
+../../../pool/sync/python-stestr-3.2.1-3-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-pygithub-1.55-2-any.pkg.tar.zst.sig

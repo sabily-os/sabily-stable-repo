@@ -1,0 +1,1 @@
+../../../pool/overlay/obmenu-generator-0.90-2-any.pkg.tar.zst.sig

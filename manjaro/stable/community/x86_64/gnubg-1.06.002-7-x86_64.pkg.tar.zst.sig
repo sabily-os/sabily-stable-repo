@@ -1,0 +1,1 @@
+../../../pool/sync/gnubg-1.06.002-7-x86_64.pkg.tar.zst.sig

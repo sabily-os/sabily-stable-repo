@@ -1,0 +1,1 @@
+../../../pool/sync/bsdiff-4.3-10-x86_64.pkg.tar.zst.sig

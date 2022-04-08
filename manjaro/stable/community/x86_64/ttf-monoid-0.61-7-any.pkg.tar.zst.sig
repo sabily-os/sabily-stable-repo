@@ -1,0 +1,1 @@
+../../../pool/sync/ttf-monoid-0.61-7-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/libmygpo-qt5-1.1.0-3-x86_64.pkg.tar.zst.sig

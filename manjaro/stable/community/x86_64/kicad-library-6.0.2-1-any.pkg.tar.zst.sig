@@ -1,0 +1,1 @@
+../../../pool/sync/kicad-library-6.0.2-1-any.pkg.tar.zst.sig

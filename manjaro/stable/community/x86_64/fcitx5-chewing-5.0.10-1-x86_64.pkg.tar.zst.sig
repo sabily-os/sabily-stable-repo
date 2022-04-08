@@ -1,0 +1,1 @@
+../../../pool/sync/fcitx5-chewing-5.0.10-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-txredisapi-1.4.7-4-any.pkg.tar.zst.sig

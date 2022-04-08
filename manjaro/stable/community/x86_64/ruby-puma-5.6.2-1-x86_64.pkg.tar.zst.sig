@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-puma-5.6.2-1-x86_64.pkg.tar.zst.sig

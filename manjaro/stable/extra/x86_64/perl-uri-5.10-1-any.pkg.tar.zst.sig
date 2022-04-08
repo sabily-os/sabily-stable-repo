@@ -1,0 +1,1 @@
+../../../pool/sync/perl-uri-5.10-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/ktrip-22.02-1-x86_64.pkg.tar.zst.sig

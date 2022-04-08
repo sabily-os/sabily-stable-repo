@@ -1,0 +1,1 @@
+../../../pool/sync/libpaper-1.1.28-1-x86_64.pkg.tar.zst.sig

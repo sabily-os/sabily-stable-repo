@@ -1,0 +1,1 @@
+../../../pool/sync/dstat-0.7.4-5-any.pkg.tar.zst.sig

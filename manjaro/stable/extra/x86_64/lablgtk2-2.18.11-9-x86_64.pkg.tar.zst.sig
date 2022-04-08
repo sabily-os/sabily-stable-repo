@@ -1,0 +1,1 @@
+../../../pool/sync/lablgtk2-2.18.11-9-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/pop-icon-theme-2.1.0.r2419.9998b20b78-2-any.pkg.tar.zst.sig

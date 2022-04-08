@@ -1,0 +1,1 @@
+../../../pool/sync/python-fakeredis-1.7.0-2-any.pkg.tar.zst.sig

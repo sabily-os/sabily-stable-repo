@@ -1,0 +1,1 @@
+../../../pool/sync/libquvi-scripts-0.9.20131130-5-any.pkg.tar.zst.sig

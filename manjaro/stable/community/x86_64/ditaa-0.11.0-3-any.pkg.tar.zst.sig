@@ -1,0 +1,1 @@
+../../../pool/sync/ditaa-0.11.0-3-any.pkg.tar.zst.sig

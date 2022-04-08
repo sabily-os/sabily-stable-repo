@@ -1,0 +1,1 @@
+../../../pool/overlay/pop-desktop-widget-0.1.0.r61.f7a34e7-1-x86_64.pkg.tar.zst.sig

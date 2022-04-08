@@ -1,0 +1,1 @@
+../../../pool/sync/perl-text-unidecode-1.30-3-x86_64.pkg.tar.zst.sig

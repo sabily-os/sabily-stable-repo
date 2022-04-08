@@ -1,0 +1,1 @@
+../../../pool/sync/telepathy-logger-0.8.2-5-x86_64.pkg.tar.zst.sig

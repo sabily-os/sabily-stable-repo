@@ -1,0 +1,1 @@
+../../../pool/sync/ceph-15.2.14-5-x86_64.pkg.tar.zst.sig

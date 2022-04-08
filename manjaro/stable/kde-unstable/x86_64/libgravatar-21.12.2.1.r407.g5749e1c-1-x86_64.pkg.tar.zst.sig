@@ -1,0 +1,1 @@
+../../../pool/overlay/libgravatar-21.12.2.1.r407.g5749e1c-1-x86_64.pkg.tar.zst.sig

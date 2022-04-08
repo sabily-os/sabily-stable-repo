@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-gi-cairo-1.0.25-97-x86_64.pkg.tar.zst.sig

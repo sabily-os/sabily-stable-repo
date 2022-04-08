@@ -1,0 +1,1 @@
+../../../pool/sync/python-anyjson-0.3.3-16-any.pkg.tar.zst.sig

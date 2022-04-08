@@ -1,0 +1,1 @@
+../../../pool/sync/python-click-8.0.4-1-any.pkg.tar.zst.sig

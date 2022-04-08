@@ -1,0 +1,1 @@
+../../../pool/sync/python-pytest-verbose-parametrize-1.7.0-4-any.pkg.tar.zst.sig

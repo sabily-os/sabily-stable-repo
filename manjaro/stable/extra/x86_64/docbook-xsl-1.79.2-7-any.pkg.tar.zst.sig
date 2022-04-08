@@ -1,0 +1,1 @@
+../../../pool/sync/docbook-xsl-1.79.2-7-any.pkg.tar.zst.sig

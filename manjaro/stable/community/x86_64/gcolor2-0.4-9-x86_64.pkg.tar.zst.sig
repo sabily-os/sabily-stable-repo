@@ -1,0 +1,1 @@
+../../../pool/sync/gcolor2-0.4-9-x86_64.pkg.tar.zst.sig

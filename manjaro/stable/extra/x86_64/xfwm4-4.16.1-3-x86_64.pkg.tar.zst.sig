@@ -1,0 +1,1 @@
+../../../pool/sync/xfwm4-4.16.1-3-x86_64.pkg.tar.zst.sig

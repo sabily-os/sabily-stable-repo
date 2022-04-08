@@ -1,0 +1,1 @@
+../../../pool/sync/newsboat-2.26-1-x86_64.pkg.tar.zst.sig

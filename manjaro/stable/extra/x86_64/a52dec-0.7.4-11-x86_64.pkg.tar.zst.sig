@@ -1,0 +1,1 @@
+../../../pool/sync/a52dec-0.7.4-11-x86_64.pkg.tar.zst.sig

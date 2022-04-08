@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-js-dgtable-0.5.2-13-x86_64.pkg.tar.zst.sig

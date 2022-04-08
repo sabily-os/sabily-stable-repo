@@ -1,0 +1,1 @@
+../../../pool/sync/libgfshare-2.0.0-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/libdbi-docs-0.9.0-5-x86_64.pkg.tar.zst.sig

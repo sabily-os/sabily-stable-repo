@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-ansi-wl-pprint-0.6.9-280-x86_64.pkg.tar.zst.sig

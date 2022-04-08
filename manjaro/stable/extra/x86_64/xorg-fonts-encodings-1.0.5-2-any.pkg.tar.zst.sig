@@ -1,0 +1,1 @@
+../../../pool/sync/xorg-fonts-encodings-1.0.5-2-any.pkg.tar.zst.sig

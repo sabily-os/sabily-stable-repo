@@ -1,0 +1,1 @@
+../../../pool/sync/firefox-dark-reader-4.9.46-1-any.pkg.tar.zst.sig

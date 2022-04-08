@@ -1,0 +1,1 @@
+../../../pool/overlay/calamares-oem-infbkpro-kde-settings-20200211-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/percona-server-8.0.27_18-1-x86_64.pkg.tar.zst.sig

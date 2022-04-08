@@ -1,0 +1,1 @@
+../../../pool/overlay/grub-theme-manjaro-20.2-12-any.pkg.tar.zst.sig

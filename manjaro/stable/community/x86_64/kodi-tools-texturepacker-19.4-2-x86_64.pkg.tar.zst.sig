@@ -1,0 +1,1 @@
+../../../pool/sync/kodi-tools-texturepacker-19.4-2-x86_64.pkg.tar.zst.sig

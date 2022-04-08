@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-bytestring-strict-builder-0.4.5.5-13-x86_64.pkg.tar.zst.sig

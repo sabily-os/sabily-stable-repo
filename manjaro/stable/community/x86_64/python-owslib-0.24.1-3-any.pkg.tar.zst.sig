@@ -1,0 +1,1 @@
+../../../pool/sync/python-owslib-0.24.1-3-any.pkg.tar.zst.sig

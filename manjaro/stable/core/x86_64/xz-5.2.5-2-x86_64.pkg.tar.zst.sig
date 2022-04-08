@@ -1,0 +1,1 @@
+../../../pool/sync/xz-5.2.5-2-x86_64.pkg.tar.zst.sig

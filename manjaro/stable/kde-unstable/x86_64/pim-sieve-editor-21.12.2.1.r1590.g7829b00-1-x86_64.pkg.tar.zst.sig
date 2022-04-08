@@ -1,0 +1,1 @@
+../../../pool/overlay/pim-sieve-editor-21.12.2.1.r1590.g7829b00-1-x86_64.pkg.tar.zst.sig

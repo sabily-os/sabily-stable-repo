@@ -1,0 +1,1 @@
+../../../pool/sync/aws-c-mqtt-0.7.10-1-x86_64.pkg.tar.zst.sig

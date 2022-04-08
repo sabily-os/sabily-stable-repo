@@ -1,0 +1,1 @@
+../../../pool/sync/python-pytzdata-2020.1-5-any.pkg.tar.zst.sig

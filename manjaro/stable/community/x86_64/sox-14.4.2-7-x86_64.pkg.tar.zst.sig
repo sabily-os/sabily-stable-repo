@@ -1,0 +1,1 @@
+../../../pool/sync/sox-14.4.2-7-x86_64.pkg.tar.zst.sig

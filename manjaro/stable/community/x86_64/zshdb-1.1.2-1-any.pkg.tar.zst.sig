@@ -1,0 +1,1 @@
+../../../pool/sync/zshdb-1.1.2-1-any.pkg.tar.zst.sig

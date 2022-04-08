@@ -1,0 +1,1 @@
+../../../pool/sync/perl-net-smtp-ssl-1.04-4-any.pkg.tar.zst.sig

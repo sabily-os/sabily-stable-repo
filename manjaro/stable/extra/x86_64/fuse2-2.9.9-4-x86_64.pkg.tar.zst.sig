@@ -1,0 +1,1 @@
+../../../pool/sync/fuse2-2.9.9-4-x86_64.pkg.tar.zst.sig

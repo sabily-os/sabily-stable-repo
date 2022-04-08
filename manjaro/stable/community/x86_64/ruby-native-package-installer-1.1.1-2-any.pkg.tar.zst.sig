@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-native-package-installer-1.1.1-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-tweepy-4.6.0-1-any.pkg.tar.zst.sig

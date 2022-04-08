@@ -1,0 +1,1 @@
+../../../pool/sync/python-pytesseract-0.3.9-1-any.pkg.tar.zst.sig

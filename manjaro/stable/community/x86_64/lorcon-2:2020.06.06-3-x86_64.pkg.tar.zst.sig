@@ -1,0 +1,1 @@
+../../../pool/sync/lorcon-2:2020.06.06-3-x86_64.pkg.tar.zst.sig

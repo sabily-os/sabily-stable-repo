@@ -1,0 +1,1 @@
+../../../pool/sync/notion-1:4.0.2-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/coreboot-configurator-8-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/maliit-keyboard-2.2.0.r13.g45cf7d39-1-x86_64.pkg.tar.zst.sig

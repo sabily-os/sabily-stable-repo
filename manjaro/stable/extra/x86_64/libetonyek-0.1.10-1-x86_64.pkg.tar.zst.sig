@@ -1,0 +1,1 @@
+../../../pool/sync/libetonyek-0.1.10-1-x86_64.pkg.tar.zst.sig

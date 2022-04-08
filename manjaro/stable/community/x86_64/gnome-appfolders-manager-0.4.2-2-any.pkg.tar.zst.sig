@@ -1,0 +1,1 @@
+../../../pool/sync/gnome-appfolders-manager-0.4.2-2-any.pkg.tar.zst.sig

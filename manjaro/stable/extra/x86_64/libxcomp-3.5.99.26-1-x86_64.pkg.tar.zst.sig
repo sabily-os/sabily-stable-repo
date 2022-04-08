@@ -1,0 +1,1 @@
+../../../pool/sync/libxcomp-3.5.99.26-1-x86_64.pkg.tar.zst.sig

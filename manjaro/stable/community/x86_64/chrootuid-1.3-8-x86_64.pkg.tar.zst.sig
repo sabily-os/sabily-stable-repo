@@ -1,0 +1,1 @@
+../../../pool/sync/chrootuid-1.3-8-x86_64.pkg.tar.zst.sig

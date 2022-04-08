@@ -1,0 +1,1 @@
+../../../pool/overlay/kdecoration-5.24.2.r287.gd30a034-1-x86_64.pkg.tar.zst.sig

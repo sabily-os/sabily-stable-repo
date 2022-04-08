@@ -1,0 +1,1 @@
+../../../pool/sync/hyphen-de-20060120-5-any.pkg.tar.zst.sig

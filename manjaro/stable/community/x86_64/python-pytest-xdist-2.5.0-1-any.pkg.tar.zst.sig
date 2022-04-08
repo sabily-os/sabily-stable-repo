@@ -1,0 +1,1 @@
+../../../pool/sync/python-pytest-xdist-2.5.0-1-any.pkg.tar.zst.sig

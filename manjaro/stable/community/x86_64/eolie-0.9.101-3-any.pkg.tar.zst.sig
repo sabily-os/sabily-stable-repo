@@ -1,0 +1,1 @@
+../../../pool/sync/eolie-0.9.101-3-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/xorgproto-transfer-2019.12-1-any.pkg.tar.xz.sig

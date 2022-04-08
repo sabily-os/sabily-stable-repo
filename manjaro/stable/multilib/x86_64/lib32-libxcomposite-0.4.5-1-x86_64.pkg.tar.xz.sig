@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libxcomposite-0.4.5-1-x86_64.pkg.tar.xz.sig

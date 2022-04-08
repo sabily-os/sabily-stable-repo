@@ -1,0 +1,1 @@
+../../../pool/sync/plocate-1.1.15-2-x86_64.pkg.tar.zst.sig

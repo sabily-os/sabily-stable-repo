@@ -1,0 +1,1 @@
+../../../pool/sync/perl-image-info-1.41-5-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/gpg-tui-0.8.3-1-x86_64.pkg.tar.zst.sig

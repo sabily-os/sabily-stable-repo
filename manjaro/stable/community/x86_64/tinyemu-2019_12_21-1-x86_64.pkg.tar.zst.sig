@@ -1,0 +1,1 @@
+../../../pool/sync/tinyemu-2019_12_21-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-crate-0.26.0-3-any.pkg.tar.zst.sig

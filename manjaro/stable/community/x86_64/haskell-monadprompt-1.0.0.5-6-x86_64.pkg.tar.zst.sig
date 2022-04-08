@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-monadprompt-1.0.0.5-6-x86_64.pkg.tar.zst.sig

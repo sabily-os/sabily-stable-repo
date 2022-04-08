@@ -1,0 +1,1 @@
+../../../pool/sync/unrtf-0.21.10-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-text-show-3.9.3-2-x86_64.pkg.tar.zst.sig

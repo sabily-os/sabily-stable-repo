@@ -1,0 +1,1 @@
+../../../pool/sync/nginx-src-1.20.2-1-x86_64.pkg.tar.zst.sig

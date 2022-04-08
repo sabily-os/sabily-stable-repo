@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-hspec-wai-json-0.11.0-239-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-krb5-0.1.2-3-x86_64.pkg.tar.zst.sig

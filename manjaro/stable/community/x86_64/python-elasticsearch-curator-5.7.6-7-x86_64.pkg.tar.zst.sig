@@ -1,0 +1,1 @@
+../../../pool/sync/python-elasticsearch-curator-5.7.6-7-x86_64.pkg.tar.zst.sig

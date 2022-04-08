@@ -1,0 +1,1 @@
+../../../pool/sync/uget-2.2.3-4-x86_64.pkg.tar.zst.sig

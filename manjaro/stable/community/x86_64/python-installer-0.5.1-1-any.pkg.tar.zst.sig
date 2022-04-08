@@ -1,0 +1,1 @@
+../../../pool/sync/python-installer-0.5.1-1-any.pkg.tar.zst.sig

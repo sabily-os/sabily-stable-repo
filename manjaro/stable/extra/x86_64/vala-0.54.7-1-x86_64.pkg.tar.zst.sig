@@ -1,0 +1,1 @@
+../../../pool/sync/vala-0.54.7-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/lightdm-gtk-greeter-settings-1.2.2-7-any.pkg.tar.zst.sig

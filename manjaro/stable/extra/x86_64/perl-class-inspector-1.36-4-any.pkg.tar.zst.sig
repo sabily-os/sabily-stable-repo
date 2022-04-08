@@ -1,0 +1,1 @@
+../../../pool/sync/perl-class-inspector-1.36-4-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-mime-base32-1.303-7-any.pkg.tar.zst.sig

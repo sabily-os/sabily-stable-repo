@@ -1,0 +1,1 @@
+../../../pool/overlay/firefox-i18n-es-es-99.0-1-any.pkg.tar.zst.sig

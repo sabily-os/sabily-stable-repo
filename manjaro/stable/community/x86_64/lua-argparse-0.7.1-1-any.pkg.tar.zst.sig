@@ -1,0 +1,1 @@
+../../../pool/sync/lua-argparse-0.7.1-1-any.pkg.tar.zst.sig

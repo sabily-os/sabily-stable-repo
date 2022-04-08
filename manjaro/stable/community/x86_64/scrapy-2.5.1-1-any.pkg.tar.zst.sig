@@ -1,0 +1,1 @@
+../../../pool/sync/scrapy-2.5.1-1-any.pkg.tar.zst.sig

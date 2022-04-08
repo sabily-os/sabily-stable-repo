@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-tools-base-git-r2996.d3ab091-1-x86_64.pkg.tar.zst.sig

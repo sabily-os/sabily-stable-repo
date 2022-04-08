@@ -1,0 +1,1 @@
+../../../pool/sync/efivar-38-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-pysol_cards-0.14.2-3-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/awesome-wallpapers-20180305-1-any.pkg.tar.xz.sig

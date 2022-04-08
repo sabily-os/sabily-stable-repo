@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-swagger2-2.6.1-71-x86_64.pkg.tar.zst.sig

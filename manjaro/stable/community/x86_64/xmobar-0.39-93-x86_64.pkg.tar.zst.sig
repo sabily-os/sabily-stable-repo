@@ -1,0 +1,1 @@
+../../../pool/sync/xmobar-0.39-93-x86_64.pkg.tar.zst.sig

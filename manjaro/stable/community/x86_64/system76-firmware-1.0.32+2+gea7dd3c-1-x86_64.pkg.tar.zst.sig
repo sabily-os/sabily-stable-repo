@@ -1,0 +1,1 @@
+../../../pool/overlay/system76-firmware-1.0.32+2+gea7dd3c-1-x86_64.pkg.tar.zst.sig

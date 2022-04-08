@@ -1,0 +1,1 @@
+../../../pool/sync/pacparser-1.3.7rc6-2-x86_64.pkg.tar.zst.sig

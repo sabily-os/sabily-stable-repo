@@ -1,0 +1,1 @@
+../../../pool/sync/python-setuptools-rust-0.12.1-3-any.pkg.tar.zst.sig

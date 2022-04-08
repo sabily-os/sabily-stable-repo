@@ -1,0 +1,1 @@
+../../../pool/sync/perl-mail-transport-dbx-0.07-20-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-githash-0.1.6.2-66-x86_64.pkg.tar.zst.sig

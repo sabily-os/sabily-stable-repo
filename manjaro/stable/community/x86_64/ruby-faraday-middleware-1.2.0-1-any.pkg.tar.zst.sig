@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-faraday-middleware-1.2.0-1-any.pkg.tar.zst.sig

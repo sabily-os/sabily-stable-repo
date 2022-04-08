@@ -1,0 +1,1 @@
+../../../pool/sync/python-dephell-0.8.3-7-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-class-methodmaker-2.24-10-x86_64.pkg.tar.zst.sig

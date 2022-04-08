@@ -1,0 +1,1 @@
+../../../pool/overlay/plasma-mobile-5.24.2.r1651.gaa6db65cc-1-x86_64.pkg.tar.zst.sig

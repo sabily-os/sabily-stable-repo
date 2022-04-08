@@ -1,0 +1,1 @@
+../../../pool/sync/whipper-0.10.0-4-x86_64.pkg.tar.zst.sig

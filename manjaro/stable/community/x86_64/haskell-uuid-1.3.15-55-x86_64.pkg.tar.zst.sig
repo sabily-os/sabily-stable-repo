@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-uuid-1.3.15-55-x86_64.pkg.tar.zst.sig

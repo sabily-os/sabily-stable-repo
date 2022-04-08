@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-forwardable-extended-2.6.0-6-any.pkg.tar.zst.sig

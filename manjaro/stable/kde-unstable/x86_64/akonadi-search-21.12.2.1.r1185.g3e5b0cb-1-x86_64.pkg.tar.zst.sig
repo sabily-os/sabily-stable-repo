@@ -1,0 +1,1 @@
+../../../pool/overlay/akonadi-search-21.12.2.1.r1185.g3e5b0cb-1-x86_64.pkg.tar.zst.sig

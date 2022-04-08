@@ -1,0 +1,1 @@
+../../../pool/sync/python-pythondialog-3.5.3-1-any.pkg.tar.zst.sig

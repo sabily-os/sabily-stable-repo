@@ -1,0 +1,1 @@
+../../../pool/overlay/plasma-vault-5.24.2.r374.g05a2eb9-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-spiffy-0.46-4-any.pkg.tar.zst.sig

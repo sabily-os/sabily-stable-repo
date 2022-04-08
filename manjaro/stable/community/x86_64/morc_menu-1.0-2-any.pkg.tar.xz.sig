@@ -1,0 +1,1 @@
+../../../pool/overlay/morc_menu-1.0-2-any.pkg.tar.xz.sig

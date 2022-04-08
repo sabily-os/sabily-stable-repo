@@ -1,0 +1,1 @@
+../../../pool/sync/mobile-broadband-provider-info-20210805-1-any.pkg.tar.zst.sig

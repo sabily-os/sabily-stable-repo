@@ -1,0 +1,1 @@
+../../../pool/sync/opera-84.0.4316.31-1-x86_64.pkg.tar.zst.sig

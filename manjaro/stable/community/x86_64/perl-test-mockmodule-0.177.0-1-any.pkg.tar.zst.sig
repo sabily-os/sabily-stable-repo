@@ -1,0 +1,1 @@
+../../../pool/sync/perl-test-mockmodule-0.177.0-1-any.pkg.tar.zst.sig

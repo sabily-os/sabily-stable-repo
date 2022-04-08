@@ -1,0 +1,1 @@
+../../../pool/overlay/systemd-boot-manager-0.9+22+gb85534b-1-any.pkg.tar.zst.sig

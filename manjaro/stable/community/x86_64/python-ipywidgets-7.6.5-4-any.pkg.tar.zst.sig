@@ -1,0 +1,1 @@
+../../../pool/sync/python-ipywidgets-7.6.5-4-any.pkg.tar.zst.sig

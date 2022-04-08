@@ -1,0 +1,1 @@
+../../../pool/sync/kodi-addon-game-libretro-mupen64plus-nx-1:2.2.0.22-6-x86_64.pkg.tar.zst.sig

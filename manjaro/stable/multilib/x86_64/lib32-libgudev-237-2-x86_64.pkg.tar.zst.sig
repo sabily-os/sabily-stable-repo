@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libgudev-237-2-x86_64.pkg.tar.zst.sig

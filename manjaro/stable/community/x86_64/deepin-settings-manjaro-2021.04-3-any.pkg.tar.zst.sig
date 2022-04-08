@@ -1,0 +1,1 @@
+../../../pool/overlay/deepin-settings-manjaro-2021.04-3-any.pkg.tar.zst.sig

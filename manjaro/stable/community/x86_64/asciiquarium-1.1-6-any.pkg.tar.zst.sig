@@ -1,0 +1,1 @@
+../../../pool/sync/asciiquarium-1.1-6-any.pkg.tar.zst.sig

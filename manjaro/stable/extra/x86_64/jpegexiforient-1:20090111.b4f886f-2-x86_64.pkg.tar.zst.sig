@@ -1,0 +1,1 @@
+../../../pool/sync/jpegexiforient-1:20090111.b4f886f-2-x86_64.pkg.tar.zst.sig

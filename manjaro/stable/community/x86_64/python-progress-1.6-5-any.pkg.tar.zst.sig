@@ -1,0 +1,1 @@
+../../../pool/sync/python-progress-1.6-5-any.pkg.tar.zst.sig

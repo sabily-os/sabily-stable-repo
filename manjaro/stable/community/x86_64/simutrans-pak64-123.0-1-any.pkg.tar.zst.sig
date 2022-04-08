@@ -1,0 +1,1 @@
+../../../pool/sync/simutrans-pak64-123.0-1-any.pkg.tar.zst.sig

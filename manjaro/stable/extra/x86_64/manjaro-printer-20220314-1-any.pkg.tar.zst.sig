@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-printer-20220314-1-any.pkg.tar.zst.sig

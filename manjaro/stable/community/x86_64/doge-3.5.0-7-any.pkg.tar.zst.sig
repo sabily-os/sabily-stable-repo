@@ -1,0 +1,1 @@
+../../../pool/sync/doge-3.5.0-7-any.pkg.tar.zst.sig

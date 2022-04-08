@@ -1,0 +1,1 @@
+../../../pool/sync/firefox-tridactyl-1.22.0-1-any.pkg.tar.zst.sig

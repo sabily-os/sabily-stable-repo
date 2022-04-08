@@ -1,0 +1,1 @@
+../../../pool/sync/python-docopt-0.6.2-11-any.pkg.tar.zst.sig

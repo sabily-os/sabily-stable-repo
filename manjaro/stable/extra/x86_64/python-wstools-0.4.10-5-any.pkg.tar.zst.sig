@@ -1,0 +1,1 @@
+../../../pool/sync/python-wstools-0.4.10-5-any.pkg.tar.zst.sig

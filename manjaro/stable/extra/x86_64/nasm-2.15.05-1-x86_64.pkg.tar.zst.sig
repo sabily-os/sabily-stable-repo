@@ -1,0 +1,1 @@
+../../../pool/sync/nasm-2.15.05-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/shaderc-2022.1-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-keystoneauth1-4.4.0-3-any.pkg.tar.zst.sig

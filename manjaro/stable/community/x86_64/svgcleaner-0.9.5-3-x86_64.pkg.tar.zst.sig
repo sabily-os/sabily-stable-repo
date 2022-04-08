@@ -1,0 +1,1 @@
+../../../pool/sync/svgcleaner-0.9.5-3-x86_64.pkg.tar.zst.sig

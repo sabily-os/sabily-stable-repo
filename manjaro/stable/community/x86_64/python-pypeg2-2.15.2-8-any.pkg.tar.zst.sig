@@ -1,0 +1,1 @@
+../../../pool/sync/python-pypeg2-2.15.2-8-any.pkg.tar.zst.sig

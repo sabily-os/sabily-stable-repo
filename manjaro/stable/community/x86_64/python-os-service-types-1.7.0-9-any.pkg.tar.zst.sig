@@ -1,0 +1,1 @@
+../../../pool/sync/python-os-service-types-1.7.0-9-any.pkg.tar.zst.sig

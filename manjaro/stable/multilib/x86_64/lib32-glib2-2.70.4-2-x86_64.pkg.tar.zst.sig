@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-glib2-2.70.4-2-x86_64.pkg.tar.zst.sig

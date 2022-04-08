@@ -1,0 +1,1 @@
+../../../pool/overlay/kactivities-stats-5.91.0.r398.g85ce556-1-x86_64.pkg.tar.zst.sig

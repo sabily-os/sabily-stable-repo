@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-retrie-1.1.0.0-13-x86_64.pkg.tar.zst.sig

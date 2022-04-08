@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-tasty-discover-4.2.2-135-x86_64.pkg.tar.zst.sig

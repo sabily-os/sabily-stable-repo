@@ -1,0 +1,1 @@
+../../../pool/sync/libbf-2020.01.19-1-x86_64.pkg.tar.zst.sig

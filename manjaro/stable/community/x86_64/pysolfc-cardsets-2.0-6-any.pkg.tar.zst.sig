@@ -1,0 +1,1 @@
+../../../pool/sync/pysolfc-cardsets-2.0-6-any.pkg.tar.zst.sig

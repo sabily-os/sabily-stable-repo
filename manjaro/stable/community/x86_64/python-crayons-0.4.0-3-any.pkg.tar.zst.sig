@@ -1,0 +1,1 @@
+../../../pool/sync/python-crayons-0.4.0-3-any.pkg.tar.zst.sig

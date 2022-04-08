@@ -1,0 +1,1 @@
+../../../pool/sync/pantheon-files-6.1.2-2-x86_64.pkg.tar.zst.sig

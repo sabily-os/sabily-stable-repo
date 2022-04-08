@@ -1,0 +1,1 @@
+../../../pool/sync/gnome-icon-theme-3.12.0-6-any.pkg.tar.zst.sig

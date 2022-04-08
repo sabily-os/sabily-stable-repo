@@ -1,0 +1,1 @@
+../../../pool/sync/mono-msbuild-sdkresolver-16.10.1.xamarinxplat.2021.05.26.14.00-2-x86_64.pkg.tar.zst.sig

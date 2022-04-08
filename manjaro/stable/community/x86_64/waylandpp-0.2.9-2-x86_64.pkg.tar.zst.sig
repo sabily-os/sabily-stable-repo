@@ -1,0 +1,1 @@
+../../../pool/sync/waylandpp-0.2.9-2-x86_64.pkg.tar.zst.sig

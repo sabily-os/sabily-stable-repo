@@ -1,0 +1,1 @@
+../../../pool/sync/perl-test-mockobject-1.20180705-2-any.pkg.tar.zst.sig

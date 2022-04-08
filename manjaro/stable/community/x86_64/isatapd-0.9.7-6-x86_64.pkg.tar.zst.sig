@@ -1,0 +1,1 @@
+../../../pool/sync/isatapd-0.9.7-6-x86_64.pkg.tar.zst.sig

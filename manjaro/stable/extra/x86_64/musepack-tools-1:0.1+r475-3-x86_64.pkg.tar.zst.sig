@@ -1,0 +1,1 @@
+../../../pool/sync/musepack-tools-1:0.1+r475-3-x86_64.pkg.tar.zst.sig

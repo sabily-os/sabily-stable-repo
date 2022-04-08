@@ -1,0 +1,1 @@
+../../../pool/overlay/thunderbird-i18n-vi-91.8.0-1-x86_64.pkg.tar.zst.sig

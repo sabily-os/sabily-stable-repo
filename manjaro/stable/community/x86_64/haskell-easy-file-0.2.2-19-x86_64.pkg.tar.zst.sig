@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-easy-file-0.2.2-19-x86_64.pkg.tar.zst.sig

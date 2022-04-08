@@ -1,0 +1,1 @@
+../../../pool/sync/python-pasta-0.2.0-6-any.pkg.tar.zst.sig

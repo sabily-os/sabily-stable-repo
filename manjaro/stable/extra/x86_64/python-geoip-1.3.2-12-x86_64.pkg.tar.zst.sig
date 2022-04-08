@@ -1,0 +1,1 @@
+../../../pool/sync/python-geoip-1.3.2-12-x86_64.pkg.tar.zst.sig

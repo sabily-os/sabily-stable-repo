@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-vector-sized-1.5.0-38-x86_64.pkg.tar.zst.sig

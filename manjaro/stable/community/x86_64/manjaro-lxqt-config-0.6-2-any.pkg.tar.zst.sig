@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-lxqt-config-0.6-2-any.pkg.tar.zst.sig

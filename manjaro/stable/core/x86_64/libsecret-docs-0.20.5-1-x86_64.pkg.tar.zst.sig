@@ -1,0 +1,1 @@
+../../../pool/sync/libsecret-docs-0.20.5-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/libe-book-0.1.3-10-x86_64.pkg.tar.zst.sig

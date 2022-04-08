@@ -1,0 +1,1 @@
+../../../pool/sync/python-argon2_cffi-21.3.0-1-x86_64.pkg.tar.zst.sig

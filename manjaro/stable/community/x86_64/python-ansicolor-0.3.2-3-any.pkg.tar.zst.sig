@@ -1,0 +1,1 @@
+../../../pool/sync/python-ansicolor-0.3.2-3-any.pkg.tar.zst.sig

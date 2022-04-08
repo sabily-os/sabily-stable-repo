@@ -1,0 +1,1 @@
+../../../pool/sync/python-pylink-square-0.11.1-2-any.pkg.tar.zst.sig

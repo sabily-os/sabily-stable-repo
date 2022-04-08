@@ -1,0 +1,1 @@
+../../../pool/overlay/budgie-sysmonitor-applet-0.9.0-1-any.pkg.tar.zst.sig

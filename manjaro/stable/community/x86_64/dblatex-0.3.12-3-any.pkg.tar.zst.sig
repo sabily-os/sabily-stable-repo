@@ -1,0 +1,1 @@
+../../../pool/sync/dblatex-0.3.12-3-any.pkg.tar.zst.sig

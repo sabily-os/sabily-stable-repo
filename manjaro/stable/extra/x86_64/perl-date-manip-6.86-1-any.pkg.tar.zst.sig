@@ -1,0 +1,1 @@
+../../../pool/sync/perl-date-manip-6.86-1-any.pkg.tar.zst.sig

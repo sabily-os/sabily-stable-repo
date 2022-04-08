@@ -1,0 +1,1 @@
+../../../pool/sync/prometheus-blackbox-exporter-0.19.0-1-x86_64.pkg.tar.zst.sig

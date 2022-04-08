@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-tasty-inspection-testing-0.1-67-x86_64.pkg.tar.zst.sig

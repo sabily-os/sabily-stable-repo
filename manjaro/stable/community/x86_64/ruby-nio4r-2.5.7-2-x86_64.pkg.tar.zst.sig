@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-nio4r-2.5.7-2-x86_64.pkg.tar.zst.sig

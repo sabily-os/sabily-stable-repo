@@ -1,0 +1,1 @@
+../../../pool/sync/python-sympy-1.10-1-any.pkg.tar.zst.sig

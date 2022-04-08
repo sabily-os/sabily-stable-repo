@@ -1,0 +1,1 @@
+../../../pool/sync/libopencm3-r2768.470a1394-1-any.pkg.tar.zst.sig

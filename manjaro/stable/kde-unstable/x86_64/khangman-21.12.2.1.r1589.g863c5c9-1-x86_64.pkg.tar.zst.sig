@@ -1,0 +1,1 @@
+../../../pool/overlay/khangman-21.12.2.1.r1589.g863c5c9-1-x86_64.pkg.tar.zst.sig

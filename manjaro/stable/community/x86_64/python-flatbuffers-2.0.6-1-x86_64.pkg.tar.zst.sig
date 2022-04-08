@@ -1,0 +1,1 @@
+../../../pool/sync/python-flatbuffers-2.0.6-1-x86_64.pkg.tar.zst.sig

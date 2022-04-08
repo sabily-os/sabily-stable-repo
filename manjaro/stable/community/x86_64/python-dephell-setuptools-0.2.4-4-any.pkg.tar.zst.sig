@@ -1,0 +1,1 @@
+../../../pool/sync/python-dephell-setuptools-0.2.4-4-any.pkg.tar.zst.sig

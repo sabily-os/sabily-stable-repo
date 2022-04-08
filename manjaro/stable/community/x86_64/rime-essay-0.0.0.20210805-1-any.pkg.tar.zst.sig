@@ -1,0 +1,1 @@
+../../../pool/sync/rime-essay-0.0.0.20210805-1-any.pkg.tar.zst.sig

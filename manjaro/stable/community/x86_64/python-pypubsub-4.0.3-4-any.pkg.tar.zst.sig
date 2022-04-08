@@ -1,0 +1,1 @@
+../../../pool/sync/python-pypubsub-4.0.3-4-any.pkg.tar.zst.sig

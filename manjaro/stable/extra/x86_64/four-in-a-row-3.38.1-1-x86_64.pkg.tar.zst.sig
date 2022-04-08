@@ -1,0 +1,1 @@
+../../../pool/sync/four-in-a-row-3.38.1-1-x86_64.pkg.tar.zst.sig

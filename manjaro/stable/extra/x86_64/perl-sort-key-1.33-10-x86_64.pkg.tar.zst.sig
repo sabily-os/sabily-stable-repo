@@ -1,0 +1,1 @@
+../../../pool/sync/perl-sort-key-1.33-10-x86_64.pkg.tar.zst.sig

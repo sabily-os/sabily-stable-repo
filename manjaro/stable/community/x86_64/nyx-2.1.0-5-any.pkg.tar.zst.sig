@@ -1,0 +1,1 @@
+../../../pool/sync/nyx-2.1.0-5-any.pkg.tar.zst.sig

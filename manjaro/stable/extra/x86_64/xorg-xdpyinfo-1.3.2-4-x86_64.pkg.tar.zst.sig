@@ -1,0 +1,1 @@
+../../../pool/sync/xorg-xdpyinfo-1.3.2-4-x86_64.pkg.tar.zst.sig

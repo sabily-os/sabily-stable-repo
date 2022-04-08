@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-efi-utils-20170307-1-x86_64.pkg.tar.xz.sig

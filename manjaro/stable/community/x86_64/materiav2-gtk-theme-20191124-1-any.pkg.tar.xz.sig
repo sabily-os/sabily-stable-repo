@@ -1,0 +1,1 @@
+../../../pool/overlay/materiav2-gtk-theme-20191124-1-any.pkg.tar.xz.sig

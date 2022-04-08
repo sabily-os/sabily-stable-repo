@@ -1,0 +1,1 @@
+../../../pool/sync/coq-doc-8.15.0-2-x86_64.pkg.tar.zst.sig

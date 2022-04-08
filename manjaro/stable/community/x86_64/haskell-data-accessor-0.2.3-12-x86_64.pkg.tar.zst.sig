@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-data-accessor-0.2.3-12-x86_64.pkg.tar.zst.sig

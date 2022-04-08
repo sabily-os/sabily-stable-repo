@@ -1,0 +1,1 @@
+../../../pool/sync/fcitx-table-extra-0.3.8-2-any.pkg.tar.zst.sig

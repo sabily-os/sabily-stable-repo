@@ -1,0 +1,1 @@
+../../../pool/sync/gwakeonlan-0.7.0-3-any.pkg.tar.zst.sig

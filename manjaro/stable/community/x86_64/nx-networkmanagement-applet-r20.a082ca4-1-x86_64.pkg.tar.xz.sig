@@ -1,0 +1,1 @@
+../../../pool/overlay/nx-networkmanagement-applet-r20.a082ca4-1-x86_64.pkg.tar.xz.sig

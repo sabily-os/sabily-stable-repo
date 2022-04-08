@@ -1,0 +1,1 @@
+../../../pool/sync/python-translationstring-1.4-5-any.pkg.tar.zst.sig

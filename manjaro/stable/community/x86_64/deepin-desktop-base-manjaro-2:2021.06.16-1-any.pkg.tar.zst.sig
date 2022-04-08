@@ -1,0 +1,1 @@
+../../../pool/overlay/deepin-desktop-base-manjaro-2:2021.06.16-1-any.pkg.tar.zst.sig

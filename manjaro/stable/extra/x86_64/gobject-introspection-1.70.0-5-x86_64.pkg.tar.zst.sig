@@ -1,0 +1,1 @@
+../../../pool/sync/gobject-introspection-1.70.0-5-x86_64.pkg.tar.zst.sig

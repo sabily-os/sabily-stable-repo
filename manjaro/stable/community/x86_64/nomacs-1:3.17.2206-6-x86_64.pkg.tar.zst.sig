@@ -1,0 +1,1 @@
+../../../pool/sync/nomacs-1:3.17.2206-6-x86_64.pkg.tar.zst.sig

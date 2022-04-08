@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-store-core-0.4.4.4-96-x86_64.pkg.tar.zst.sig

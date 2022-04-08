@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libxkbcommon-x11-1.4.0-1-x86_64.pkg.tar.zst.sig

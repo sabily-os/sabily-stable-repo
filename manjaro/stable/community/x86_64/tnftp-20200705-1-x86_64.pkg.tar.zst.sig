@@ -1,0 +1,1 @@
+../../../pool/sync/tnftp-20200705-1-x86_64.pkg.tar.zst.sig

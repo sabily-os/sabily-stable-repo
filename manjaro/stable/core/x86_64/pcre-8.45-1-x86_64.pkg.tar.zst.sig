@@ -1,0 +1,1 @@
+../../../pool/sync/pcre-8.45-1-x86_64.pkg.tar.zst.sig

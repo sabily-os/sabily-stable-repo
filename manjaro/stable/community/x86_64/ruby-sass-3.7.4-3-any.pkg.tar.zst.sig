@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-sass-3.7.4-3-any.pkg.tar.zst.sig

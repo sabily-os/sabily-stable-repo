@@ -1,0 +1,1 @@
+../../../pool/sync/singular-4.3.0.p1-1-x86_64.pkg.tar.zst.sig

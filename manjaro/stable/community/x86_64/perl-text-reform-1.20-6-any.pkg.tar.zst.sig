@@ -1,0 +1,1 @@
+../../../pool/sync/perl-text-reform-1.20-6-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/mailnag-gnome-shell-40.0-2-x86_64.pkg.tar.zst.sig

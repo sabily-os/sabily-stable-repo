@@ -1,0 +1,1 @@
+../../../pool/sync/libtg_owt-0.git12.a264028-1-x86_64.pkg.tar.zst.sig

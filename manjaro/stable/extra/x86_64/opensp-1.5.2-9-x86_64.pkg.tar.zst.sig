@@ -1,0 +1,1 @@
+../../../pool/sync/opensp-1.5.2-9-x86_64.pkg.tar.zst.sig

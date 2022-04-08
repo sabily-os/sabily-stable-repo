@@ -1,0 +1,1 @@
+../../../pool/sync/bogofilter-1.2.5-4-x86_64.pkg.tar.zst.sig

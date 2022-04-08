@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libwebp-1.2.2-1-x86_64.pkg.tar.zst.sig

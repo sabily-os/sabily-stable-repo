@@ -1,0 +1,1 @@
+../../../pool/sync/ibus-libpinyin-1.12.1-2-x86_64.pkg.tar.zst.sig

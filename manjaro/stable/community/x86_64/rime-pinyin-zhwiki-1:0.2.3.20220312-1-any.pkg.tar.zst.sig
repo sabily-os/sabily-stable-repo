@@ -1,0 +1,1 @@
+../../../pool/sync/rime-pinyin-zhwiki-1:0.2.3.20220312-1-any.pkg.tar.zst.sig

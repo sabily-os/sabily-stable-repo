@@ -1,0 +1,1 @@
+../../../pool/overlay/kscreenlocker-5.24.2.r910.g9d3a95f-1-x86_64.pkg.tar.zst.sig

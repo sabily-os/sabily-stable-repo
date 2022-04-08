@@ -1,0 +1,1 @@
+../../../pool/sync/gengetopt-2.23-2-x86_64.pkg.tar.zst.sig

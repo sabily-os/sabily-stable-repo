@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-alsa-oss-1.1.8-3-x86_64.pkg.tar.zst.sig

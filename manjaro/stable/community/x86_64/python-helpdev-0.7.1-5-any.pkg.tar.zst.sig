@@ -1,0 +1,1 @@
+../../../pool/sync/python-helpdev-0.7.1-5-any.pkg.tar.zst.sig

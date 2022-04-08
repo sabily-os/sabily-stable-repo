@@ -1,0 +1,1 @@
+../../../pool/sync/prjtrellis-db-r262.f7f8375-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/i7z-0.27.2.git1-8-x86_64.pkg.tar.zst.sig

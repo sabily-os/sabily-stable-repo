@@ -1,0 +1,1 @@
+../../../pool/sync/d-mir-core-1.1.14-8-x86_64.pkg.tar.zst.sig

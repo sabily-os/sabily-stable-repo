@@ -1,0 +1,1 @@
+../../../pool/sync/python-pytest-dependency-0.5.1-3-any.pkg.tar.zst.sig

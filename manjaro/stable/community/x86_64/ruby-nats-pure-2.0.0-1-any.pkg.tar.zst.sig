@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-nats-pure-2.0.0-1-any.pkg.tar.zst.sig

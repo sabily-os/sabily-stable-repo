@@ -1,0 +1,1 @@
+../../../pool/sync/java-openjfx-17.0.3.u0-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/openbox-themes-extra-1.0-4-any.pkg.tar.xz.sig

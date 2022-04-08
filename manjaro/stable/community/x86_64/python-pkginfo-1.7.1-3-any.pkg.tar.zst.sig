@@ -1,0 +1,1 @@
+../../../pool/sync/python-pkginfo-1.7.1-3-any.pkg.tar.zst.sig

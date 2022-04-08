@@ -1,0 +1,1 @@
+../../../pool/sync/ipp-usb-0.9.19-1-x86_64.pkg.tar.zst.sig

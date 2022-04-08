@@ -1,0 +1,1 @@
+../../../pool/sync/mailcommon-21.12.3-2-x86_64.pkg.tar.zst.sig

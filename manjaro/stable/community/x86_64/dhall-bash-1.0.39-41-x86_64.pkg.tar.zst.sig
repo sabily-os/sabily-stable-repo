@@ -1,0 +1,1 @@
+../../../pool/sync/dhall-bash-1.0.39-41-x86_64.pkg.tar.zst.sig

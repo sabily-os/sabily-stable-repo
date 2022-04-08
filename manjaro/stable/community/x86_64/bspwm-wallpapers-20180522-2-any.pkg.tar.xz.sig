@@ -1,0 +1,1 @@
+../../../pool/overlay/bspwm-wallpapers-20180522-2-any.pkg.tar.xz.sig

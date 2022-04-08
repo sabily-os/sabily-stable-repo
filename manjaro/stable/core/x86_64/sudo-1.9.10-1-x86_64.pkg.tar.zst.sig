@@ -1,0 +1,1 @@
+../../../pool/sync/sudo-1.9.10-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-lukko-0.1.1.3-70-x86_64.pkg.tar.zst.sig

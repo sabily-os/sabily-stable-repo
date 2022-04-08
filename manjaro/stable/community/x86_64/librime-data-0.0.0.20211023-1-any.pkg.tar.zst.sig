@@ -1,0 +1,1 @@
+../../../pool/sync/librime-data-0.0.0.20211023-1-any.pkg.tar.zst.sig

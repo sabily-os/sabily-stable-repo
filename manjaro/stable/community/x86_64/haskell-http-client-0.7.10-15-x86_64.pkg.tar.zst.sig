@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-http-client-0.7.10-15-x86_64.pkg.tar.zst.sig

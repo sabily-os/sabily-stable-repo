@@ -1,0 +1,1 @@
+../../../pool/sync/qt5-3d-5.15.3+kde+r18-1-x86_64.pkg.tar.zst.sig

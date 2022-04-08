@@ -1,0 +1,1 @@
+../../../pool/sync/pylama-7.7.1-8-any.pkg.tar.zst.sig

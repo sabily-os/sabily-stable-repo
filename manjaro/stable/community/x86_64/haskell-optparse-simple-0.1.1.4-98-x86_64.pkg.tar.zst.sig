@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-optparse-simple-0.1.1.4-98-x86_64.pkg.tar.zst.sig

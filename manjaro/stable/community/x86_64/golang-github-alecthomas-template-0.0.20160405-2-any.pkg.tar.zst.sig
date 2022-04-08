@@ -1,0 +1,1 @@
+../../../pool/sync/golang-github-alecthomas-template-0.0.20160405-2-any.pkg.tar.zst.sig

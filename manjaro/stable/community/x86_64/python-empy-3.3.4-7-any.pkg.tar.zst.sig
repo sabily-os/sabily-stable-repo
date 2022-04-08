@@ -1,0 +1,1 @@
+../../../pool/sync/python-empy-3.3.4-7-any.pkg.tar.zst.sig

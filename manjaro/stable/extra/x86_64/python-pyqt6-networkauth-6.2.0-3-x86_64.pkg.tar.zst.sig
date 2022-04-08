@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyqt6-networkauth-6.2.0-3-x86_64.pkg.tar.zst.sig

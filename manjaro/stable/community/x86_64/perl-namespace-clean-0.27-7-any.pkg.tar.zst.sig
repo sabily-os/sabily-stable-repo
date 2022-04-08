@@ -1,0 +1,1 @@
+../../../pool/sync/perl-namespace-clean-0.27-7-any.pkg.tar.zst.sig

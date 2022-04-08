@@ -1,0 +1,1 @@
+../../../pool/sync/python-peewee-3.14.8-4-x86_64.pkg.tar.zst.sig

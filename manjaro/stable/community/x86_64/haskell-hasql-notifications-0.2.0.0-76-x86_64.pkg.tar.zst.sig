@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-hasql-notifications-0.2.0.0-76-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/xcursor-chameleon-pearl-0.5-5-any.pkg.tar.zst.sig

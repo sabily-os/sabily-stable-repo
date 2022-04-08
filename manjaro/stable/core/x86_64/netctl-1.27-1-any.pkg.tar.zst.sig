@@ -1,0 +1,1 @@
+../../../pool/sync/netctl-1.27-1-any.pkg.tar.zst.sig

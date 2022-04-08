@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-mysql-0.2.1-16-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/brook-20210701-1-x86_64.pkg.tar.zst.sig

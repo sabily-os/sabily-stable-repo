@@ -1,0 +1,1 @@
+../../../pool/sync/parallel-20220222-1-any.pkg.tar.zst.sig

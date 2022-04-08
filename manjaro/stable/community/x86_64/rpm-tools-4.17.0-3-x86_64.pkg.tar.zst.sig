@@ -1,0 +1,1 @@
+../../../pool/sync/rpm-tools-4.17.0-3-x86_64.pkg.tar.zst.sig

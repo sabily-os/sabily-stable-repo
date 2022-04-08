@@ -1,0 +1,1 @@
+../../../pool/sync/python-apsw-3.36.0-2-x86_64.pkg.tar.zst.sig

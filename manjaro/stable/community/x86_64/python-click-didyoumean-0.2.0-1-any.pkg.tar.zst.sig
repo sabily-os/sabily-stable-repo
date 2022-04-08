@@ -1,0 +1,1 @@
+../../../pool/sync/python-click-didyoumean-0.2.0-1-any.pkg.tar.zst.sig

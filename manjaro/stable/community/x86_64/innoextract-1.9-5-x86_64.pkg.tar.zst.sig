@@ -1,0 +1,1 @@
+../../../pool/sync/innoextract-1.9-5-x86_64.pkg.tar.zst.sig

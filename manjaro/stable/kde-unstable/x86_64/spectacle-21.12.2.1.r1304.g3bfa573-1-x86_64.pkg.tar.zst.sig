@@ -1,0 +1,1 @@
+../../../pool/overlay/spectacle-21.12.2.1.r1304.g3bfa573-1-x86_64.pkg.tar.zst.sig

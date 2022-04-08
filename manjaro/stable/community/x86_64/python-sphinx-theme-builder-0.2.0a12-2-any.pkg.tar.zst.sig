@@ -1,0 +1,1 @@
+../../../pool/sync/python-sphinx-theme-builder-0.2.0a12-2-any.pkg.tar.zst.sig

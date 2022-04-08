@@ -1,0 +1,1 @@
+../../../pool/sync/python-jose-3.3.0-3-any.pkg.tar.zst.sig

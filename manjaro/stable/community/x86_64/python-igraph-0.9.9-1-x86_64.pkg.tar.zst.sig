@@ -1,0 +1,1 @@
+../../../pool/sync/python-igraph-0.9.9-1-x86_64.pkg.tar.zst.sig

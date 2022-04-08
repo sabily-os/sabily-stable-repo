@@ -1,0 +1,1 @@
+../../../pool/sync/dosemu-1:1.4.0.8+753+g18f6f5cd-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/spampd-2.61-1-any.pkg.tar.zst.sig

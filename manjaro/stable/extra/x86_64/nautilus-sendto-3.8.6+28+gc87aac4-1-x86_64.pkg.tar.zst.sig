@@ -1,0 +1,1 @@
+../../../pool/sync/nautilus-sendto-3.8.6+28+gc87aac4-1-x86_64.pkg.tar.zst.sig

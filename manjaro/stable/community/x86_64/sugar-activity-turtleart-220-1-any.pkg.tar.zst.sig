@@ -1,0 +1,1 @@
+../../../pool/sync/sugar-activity-turtleart-220-1-any.pkg.tar.zst.sig

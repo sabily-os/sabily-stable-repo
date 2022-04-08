@@ -1,0 +1,1 @@
+../../../pool/sync/catatonit-0.1.7-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/ibus-unikey-0.6.1-6-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/xosd-2.2.14-10-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-hotfixes-2018.08-6-any.pkg.tar.xz.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/mpc-0.34-2-x86_64.pkg.tar.zst.sig

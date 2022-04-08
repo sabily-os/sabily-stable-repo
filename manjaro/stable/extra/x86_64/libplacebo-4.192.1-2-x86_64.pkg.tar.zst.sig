@@ -1,0 +1,1 @@
+../../../pool/sync/libplacebo-4.192.1-2-x86_64.pkg.tar.zst.sig

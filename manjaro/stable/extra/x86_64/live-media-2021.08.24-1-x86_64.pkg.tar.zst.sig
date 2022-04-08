@@ -1,0 +1,1 @@
+../../../pool/sync/live-media-2021.08.24-1-x86_64.pkg.tar.zst.sig

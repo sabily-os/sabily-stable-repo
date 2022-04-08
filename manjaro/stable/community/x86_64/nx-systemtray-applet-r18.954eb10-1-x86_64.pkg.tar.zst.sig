@@ -1,0 +1,1 @@
+../../../pool/overlay/nx-systemtray-applet-r18.954eb10-1-x86_64.pkg.tar.zst.sig

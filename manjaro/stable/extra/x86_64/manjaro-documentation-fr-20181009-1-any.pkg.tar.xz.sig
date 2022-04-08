@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-documentation-fr-20181009-1-any.pkg.tar.xz.sig

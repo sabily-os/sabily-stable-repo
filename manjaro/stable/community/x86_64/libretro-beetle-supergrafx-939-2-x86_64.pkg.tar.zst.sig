@@ -1,0 +1,1 @@
+../../../pool/sync/libretro-beetle-supergrafx-939-2-x86_64.pkg.tar.zst.sig

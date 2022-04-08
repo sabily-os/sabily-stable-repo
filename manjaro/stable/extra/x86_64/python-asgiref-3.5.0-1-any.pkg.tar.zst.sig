@@ -1,0 +1,1 @@
+../../../pool/sync/python-asgiref-3.5.0-1-any.pkg.tar.zst.sig

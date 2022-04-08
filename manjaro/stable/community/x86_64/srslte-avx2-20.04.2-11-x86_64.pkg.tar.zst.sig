@@ -1,0 +1,1 @@
+../../../pool/sync/srslte-avx2-20.04.2-11-x86_64.pkg.tar.zst.sig

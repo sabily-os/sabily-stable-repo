@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-cinnamon-settings-20210906-1-any.pkg.tar.zst.sig

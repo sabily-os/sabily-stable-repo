@@ -1,0 +1,1 @@
+../../../pool/sync/dd_rescue-1.99.11-1-x86_64.pkg.tar.zst.sig

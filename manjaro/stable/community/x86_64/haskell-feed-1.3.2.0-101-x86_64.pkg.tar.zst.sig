@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-feed-1.3.2.0-101-x86_64.pkg.tar.zst.sig

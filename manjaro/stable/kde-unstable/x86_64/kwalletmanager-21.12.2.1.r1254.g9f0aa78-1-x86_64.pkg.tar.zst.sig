@@ -1,0 +1,1 @@
+../../../pool/overlay/kwalletmanager-21.12.2.1.r1254.g9f0aa78-1-x86_64.pkg.tar.zst.sig

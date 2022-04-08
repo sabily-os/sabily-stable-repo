@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-x509-store-1.6.9-7-x86_64.pkg.tar.zst.sig

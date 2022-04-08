@@ -1,0 +1,1 @@
+../../../pool/sync/chmlib-0.40-6-x86_64.pkg.tar.zst.sig

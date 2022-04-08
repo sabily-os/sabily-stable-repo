@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-quickcheck-2.14.2-275-x86_64.pkg.tar.zst.sig

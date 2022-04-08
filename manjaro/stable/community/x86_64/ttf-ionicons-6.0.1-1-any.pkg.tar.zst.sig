@@ -1,0 +1,1 @@
+../../../pool/sync/ttf-ionicons-6.0.1-1-any.pkg.tar.zst.sig

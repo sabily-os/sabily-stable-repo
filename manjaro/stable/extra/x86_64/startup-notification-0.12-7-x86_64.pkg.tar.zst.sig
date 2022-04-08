@@ -1,0 +1,1 @@
+../../../pool/sync/startup-notification-0.12-7-x86_64.pkg.tar.zst.sig

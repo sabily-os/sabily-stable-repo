@@ -1,0 +1,1 @@
+../../../pool/sync/python-betamax-0.8.1-9-any.pkg.tar.zst.sig

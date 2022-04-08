@@ -1,0 +1,1 @@
+../../../pool/sync/startdde-5.8.29-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/arc-themes-solid-maia-20220223-1-any.pkg.tar.zst.sig

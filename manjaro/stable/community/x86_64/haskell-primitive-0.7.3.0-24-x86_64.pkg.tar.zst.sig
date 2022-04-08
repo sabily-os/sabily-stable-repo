@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-primitive-0.7.3.0-24-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-memcached-1.59-9-any.pkg.tar.zst.sig

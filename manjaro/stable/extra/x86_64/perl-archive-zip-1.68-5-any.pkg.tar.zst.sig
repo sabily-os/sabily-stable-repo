@@ -1,0 +1,1 @@
+../../../pool/sync/perl-archive-zip-1.68-5-any.pkg.tar.zst.sig

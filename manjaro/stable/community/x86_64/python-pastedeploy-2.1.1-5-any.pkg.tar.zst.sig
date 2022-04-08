@@ -1,0 +1,1 @@
+../../../pool/sync/python-pastedeploy-2.1.1-5-any.pkg.tar.zst.sig

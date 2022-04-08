@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-invariant-0.5.5-15-x86_64.pkg.tar.zst.sig

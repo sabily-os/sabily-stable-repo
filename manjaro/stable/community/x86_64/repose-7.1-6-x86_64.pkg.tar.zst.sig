@@ -1,0 +1,1 @@
+../../../pool/sync/repose-7.1-6-x86_64.pkg.tar.zst.sig

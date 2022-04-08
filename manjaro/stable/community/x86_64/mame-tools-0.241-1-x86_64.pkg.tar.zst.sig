@@ -1,0 +1,1 @@
+../../../pool/sync/mame-tools-0.241-1-x86_64.pkg.tar.zst.sig

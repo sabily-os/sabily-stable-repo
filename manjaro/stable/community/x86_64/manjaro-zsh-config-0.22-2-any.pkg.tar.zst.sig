@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-zsh-config-0.22-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/dbus-c++-0.9.0-9-x86_64.pkg.tar.xz.sig

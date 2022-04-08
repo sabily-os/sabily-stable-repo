@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-rio-prettyprint-0.1.1.0-188-x86_64.pkg.tar.zst.sig

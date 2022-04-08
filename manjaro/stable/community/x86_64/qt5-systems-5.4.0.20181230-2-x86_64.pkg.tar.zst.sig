@@ -1,0 +1,1 @@
+../../../pool/sync/qt5-systems-5.4.0.20181230-2-x86_64.pkg.tar.zst.sig

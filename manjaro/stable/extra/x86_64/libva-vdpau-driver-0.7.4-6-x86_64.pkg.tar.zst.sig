@@ -1,0 +1,1 @@
+../../../pool/sync/libva-vdpau-driver-0.7.4-6-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/kjumpingcube-21.12.2.1.r814.g8da9f19-1-x86_64.pkg.tar.zst.sig

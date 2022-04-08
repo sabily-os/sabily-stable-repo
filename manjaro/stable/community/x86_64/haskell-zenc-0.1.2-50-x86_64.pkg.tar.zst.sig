@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-zenc-0.1.2-50-x86_64.pkg.tar.zst.sig

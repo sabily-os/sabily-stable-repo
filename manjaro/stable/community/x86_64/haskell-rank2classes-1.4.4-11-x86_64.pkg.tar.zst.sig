@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-rank2classes-1.4.4-11-x86_64.pkg.tar.zst.sig

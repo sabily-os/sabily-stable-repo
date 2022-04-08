@@ -1,0 +1,1 @@
+../../../pool/sync/libcorkipset-1.1.1+20150311-3-x86_64.pkg.tar.zst.sig

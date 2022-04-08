@@ -1,0 +1,1 @@
+../../../pool/sync/clementine-1.4.0rc1+776+gcefe81d0c-1-x86_64.pkg.tar.zst.sig

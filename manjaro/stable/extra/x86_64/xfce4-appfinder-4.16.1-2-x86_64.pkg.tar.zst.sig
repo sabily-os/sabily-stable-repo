@@ -1,0 +1,1 @@
+../../../pool/sync/xfce4-appfinder-4.16.1-2-x86_64.pkg.tar.zst.sig

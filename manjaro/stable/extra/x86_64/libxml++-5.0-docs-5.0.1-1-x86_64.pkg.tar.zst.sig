@@ -1,0 +1,1 @@
+../../../pool/sync/libxml++-5.0-docs-5.0.1-1-x86_64.pkg.tar.zst.sig

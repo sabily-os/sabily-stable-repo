@@ -1,0 +1,1 @@
+../../../pool/sync/python-klein-21.8.0-4-any.pkg.tar.zst.sig

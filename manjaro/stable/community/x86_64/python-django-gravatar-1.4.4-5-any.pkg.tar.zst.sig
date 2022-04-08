@@ -1,0 +1,1 @@
+../../../pool/sync/python-django-gravatar-1.4.4-5-any.pkg.tar.zst.sig

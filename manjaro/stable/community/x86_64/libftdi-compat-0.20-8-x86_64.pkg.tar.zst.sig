@@ -1,0 +1,1 @@
+../../../pool/sync/libftdi-compat-0.20-8-x86_64.pkg.tar.zst.sig

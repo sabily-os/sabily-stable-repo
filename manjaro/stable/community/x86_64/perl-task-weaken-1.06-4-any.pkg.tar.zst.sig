@@ -1,0 +1,1 @@
+../../../pool/sync/perl-task-weaken-1.06-4-any.pkg.tar.zst.sig

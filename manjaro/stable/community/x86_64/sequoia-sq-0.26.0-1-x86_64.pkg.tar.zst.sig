@@ -1,0 +1,1 @@
+../../../pool/sync/sequoia-sq-0.26.0-1-x86_64.pkg.tar.zst.sig

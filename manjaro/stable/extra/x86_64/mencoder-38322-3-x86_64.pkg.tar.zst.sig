@@ -1,0 +1,1 @@
+../../../pool/sync/mencoder-38322-3-x86_64.pkg.tar.zst.sig

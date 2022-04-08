@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-relude-0.7.0.0-150-x86_64.pkg.tar.zst.sig

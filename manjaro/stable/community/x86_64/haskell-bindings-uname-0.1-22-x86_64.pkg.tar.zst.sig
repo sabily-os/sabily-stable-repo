@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-bindings-uname-0.1-22-x86_64.pkg.tar.zst.sig

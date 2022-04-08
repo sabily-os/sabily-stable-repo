@@ -1,0 +1,1 @@
+../../../pool/sync/geoip-database-extra-20220222-1-any.pkg.tar.zst.sig

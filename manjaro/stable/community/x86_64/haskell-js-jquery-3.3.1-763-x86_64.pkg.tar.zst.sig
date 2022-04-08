@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-js-jquery-3.3.1-763-x86_64.pkg.tar.zst.sig

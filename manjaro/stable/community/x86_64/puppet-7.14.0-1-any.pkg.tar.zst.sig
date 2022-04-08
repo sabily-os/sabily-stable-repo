@@ -1,0 +1,1 @@
+../../../pool/sync/puppet-7.14.0-1-any.pkg.tar.zst.sig

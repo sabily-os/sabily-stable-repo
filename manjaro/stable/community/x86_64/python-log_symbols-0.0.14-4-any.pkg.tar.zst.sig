@@ -1,0 +1,1 @@
+../../../pool/sync/python-log_symbols-0.0.14-4-any.pkg.tar.zst.sig

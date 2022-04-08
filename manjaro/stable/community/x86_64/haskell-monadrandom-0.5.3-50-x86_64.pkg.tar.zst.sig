@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-monadrandom-0.5.3-50-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-pylons-sphinx-themes-1.0.13-2-any.pkg.tar.zst.sig

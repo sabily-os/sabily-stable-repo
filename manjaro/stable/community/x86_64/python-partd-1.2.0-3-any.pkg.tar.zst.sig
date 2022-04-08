@@ -1,0 +1,1 @@
+../../../pool/sync/python-partd-1.2.0-3-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-xml-libxml-simple-0.99-5-any.pkg.tar.zst.sig

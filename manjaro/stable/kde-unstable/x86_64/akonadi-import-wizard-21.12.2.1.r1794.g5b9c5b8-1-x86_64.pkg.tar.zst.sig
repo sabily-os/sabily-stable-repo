@@ -1,0 +1,1 @@
+../../../pool/overlay/akonadi-import-wizard-21.12.2.1.r1794.g5b9c5b8-1-x86_64.pkg.tar.zst.sig

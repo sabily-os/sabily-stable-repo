@@ -1,0 +1,1 @@
+../../../pool/sync/python-entrypoint2-0.2.4-3-any.pkg.tar.zst.sig

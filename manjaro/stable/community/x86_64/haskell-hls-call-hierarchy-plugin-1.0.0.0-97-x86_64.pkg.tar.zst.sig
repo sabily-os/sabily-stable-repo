@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-hls-call-hierarchy-plugin-1.0.0.0-97-x86_64.pkg.tar.zst.sig

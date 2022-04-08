@@ -1,0 +1,1 @@
+../../../pool/sync/gnome-disk-utility-41.0-1-x86_64.pkg.tar.zst.sig

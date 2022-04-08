@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyspnego-0.2.0-5-any.pkg.tar.zst.sig

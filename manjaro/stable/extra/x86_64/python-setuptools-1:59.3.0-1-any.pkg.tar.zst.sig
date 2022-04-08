@@ -1,0 +1,1 @@
+../../../pool/sync/python-setuptools-1:59.3.0-1-any.pkg.tar.zst.sig

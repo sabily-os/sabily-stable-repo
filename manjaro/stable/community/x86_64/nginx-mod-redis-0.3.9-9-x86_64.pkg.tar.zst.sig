@@ -1,0 +1,1 @@
+../../../pool/sync/nginx-mod-redis-0.3.9-9-x86_64.pkg.tar.zst.sig

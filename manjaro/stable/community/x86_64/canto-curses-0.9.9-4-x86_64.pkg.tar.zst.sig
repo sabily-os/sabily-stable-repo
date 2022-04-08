@@ -1,0 +1,1 @@
+../../../pool/sync/canto-curses-0.9.9-4-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-capture-tiny-0.48-5-any.pkg.tar.zst.sig

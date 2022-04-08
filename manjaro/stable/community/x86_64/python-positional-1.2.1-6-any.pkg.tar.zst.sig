@@ -1,0 +1,1 @@
+../../../pool/sync/python-positional-1.2.1-6-any.pkg.tar.zst.sig

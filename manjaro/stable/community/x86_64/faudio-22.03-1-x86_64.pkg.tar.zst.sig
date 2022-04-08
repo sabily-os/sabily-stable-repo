@@ -1,0 +1,1 @@
+../../../pool/sync/faudio-22.03-1-x86_64.pkg.tar.zst.sig

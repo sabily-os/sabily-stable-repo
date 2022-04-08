@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-alsa-core-0.5.0.1-17-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-generic-trie-0.3.1-19-x86_64.pkg.tar.zst.sig

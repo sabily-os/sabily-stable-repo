@@ -1,0 +1,1 @@
+../../../pool/sync/perl-test-exception-0.43-7-any.pkg.tar.zst.sig

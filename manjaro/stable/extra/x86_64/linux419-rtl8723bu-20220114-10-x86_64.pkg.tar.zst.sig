@@ -1,0 +1,1 @@
+../../../pool/overlay/linux419-rtl8723bu-20220114-10-x86_64.pkg.tar.zst.sig

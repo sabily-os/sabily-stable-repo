@@ -1,0 +1,1 @@
+../../../pool/sync/libdeflate-1.8-4-x86_64.pkg.tar.zst.sig

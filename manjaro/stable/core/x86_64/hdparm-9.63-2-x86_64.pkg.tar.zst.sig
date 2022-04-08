@@ -1,0 +1,1 @@
+../../../pool/sync/hdparm-9.63-2-x86_64.pkg.tar.zst.sig

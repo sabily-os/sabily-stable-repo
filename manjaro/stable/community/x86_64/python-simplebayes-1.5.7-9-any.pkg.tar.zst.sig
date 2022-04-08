@@ -1,0 +1,1 @@
+../../../pool/sync/python-simplebayes-1.5.7-9-any.pkg.tar.zst.sig

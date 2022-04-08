@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-htf-0.14.0.6-12-x86_64.pkg.tar.zst.sig

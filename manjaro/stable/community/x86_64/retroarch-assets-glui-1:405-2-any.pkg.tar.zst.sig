@@ -1,0 +1,1 @@
+../../../pool/sync/retroarch-assets-glui-1:405-2-any.pkg.tar.zst.sig

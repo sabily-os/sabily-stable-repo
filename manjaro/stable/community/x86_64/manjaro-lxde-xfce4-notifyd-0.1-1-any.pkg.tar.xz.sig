@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-lxde-xfce4-notifyd-0.1-1-any.pkg.tar.xz.sig

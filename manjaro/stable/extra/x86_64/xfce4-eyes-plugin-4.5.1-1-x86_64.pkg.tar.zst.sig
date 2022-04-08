@@ -1,0 +1,1 @@
+../../../pool/sync/xfce4-eyes-plugin-4.5.1-1-x86_64.pkg.tar.zst.sig

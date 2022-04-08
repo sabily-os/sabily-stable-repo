@@ -1,0 +1,1 @@
+../../../pool/sync/monit-5.31.0-1-x86_64.pkg.tar.zst.sig

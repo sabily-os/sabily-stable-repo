@@ -1,0 +1,1 @@
+../../../pool/sync/sway-1:1.7-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/cups-filters-1.28.12-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/kodi-addon-game-libretro-snes9x-1.61.0.32-4-x86_64.pkg.tar.zst.sig

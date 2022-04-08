@@ -1,0 +1,1 @@
+../../../pool/sync/lsdvd-0.17-4-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-pafy-0.5.5-5-any.pkg.tar.zst.sig

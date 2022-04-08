@@ -1,0 +1,1 @@
+../../../pool/sync/python-requests-credssp-2.0.0-1-any.pkg.tar.zst.sig

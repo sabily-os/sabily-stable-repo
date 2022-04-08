@@ -1,0 +1,1 @@
+../../../pool/sync/khal-0.10.4-2-any.pkg.tar.zst.sig

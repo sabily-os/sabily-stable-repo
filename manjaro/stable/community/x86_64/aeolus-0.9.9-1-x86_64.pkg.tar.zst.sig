@@ -1,0 +1,1 @@
+../../../pool/sync/aeolus-0.9.9-1-x86_64.pkg.tar.zst.sig

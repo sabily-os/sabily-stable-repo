@@ -1,0 +1,1 @@
+../../../pool/sync/sdl_gfx-2.0.26-5-x86_64.pkg.tar.zst.sig

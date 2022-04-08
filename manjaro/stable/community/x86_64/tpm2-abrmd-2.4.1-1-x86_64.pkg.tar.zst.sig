@@ -1,0 +1,1 @@
+../../../pool/sync/tpm2-abrmd-2.4.1-1-x86_64.pkg.tar.zst.sig

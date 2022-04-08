@@ -1,0 +1,1 @@
+../../../pool/overlay/gufw-21.04.0-2-any.pkg.tar.zst.sig

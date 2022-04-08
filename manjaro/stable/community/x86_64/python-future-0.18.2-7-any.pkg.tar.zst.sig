@@ -1,0 +1,1 @@
+../../../pool/sync/python-future-0.18.2-7-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-sphinxcontrib-bibtex-2.4.1-2-any.pkg.tar.zst.sig

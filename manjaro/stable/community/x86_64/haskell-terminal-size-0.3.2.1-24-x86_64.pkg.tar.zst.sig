@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-terminal-size-0.3.2.1-24-x86_64.pkg.tar.zst.sig

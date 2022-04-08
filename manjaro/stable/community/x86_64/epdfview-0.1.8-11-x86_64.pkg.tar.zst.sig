@@ -1,0 +1,1 @@
+../../../pool/sync/epdfview-0.1.8-11-x86_64.pkg.tar.zst.sig

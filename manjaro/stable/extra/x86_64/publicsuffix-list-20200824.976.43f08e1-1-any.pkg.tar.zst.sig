@@ -1,0 +1,1 @@
+../../../pool/sync/publicsuffix-list-20200824.976.43f08e1-1-any.pkg.tar.zst.sig

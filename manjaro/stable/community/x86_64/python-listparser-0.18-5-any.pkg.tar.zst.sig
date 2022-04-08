@@ -1,0 +1,1 @@
+../../../pool/sync/python-listparser-0.18-5-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/python-dephell-discover-0.2.10-6-any.pkg.tar.zst.sig

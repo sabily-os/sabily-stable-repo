@@ -1,0 +1,1 @@
+../../../pool/sync/python-quart-0.16.2-2-any.pkg.tar.zst.sig

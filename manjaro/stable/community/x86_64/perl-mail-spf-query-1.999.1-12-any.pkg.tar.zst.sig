@@ -1,0 +1,1 @@
+../../../pool/sync/perl-mail-spf-query-1.999.1-12-any.pkg.tar.zst.sig

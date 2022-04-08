@@ -1,0 +1,1 @@
+../../../pool/sync/frogatto-data-1.3.1-5-any.pkg.tar.zst.sig

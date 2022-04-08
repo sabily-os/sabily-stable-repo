@@ -1,0 +1,1 @@
+../../../pool/sync/edk2-shell-202111-5-any.pkg.tar.zst.sig

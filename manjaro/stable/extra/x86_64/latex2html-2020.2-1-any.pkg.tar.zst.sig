@@ -1,0 +1,1 @@
+../../../pool/sync/latex2html-2020.2-1-any.pkg.tar.zst.sig

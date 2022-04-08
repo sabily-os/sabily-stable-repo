@@ -1,0 +1,1 @@
+../../../pool/sync/fig2dev-3.2.8.b-1-x86_64.pkg.tar.zst.sig

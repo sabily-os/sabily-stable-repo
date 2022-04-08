@@ -1,0 +1,1 @@
+../../../pool/sync/sdl_mixer-1.2.12-10-x86_64.pkg.tar.zst.sig

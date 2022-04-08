@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-simplescreenrecorder-0.4.3-1-x86_64.pkg.tar.zst.sig

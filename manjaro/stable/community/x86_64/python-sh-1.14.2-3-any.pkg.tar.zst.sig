@@ -1,0 +1,1 @@
+../../../pool/sync/python-sh-1.14.2-3-any.pkg.tar.zst.sig

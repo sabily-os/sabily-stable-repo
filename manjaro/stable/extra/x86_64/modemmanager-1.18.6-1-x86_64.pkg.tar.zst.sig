@@ -1,0 +1,1 @@
+../../../pool/sync/modemmanager-1.18.6-1-x86_64.pkg.tar.zst.sig

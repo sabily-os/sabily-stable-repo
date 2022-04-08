@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-vulkan-mesa-layers-21.3.7-2-x86_64.pkg.tar.zst.sig

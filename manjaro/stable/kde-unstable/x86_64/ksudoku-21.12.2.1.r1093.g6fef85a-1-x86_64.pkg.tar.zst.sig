@@ -1,0 +1,1 @@
+../../../pool/overlay/ksudoku-21.12.2.1.r1093.g6fef85a-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/fcitx-m17n-0.2.4-2-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/xplot-0.90.7.1-7-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/gnome-search-tool-3.6.0+82+g4a8f34e-2-x86_64.pkg.tar.zst.sig

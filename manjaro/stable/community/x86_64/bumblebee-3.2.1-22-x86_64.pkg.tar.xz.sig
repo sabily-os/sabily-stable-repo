@@ -1,0 +1,1 @@
+../../../pool/overlay/bumblebee-3.2.1-22-x86_64.pkg.tar.xz.sig

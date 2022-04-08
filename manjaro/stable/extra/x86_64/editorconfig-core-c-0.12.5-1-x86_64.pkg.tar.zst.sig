@@ -1,0 +1,1 @@
+../../../pool/sync/editorconfig-core-c-0.12.5-1-x86_64.pkg.tar.zst.sig

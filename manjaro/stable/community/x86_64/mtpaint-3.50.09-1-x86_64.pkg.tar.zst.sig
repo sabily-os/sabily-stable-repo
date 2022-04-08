@@ -1,0 +1,1 @@
+../../../pool/sync/mtpaint-3.50.09-1-x86_64.pkg.tar.zst.sig

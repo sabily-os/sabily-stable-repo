@@ -1,0 +1,1 @@
+../../../pool/sync/python-mocket-3.10.4-1-any.pkg.tar.zst.sig

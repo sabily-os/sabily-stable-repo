@@ -1,0 +1,1 @@
+../../../pool/sync/xfce4-genmon-plugin-4.1.1-1-x86_64.pkg.tar.zst.sig

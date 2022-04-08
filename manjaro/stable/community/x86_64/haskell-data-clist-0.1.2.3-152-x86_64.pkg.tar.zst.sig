@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-data-clist-0.1.2.3-152-x86_64.pkg.tar.zst.sig

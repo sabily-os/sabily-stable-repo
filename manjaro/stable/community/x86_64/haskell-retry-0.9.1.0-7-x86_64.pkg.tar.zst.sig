@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-retry-0.9.1.0-7-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/archlinux-appstream-data-20220211-1-any.pkg.tar.zst.sig

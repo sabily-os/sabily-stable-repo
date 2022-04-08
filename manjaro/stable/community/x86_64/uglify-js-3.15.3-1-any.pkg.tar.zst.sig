@@ -1,0 +1,1 @@
+../../../pool/sync/uglify-js-3.15.3-1-any.pkg.tar.zst.sig

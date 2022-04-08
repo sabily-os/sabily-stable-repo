@@ -1,0 +1,1 @@
+../../../pool/overlay/bootsplash-theme-kde-0.1-3-any.pkg.tar.xz.sig

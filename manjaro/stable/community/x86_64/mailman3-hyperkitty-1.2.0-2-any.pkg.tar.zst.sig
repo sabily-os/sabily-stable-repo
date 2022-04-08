@@ -1,0 +1,1 @@
+../../../pool/sync/mailman3-hyperkitty-1.2.0-2-any.pkg.tar.zst.sig

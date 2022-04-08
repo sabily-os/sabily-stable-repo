@@ -1,0 +1,1 @@
+../../../pool/sync/materia-gtk-theme-20210322-2-any.pkg.tar.zst.sig

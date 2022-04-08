@@ -1,0 +1,1 @@
+../../../pool/sync/perl-par-dist-0.51-2-any.pkg.tar.zst.sig

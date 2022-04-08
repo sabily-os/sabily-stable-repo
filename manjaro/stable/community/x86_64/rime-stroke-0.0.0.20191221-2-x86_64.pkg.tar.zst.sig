@@ -1,0 +1,1 @@
+../../../pool/sync/rime-stroke-0.0.0.20191221-2-x86_64.pkg.tar.zst.sig

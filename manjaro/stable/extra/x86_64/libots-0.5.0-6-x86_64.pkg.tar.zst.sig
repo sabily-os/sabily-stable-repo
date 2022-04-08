@@ -1,0 +1,1 @@
+../../../pool/sync/libots-0.5.0-6-x86_64.pkg.tar.zst.sig

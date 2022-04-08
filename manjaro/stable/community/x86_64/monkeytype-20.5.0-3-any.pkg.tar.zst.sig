@@ -1,0 +1,1 @@
+../../../pool/sync/monkeytype-20.5.0-3-any.pkg.tar.zst.sig

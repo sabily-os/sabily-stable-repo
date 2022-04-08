@@ -1,0 +1,1 @@
+../../../pool/sync/hunspell-ru-20210731-1-any.pkg.tar.zst.sig

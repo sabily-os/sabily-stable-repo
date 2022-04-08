@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-lift-type-0.1.0.1-4-x86_64.pkg.tar.zst.sig

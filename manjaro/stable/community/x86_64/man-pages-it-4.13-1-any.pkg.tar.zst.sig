@@ -1,0 +1,1 @@
+../../../pool/sync/man-pages-it-4.13-1-any.pkg.tar.zst.sig

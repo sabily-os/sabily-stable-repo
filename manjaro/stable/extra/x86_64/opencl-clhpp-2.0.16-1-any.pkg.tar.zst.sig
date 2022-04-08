@@ -1,0 +1,1 @@
+../../../pool/sync/opencl-clhpp-2.0.16-1-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/firefox-gnome-theme-maia-20220404-1-any.pkg.tar.zst.sig

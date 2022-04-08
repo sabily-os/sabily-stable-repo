@@ -1,0 +1,1 @@
+../../../pool/sync/perl-file-mimeinfo-0.31-1-any.pkg.tar.zst.sig

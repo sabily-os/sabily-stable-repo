@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-portaudio-1:19.7.0-1-x86_64.pkg.tar.zst.sig

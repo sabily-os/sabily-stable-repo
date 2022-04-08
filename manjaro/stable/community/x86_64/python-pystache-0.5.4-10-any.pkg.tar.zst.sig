@@ -1,0 +1,1 @@
+../../../pool/sync/python-pystache-0.5.4-10-any.pkg.tar.zst.sig

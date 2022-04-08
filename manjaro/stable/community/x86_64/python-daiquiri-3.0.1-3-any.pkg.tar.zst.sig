@@ -1,0 +1,1 @@
+../../../pool/sync/python-daiquiri-3.0.1-3-any.pkg.tar.zst.sig

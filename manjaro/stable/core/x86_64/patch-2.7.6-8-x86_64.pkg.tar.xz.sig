@@ -1,0 +1,1 @@
+../../../pool/sync/patch-2.7.6-8-x86_64.pkg.tar.xz.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/xinetd-2.3.15.4-1-x86_64.pkg.tar.zst.sig

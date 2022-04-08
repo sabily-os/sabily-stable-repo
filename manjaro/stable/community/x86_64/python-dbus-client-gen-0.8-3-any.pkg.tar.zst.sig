@@ -1,0 +1,1 @@
+../../../pool/sync/python-dbus-client-gen-0.8-3-any.pkg.tar.zst.sig

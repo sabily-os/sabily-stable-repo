@@ -1,0 +1,1 @@
+../../../pool/sync/rime-wugniu-0.0.0.20190120-1-x86_64.pkg.tar.zst.sig

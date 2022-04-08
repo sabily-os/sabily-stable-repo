@@ -1,0 +1,1 @@
+../../../pool/sync/python-argh-0.26.2-10-any.pkg.tar.zst.sig

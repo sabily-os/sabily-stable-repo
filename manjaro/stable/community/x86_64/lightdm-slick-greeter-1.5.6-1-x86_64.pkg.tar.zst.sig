@@ -1,0 +1,1 @@
+../../../pool/overlay/lightdm-slick-greeter-1.5.6-1-x86_64.pkg.tar.zst.sig

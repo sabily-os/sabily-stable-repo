@@ -1,0 +1,1 @@
+../../../pool/sync/hddtemp-0.3.beta15.53-3-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/scala-2.13.7-1-any.pkg.tar.zst.sig

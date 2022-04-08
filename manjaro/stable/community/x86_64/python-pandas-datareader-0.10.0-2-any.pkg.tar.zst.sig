@@ -1,0 +1,1 @@
+../../../pool/sync/python-pandas-datareader-0.10.0-2-any.pkg.tar.zst.sig

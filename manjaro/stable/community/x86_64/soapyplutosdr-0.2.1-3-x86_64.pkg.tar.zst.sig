@@ -1,0 +1,1 @@
+../../../pool/sync/soapyplutosdr-0.2.1-3-x86_64.pkg.tar.zst.sig

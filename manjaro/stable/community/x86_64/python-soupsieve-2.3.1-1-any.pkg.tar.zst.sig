@@ -1,0 +1,1 @@
+../../../pool/sync/python-soupsieve-2.3.1-1-any.pkg.tar.zst.sig

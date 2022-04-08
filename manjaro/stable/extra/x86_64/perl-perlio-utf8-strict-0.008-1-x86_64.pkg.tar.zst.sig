@@ -1,0 +1,1 @@
+../../../pool/sync/perl-perlio-utf8-strict-0.008-1-x86_64.pkg.tar.zst.sig

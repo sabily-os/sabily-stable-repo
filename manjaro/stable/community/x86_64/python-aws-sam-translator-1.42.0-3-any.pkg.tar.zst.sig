@@ -1,0 +1,1 @@
+../../../pool/sync/python-aws-sam-translator-1.42.0-3-any.pkg.tar.zst.sig

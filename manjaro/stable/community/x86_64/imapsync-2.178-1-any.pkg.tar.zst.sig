@@ -1,0 +1,1 @@
+../../../pool/sync/imapsync-2.178-1-any.pkg.tar.zst.sig

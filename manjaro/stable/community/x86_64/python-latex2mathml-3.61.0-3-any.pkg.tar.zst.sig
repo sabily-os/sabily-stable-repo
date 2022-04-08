@@ -1,0 +1,1 @@
+../../../pool/sync/python-latex2mathml-3.61.0-3-any.pkg.tar.zst.sig

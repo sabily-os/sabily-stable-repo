@@ -1,0 +1,1 @@
+../../../pool/sync/clxclient-3.9.2-4-x86_64.pkg.tar.zst.sig

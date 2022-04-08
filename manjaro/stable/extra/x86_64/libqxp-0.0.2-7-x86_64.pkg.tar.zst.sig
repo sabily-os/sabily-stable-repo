@@ -1,0 +1,1 @@
+../../../pool/sync/libqxp-0.0.2-7-x86_64.pkg.tar.zst.sig

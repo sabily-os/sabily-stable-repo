@@ -1,0 +1,1 @@
+../../../pool/sync/cutefish-filemanager-0.8-1-x86_64.pkg.tar.zst.sig

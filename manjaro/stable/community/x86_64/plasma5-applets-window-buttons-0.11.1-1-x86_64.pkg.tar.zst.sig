@@ -1,0 +1,1 @@
+../../../pool/sync/plasma5-applets-window-buttons-0.11.1-1-x86_64.pkg.tar.zst.sig

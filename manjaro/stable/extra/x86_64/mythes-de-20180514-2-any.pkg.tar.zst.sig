@@ -1,0 +1,1 @@
+../../../pool/sync/mythes-de-20180514-2-any.pkg.tar.zst.sig

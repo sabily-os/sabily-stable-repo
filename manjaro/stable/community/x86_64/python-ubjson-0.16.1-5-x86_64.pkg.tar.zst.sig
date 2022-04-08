@@ -1,0 +1,1 @@
+../../../pool/sync/python-ubjson-0.16.1-5-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/openscenegraph-3.6.5-11-x86_64.pkg.tar.zst.sig

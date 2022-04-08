@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libudev0-shim-1-4-x86_64.pkg.tar.xz.sig

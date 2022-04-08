@@ -1,0 +1,1 @@
+../../../pool/sync/svt-av1-0.9.0-2-x86_64.pkg.tar.zst.sig

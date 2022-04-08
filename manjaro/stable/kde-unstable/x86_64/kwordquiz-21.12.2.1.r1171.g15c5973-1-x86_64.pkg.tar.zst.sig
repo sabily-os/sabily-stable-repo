@@ -1,0 +1,1 @@
+../../../pool/overlay/kwordquiz-21.12.2.1.r1171.g15c5973-1-x86_64.pkg.tar.zst.sig

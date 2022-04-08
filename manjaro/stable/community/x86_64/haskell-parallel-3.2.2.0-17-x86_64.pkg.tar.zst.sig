@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-parallel-3.2.2.0-17-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-httpclient-2.8.3-9-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/goffice-0.10.51-1-x86_64.pkg.tar.zst.sig

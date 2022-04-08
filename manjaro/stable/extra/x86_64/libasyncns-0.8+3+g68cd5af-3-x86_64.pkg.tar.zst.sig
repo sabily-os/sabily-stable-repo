@@ -1,0 +1,1 @@
+../../../pool/sync/libasyncns-0.8+3+g68cd5af-3-x86_64.pkg.tar.zst.sig

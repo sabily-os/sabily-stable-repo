@@ -1,0 +1,1 @@
+../../../pool/sync/python-cogapp-3.3.0-1-any.pkg.tar.zst.sig

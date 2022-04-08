@@ -1,0 +1,1 @@
+../../../pool/sync/zsnes-2.0.9-1-x86_64.pkg.tar.zst.sig

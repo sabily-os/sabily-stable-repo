@@ -1,0 +1,1 @@
+../../../pool/sync/mousepad-0.5.8-1-x86_64.pkg.tar.zst.sig

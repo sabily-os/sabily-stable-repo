@@ -1,0 +1,1 @@
+../../../pool/sync/colordiff-1.0.19-1-any.pkg.tar.zst.sig

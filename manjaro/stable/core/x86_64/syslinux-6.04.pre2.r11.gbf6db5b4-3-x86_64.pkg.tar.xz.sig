@@ -1,0 +1,1 @@
+../../../pool/sync/syslinux-6.04.pre2.r11.gbf6db5b4-3-x86_64.pkg.tar.xz.sig

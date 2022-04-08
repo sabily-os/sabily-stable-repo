@@ -1,0 +1,1 @@
+../../../pool/sync/pingus-0.7.6-27-x86_64.pkg.tar.zst.sig

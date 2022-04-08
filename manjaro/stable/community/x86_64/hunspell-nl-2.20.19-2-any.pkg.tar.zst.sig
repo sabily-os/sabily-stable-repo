@@ -1,0 +1,1 @@
+../../../pool/sync/hunspell-nl-2.20.19-2-any.pkg.tar.zst.sig

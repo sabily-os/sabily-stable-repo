@@ -1,0 +1,1 @@
+../../../pool/sync/gentium-plus-font-6.101-1-any.pkg.tar.zst.sig

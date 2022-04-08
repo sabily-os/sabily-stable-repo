@@ -1,0 +1,1 @@
+../../../pool/sync/perl-text-query-0.09-4-any.pkg.tar.zst.sig

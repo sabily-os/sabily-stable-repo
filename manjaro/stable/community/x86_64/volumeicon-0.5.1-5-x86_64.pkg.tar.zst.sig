@@ -1,0 +1,1 @@
+../../../pool/sync/volumeicon-0.5.1-5-x86_64.pkg.tar.zst.sig

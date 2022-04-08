@@ -1,0 +1,1 @@
+../../../pool/sync/perl-io-dirent-0.05-14-x86_64.pkg.tar.zst.sig

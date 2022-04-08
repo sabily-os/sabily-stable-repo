@@ -1,0 +1,1 @@
+../../../pool/sync/perl-digest-nilsimsa-0.06-21-x86_64.pkg.tar.zst.sig

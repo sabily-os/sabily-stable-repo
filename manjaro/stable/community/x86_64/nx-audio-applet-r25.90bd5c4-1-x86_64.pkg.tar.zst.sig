@@ -1,0 +1,1 @@
+../../../pool/overlay/nx-audio-applet-r25.90bd5c4-1-x86_64.pkg.tar.zst.sig

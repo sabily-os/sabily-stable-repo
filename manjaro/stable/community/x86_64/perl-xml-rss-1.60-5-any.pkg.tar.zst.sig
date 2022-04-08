@@ -1,0 +1,1 @@
+../../../pool/sync/perl-xml-rss-1.60-5-any.pkg.tar.zst.sig

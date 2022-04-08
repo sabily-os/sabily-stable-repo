@@ -1,0 +1,1 @@
+../../../pool/sync/lua51-mediator-1.1.2-6-any.pkg.tar.zst.sig

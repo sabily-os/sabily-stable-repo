@@ -1,0 +1,1 @@
+../../../pool/sync/wingpanel-indicator-sound-6.0.1-2-x86_64.pkg.tar.zst.sig

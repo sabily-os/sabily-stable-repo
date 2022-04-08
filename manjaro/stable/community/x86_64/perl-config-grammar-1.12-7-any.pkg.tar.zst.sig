@@ -1,0 +1,1 @@
+../../../pool/sync/perl-config-grammar-1.12-7-any.pkg.tar.zst.sig

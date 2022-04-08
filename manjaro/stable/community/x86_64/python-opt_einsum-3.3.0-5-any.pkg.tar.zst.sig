@@ -1,0 +1,1 @@
+../../../pool/sync/python-opt_einsum-3.3.0-5-any.pkg.tar.zst.sig

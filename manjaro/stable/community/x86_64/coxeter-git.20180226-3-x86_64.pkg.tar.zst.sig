@@ -1,0 +1,1 @@
+../../../pool/sync/coxeter-git.20180226-3-x86_64.pkg.tar.zst.sig

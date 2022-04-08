@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-classy-prelude-1.5.0-216-x86_64.pkg.tar.zst.sig

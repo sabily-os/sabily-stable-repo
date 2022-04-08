@@ -1,0 +1,1 @@
+../../../pool/sync/pinta-2.0.1-1-any.pkg.tar.zst.sig

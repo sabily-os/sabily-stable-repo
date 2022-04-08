@@ -1,0 +1,1 @@
+../../../pool/sync/sound-theme-freedesktop-0.8-4-any.pkg.tar.zst.sig

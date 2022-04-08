@@ -1,0 +1,1 @@
+../../../pool/overlay/krecorder-21.05-1-x86_64.pkg.tar.zst.sig

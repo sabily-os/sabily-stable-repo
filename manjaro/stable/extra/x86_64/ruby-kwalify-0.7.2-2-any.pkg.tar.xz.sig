@@ -1,0 +1,1 @@
+../../../pool/overlay/ruby-kwalify-0.7.2-2-any.pkg.tar.xz.sig

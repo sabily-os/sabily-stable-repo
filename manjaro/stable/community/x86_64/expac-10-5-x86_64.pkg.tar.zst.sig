@@ -1,0 +1,1 @@
+../../../pool/sync/expac-10-5-x86_64.pkg.tar.zst.sig

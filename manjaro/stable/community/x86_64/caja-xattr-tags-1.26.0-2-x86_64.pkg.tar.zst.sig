@@ -1,0 +1,1 @@
+../../../pool/sync/caja-xattr-tags-1.26.0-2-x86_64.pkg.tar.zst.sig

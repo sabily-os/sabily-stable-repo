@@ -1,0 +1,1 @@
+../../../pool/sync/python-zope-testing-4.9-4-any.pkg.tar.zst.sig

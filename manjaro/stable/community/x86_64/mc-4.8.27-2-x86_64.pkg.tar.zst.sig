@@ -1,0 +1,1 @@
+../../../pool/sync/mc-4.8.27-2-x86_64.pkg.tar.zst.sig

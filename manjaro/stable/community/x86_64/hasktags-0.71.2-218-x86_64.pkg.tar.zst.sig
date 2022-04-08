@@ -1,0 +1,1 @@
+../../../pool/sync/hasktags-0.71.2-218-x86_64.pkg.tar.zst.sig

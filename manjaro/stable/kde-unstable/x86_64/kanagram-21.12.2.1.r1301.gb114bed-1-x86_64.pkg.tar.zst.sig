@@ -1,0 +1,1 @@
+../../../pool/overlay/kanagram-21.12.2.1.r1301.gb114bed-1-x86_64.pkg.tar.zst.sig

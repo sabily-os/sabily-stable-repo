@@ -1,0 +1,1 @@
+../../../pool/sync/swi-prolog-8.4.2-1-x86_64.pkg.tar.zst.sig

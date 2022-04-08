@@ -1,0 +1,1 @@
+../../../pool/sync/warpinator-1.2.9-1-any.pkg.tar.zst.sig

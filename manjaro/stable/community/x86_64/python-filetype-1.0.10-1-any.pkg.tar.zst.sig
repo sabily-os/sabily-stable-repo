@@ -1,0 +1,1 @@
+../../../pool/sync/python-filetype-1.0.10-1-any.pkg.tar.zst.sig

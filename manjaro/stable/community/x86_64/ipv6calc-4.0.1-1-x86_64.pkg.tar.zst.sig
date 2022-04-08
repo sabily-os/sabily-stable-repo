@@ -1,0 +1,1 @@
+../../../pool/sync/ipv6calc-4.0.1-1-x86_64.pkg.tar.zst.sig

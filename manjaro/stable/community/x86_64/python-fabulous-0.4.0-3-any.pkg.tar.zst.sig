@@ -1,0 +1,1 @@
+../../../pool/sync/python-fabulous-0.4.0-3-any.pkg.tar.zst.sig

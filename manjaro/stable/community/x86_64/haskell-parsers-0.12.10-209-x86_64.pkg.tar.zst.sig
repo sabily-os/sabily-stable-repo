@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-parsers-0.12.10-209-x86_64.pkg.tar.zst.sig

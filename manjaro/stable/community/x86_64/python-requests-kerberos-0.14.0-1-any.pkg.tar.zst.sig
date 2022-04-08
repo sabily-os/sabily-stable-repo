@@ -1,0 +1,1 @@
+../../../pool/sync/python-requests-kerberos-0.14.0-1-any.pkg.tar.zst.sig

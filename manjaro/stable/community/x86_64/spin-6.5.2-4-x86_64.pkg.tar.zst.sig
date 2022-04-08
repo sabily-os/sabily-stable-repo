@@ -1,0 +1,1 @@
+../../../pool/sync/spin-6.5.2-4-x86_64.pkg.tar.zst.sig

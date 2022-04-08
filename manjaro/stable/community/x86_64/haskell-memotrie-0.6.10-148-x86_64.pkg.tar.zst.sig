@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-memotrie-0.6.10-148-x86_64.pkg.tar.zst.sig

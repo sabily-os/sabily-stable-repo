@@ -1,0 +1,1 @@
+../../../pool/sync/mcomix-1.3.0.dev0-6-any.pkg.tar.zst.sig

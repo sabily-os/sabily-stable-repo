@@ -1,0 +1,1 @@
+../../../pool/overlay/gtksourceview-pkgbuild-4+1+g69f930f-2-any.pkg.tar.zst.sig

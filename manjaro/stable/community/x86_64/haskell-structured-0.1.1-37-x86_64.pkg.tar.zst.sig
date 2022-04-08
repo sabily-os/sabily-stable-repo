@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-structured-0.1.1-37-x86_64.pkg.tar.zst.sig

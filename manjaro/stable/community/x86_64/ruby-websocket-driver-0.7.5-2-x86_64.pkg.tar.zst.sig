@@ -1,0 +1,1 @@
+../../../pool/sync/ruby-websocket-driver-0.7.5-2-x86_64.pkg.tar.zst.sig

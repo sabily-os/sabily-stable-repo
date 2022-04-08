@@ -1,0 +1,1 @@
+../../../pool/sync/golang-github-linuxdeepin-go-x11-client-0.6.7-2-any.pkg.tar.zst.sig

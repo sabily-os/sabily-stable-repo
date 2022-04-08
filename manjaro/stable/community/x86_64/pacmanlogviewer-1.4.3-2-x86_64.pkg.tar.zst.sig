@@ -1,0 +1,1 @@
+../../../pool/sync/pacmanlogviewer-1.4.3-2-x86_64.pkg.tar.zst.sig

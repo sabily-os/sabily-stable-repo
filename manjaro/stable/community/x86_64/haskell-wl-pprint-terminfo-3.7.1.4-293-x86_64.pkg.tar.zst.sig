@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-wl-pprint-terminfo-3.7.1.4-293-x86_64.pkg.tar.zst.sig

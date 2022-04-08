@@ -1,0 +1,1 @@
+../../../pool/sync/hid-tools-0.2-7-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/perl-locale-maketext-lexicon-1.00-4-any.pkg.tar.zst.sig

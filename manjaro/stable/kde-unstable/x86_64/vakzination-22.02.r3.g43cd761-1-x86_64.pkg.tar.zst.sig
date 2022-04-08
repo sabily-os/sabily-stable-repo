@@ -1,0 +1,1 @@
+../../../pool/overlay/vakzination-22.02.r3.g43cd761-1-x86_64.pkg.tar.zst.sig

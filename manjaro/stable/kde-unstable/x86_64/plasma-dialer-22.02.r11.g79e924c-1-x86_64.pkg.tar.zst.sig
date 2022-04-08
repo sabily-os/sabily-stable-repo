@@ -1,0 +1,1 @@
+../../../pool/overlay/plasma-dialer-22.02.r11.g79e924c-1-x86_64.pkg.tar.zst.sig

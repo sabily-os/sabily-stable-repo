@@ -1,0 +1,1 @@
+../../../pool/sync/udisks2-qt5-5.0.6-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/overlay/lottie-qml-r24.0db824c-1-x86_64.pkg.tar.zst.sig

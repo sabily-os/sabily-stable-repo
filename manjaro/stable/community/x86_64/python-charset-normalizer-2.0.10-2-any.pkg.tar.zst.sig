@@ -1,0 +1,1 @@
+../../../pool/sync/python-charset-normalizer-2.0.10-2-any.pkg.tar.zst.sig

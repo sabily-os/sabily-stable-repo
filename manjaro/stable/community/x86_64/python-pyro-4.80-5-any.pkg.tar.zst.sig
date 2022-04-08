@@ -1,0 +1,1 @@
+../../../pool/sync/python-pyro-4.80-5-any.pkg.tar.zst.sig

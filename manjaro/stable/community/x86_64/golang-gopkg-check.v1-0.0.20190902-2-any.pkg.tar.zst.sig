@@ -1,0 +1,1 @@
+../../../pool/sync/golang-gopkg-check.v1-0.0.20190902-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/gambas3-gb-db-postgresql-3.16.3-8-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/dokuwiki-20200729-3-any.pkg.tar.zst.sig

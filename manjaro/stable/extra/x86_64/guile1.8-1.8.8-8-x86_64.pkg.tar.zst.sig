@@ -1,0 +1,1 @@
+../../../pool/sync/guile1.8-1.8.8-8-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/otf-ipaexfont-004.01-2-any.pkg.tar.zst.sig

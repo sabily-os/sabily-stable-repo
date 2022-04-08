@@ -1,0 +1,1 @@
+../../../pool/overlay/xfce4-pulseaudio-plugin-0.4.3-1.1-x86_64.pkg.tar.zst.sig

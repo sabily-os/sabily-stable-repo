@@ -1,0 +1,1 @@
+../../../pool/sync/mandoc-1.14.6-1-x86_64.pkg.tar.zst.sig

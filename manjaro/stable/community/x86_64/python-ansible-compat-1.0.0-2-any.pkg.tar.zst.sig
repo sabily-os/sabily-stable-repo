@@ -1,0 +1,1 @@
+../../../pool/sync/python-ansible-compat-1.0.0-2-any.pkg.tar.zst.sig

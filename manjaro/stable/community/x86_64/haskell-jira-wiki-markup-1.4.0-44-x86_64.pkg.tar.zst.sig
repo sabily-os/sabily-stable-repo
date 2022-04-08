@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-jira-wiki-markup-1.4.0-44-x86_64.pkg.tar.zst.sig

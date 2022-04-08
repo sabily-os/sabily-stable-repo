@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-icons-20191015-1-any.pkg.tar.xz.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/hamlib-3.3-12-x86_64.pkg.tar.zst.sig

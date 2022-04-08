@@ -1,0 +1,1 @@
+../../../pool/sync/python-xpybutil-0.0.6-4-any.pkg.tar.zst.sig

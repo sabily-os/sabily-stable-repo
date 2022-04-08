@@ -1,0 +1,1 @@
+../../../pool/sync/libgphoto2-2.5.29-1-x86_64.pkg.tar.zst.sig

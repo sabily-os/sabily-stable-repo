@@ -1,0 +1,1 @@
+../../../pool/overlay/i3status-manjaro-2.13-3-x86_64.pkg.tar.xz.sig

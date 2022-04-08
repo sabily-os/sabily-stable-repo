@@ -1,0 +1,1 @@
+../../../pool/sync/python-pysmi-0.3.4-8-any.pkg.tar.zst.sig

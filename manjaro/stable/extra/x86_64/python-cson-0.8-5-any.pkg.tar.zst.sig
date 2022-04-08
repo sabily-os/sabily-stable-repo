@@ -1,0 +1,1 @@
+../../../pool/sync/python-cson-0.8-5-any.pkg.tar.zst.sig

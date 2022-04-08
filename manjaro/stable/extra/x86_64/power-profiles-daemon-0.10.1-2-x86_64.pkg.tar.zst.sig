@@ -1,0 +1,1 @@
+../../../pool/sync/power-profiles-daemon-0.10.1-2-x86_64.pkg.tar.zst.sig

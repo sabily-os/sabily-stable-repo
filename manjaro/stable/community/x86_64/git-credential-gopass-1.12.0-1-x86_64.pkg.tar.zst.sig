@@ -1,0 +1,1 @@
+../../../pool/sync/git-credential-gopass-1.12.0-1-x86_64.pkg.tar.zst.sig

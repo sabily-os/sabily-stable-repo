@@ -1,0 +1,1 @@
+../../../pool/sync/gamescope-3.11.22-2-x86_64.pkg.tar.zst.sig

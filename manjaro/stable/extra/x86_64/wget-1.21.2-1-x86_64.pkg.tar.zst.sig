@@ -1,0 +1,1 @@
+../../../pool/sync/wget-1.21.2-1-x86_64.pkg.tar.zst.sig

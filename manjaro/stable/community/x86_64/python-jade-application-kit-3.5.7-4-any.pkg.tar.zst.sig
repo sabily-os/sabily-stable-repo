@@ -1,0 +1,1 @@
+../../../pool/overlay/python-jade-application-kit-3.5.7-4-any.pkg.tar.zst.sig

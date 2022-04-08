@@ -1,0 +1,1 @@
+../../../pool/sync/perl-pod-spell-1.20-4-any.pkg.tar.zst.sig

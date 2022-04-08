@@ -1,0 +1,1 @@
+../../../pool/sync/rime-cantonese-0.0.0.20211001-1-x86_64.pkg.tar.zst.sig

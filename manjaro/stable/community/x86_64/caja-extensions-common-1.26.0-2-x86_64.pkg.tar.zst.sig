@@ -1,0 +1,1 @@
+../../../pool/sync/caja-extensions-common-1.26.0-2-x86_64.pkg.tar.zst.sig

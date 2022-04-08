@@ -1,0 +1,1 @@
+../../../pool/sync/dosbox-0.74.3-2-x86_64.pkg.tar.zst.sig

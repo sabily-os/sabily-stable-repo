@@ -1,0 +1,1 @@
+../../../pool/sync/qmc2-0.195-3-x86_64.pkg.tar.zst.sig

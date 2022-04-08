@@ -1,0 +1,1 @@
+../../../pool/sync/xfce4-dev-tools-4.16.0-1-x86_64.pkg.tar.zst.sig

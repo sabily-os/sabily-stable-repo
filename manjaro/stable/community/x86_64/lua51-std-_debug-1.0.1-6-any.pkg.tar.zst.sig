@@ -1,0 +1,1 @@
+../../../pool/sync/lua51-std-_debug-1.0.1-6-any.pkg.tar.zst.sig

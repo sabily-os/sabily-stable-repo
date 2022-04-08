@@ -1,0 +1,1 @@
+../../../pool/sync/python-wikipedia-1.4.0-9-any.pkg.tar.zst.sig

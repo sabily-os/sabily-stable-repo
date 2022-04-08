@@ -1,0 +1,1 @@
+../../../pool/sync/cuneiform-1.1.0-21-x86_64.pkg.tar.zst.sig

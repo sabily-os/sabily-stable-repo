@@ -1,0 +1,1 @@
+../../../pool/sync/gnome-common-3.18.0-4-any.pkg.tar.zst.sig

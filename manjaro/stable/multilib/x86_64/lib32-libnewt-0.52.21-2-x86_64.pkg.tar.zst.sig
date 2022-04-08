@@ -1,0 +1,1 @@
+../../../pool/sync/lib32-libnewt-0.52.21-2-x86_64.pkg.tar.zst.sig

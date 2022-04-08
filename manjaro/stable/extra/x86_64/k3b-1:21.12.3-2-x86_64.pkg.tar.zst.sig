@@ -1,0 +1,1 @@
+../../../pool/sync/k3b-1:21.12.3-2-x86_64.pkg.tar.zst.sig

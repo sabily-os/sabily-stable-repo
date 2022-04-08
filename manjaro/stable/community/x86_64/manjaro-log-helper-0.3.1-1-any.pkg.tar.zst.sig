@@ -1,0 +1,1 @@
+../../../pool/overlay/manjaro-log-helper-0.3.1-1-any.pkg.tar.zst.sig

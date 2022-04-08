@@ -1,0 +1,1 @@
+../../../pool/sync/mephisto.lv2-0.16.0-1-x86_64.pkg.tar.zst.sig

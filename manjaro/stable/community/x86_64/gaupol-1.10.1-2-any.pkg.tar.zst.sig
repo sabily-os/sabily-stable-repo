@@ -1,0 +1,1 @@
+../../../pool/sync/gaupol-1.10.1-2-any.pkg.tar.zst.sig

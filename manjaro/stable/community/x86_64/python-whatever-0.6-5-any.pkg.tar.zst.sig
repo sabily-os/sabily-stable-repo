@@ -1,0 +1,1 @@
+../../../pool/sync/python-whatever-0.6-5-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/lxlauncher-0.2.5-4-x86_64.pkg.tar.zst.sig

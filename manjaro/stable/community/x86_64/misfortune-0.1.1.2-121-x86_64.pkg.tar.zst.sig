@@ -1,0 +1,1 @@
+../../../pool/sync/misfortune-0.1.1.2-121-x86_64.pkg.tar.zst.sig

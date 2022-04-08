@@ -1,0 +1,1 @@
+../../../pool/sync/bash-bats-assert-0.3.0-3-any.pkg.tar.zst.sig

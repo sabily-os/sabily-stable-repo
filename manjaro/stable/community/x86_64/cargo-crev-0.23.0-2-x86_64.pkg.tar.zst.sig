@@ -1,0 +1,1 @@
+../../../pool/sync/cargo-crev-0.23.0-2-x86_64.pkg.tar.zst.sig

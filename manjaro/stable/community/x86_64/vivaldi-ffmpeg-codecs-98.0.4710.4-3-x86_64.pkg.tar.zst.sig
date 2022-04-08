@@ -1,0 +1,1 @@
+../../../pool/sync/vivaldi-ffmpeg-codecs-98.0.4710.4-3-x86_64.pkg.tar.zst.sig

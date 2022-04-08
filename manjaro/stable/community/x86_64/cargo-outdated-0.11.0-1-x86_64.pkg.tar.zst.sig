@@ -1,0 +1,1 @@
+../../../pool/sync/cargo-outdated-0.11.0-1-x86_64.pkg.tar.zst.sig

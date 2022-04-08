@@ -1,0 +1,1 @@
+../../../pool/sync/geany-plugins-1.38-3-x86_64.pkg.tar.zst.sig

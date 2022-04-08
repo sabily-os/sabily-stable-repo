@@ -1,0 +1,1 @@
+../../../pool/sync/urlwatch-2.24-2-any.pkg.tar.zst.sig

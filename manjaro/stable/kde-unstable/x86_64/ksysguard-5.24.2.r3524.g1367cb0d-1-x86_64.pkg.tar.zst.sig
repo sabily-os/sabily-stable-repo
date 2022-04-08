@@ -1,0 +1,1 @@
+../../../pool/overlay/ksysguard-5.24.2.r3524.g1367cb0d-1-x86_64.pkg.tar.zst.sig

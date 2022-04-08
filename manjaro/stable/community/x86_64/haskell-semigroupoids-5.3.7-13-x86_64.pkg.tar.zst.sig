@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-semigroupoids-5.3.7-13-x86_64.pkg.tar.zst.sig

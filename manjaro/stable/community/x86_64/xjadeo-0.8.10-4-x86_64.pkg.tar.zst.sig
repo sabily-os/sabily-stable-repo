@@ -1,0 +1,1 @@
+../../../pool/sync/xjadeo-0.8.10-4-x86_64.pkg.tar.zst.sig

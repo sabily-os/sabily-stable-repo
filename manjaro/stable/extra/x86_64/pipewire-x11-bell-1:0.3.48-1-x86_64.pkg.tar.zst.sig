@@ -1,0 +1,1 @@
+../../../pool/sync/pipewire-x11-bell-1:0.3.48-1-x86_64.pkg.tar.zst.sig

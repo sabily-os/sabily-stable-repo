@@ -1,0 +1,1 @@
+../../../pool/sync/ttf-dejavu-2.37+18+g9b5d1b2f-3-any.pkg.tar.zst.sig

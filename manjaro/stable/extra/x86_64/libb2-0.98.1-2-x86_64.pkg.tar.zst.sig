@@ -1,0 +1,1 @@
+../../../pool/sync/libb2-0.98.1-2-x86_64.pkg.tar.zst.sig

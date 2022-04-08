@@ -1,0 +1,1 @@
+../../../pool/sync/sugar-activity-log-42-1-any.pkg.tar.zst.sig

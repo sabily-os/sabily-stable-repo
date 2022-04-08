@@ -1,0 +1,1 @@
+../../../pool/sync/python-pivy-0.6.6-4-x86_64.pkg.tar.zst.sig

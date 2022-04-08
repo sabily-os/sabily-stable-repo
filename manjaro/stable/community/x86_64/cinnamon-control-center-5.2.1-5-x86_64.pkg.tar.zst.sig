@@ -1,0 +1,1 @@
+../../../pool/overlay/cinnamon-control-center-5.2.1-5-x86_64.pkg.tar.zst.sig

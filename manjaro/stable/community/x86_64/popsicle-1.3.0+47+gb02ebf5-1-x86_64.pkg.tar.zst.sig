@@ -1,0 +1,1 @@
+../../../pool/overlay/popsicle-1.3.0+47+gb02ebf5-1-x86_64.pkg.tar.zst.sig

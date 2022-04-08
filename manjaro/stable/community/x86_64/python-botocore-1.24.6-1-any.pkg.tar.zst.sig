@@ -1,0 +1,1 @@
+../../../pool/sync/python-botocore-1.24.6-1-any.pkg.tar.zst.sig

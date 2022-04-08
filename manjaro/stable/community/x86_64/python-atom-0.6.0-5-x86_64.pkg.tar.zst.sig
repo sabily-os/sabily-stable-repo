@@ -1,0 +1,1 @@
+../../../pool/sync/python-atom-0.6.0-5-x86_64.pkg.tar.zst.sig

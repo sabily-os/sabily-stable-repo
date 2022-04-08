@@ -1,0 +1,1 @@
+../../../pool/overlay/grub-theme-live-manjaro-dev-18.0-3-any.pkg.tar.xz.sig

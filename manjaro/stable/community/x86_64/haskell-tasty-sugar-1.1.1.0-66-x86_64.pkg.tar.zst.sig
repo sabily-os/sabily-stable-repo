@@ -1,0 +1,1 @@
+../../../pool/sync/haskell-tasty-sugar-1.1.1.0-66-x86_64.pkg.tar.zst.sig

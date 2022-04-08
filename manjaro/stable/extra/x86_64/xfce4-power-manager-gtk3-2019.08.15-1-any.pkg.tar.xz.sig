@@ -1,0 +1,1 @@
+../../../pool/overlay/xfce4-power-manager-gtk3-2019.08.15-1-any.pkg.tar.xz.sig

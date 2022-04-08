@@ -1,0 +1,1 @@
+../../../pool/sync/sqlfluff-0.11.0-1-any.pkg.tar.zst.sig

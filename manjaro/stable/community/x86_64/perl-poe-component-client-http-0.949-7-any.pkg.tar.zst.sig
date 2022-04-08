@@ -1,0 +1,1 @@
+../../../pool/sync/perl-poe-component-client-http-0.949-7-any.pkg.tar.zst.sig

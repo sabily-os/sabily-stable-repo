@@ -1,0 +1,1 @@
+../../../pool/sync/mlite-0.3.8-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/deepin-shortcut-viewer-5.0.3-1-x86_64.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../../pool/sync/gfeeds-0.16.2-4-any.pkg.tar.zst.sig

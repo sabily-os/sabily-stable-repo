@@ -1,0 +1,1 @@
+../../../pool/sync/ttf-hannom-2005-6-any.pkg.tar.zst.sig

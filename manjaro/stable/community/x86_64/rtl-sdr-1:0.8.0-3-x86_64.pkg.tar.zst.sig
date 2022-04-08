@@ -1,0 +1,1 @@
+../../../pool/sync/rtl-sdr-1:0.8.0-3-x86_64.pkg.tar.zst.sig

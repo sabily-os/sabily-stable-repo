@@ -1,0 +1,1 @@
+../../../pool/sync/perl-xml-regexp-0.04-5-any.pkg.tar.zst.sig

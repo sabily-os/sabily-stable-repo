@@ -1,0 +1,1 @@
+../../../pool/sync/hunspell-ro-3.3.10-6-any.pkg.tar.zst.sig

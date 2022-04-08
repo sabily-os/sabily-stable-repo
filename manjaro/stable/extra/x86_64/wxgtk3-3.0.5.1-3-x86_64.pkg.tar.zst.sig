@@ -1,0 +1,1 @@
+../../../pool/sync/wxgtk3-3.0.5.1-3-x86_64.pkg.tar.zst.sig
